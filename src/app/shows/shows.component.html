@@ -1,0 +1,49 @@
+<div class="container">
+    <div class="card p-4">
+        <h4>Movies</h4>
+        <div class="list-group">
+            <a href="javascript: void(0)" class="list-group-item list-group-item-action"
+                *ngFor="let item of shows; let i = index" data-bs-toggle="collapse" href="#collapse{{i}}" role="button"
+                aria-expanded="false" [attr.aria-controls]="'collapse' + i">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">{{item.titles[language]}}</h5>
+                    <small class="text-muted">{{item.seasons?.length}} season(s)</small>
+                </div>
+                <p class="mb-1">Released {{item.releaseDate | date:'dd/MM/yyyy'}}</p>
+                <small class="text-muted">
+                    Release order: {{item.orders.releaseOrder}}
+                    <br />
+                    Chronological order: {{item.orders.chronologicalOrder}}
+                </small>
+                <div class="collapse" id="collapse{{i}}">
+                    <!-- <div class="card card-body"> -->
+                        <a href="javascript: void(0)" class="list-group-item list-group-item-action"
+                            *ngFor="let season of item.seasons; let ii = index" data-bs-toggle="collapse"
+                            href="#collapse2{{ii}}" role="button" aria-expanded="false"
+                            [attr.aria-controls]="'collapse2' + ii">
+                            Season {{(ii+1)}}
+                            <div class="collapse" id="collapse2{{ii}}">
+                                <div class="list-group">
+                                    <ng-container *ngFor="let episode of season.episodes">
+                                        <a href="javascript: void(0)" class="list-group-item list-group-item-action">
+                                            <div class="d-flex w-100 justify-content-between">
+                                                <h5 class="mb-1">{{episode.titles[language]}}</h5>
+                                                <small class="text-muted">{{episode.runtime.fullForm}}</small>
+                                            </div>
+                                            <p class="mb-1">Released {{episode?.releaseDate | date:'dd/MM/yyyy'}}</p>
+                                            <small class="text-muted">
+                                                Release order: {{episode.orders.releaseOrder}}
+                                                <br />
+                                                Chronological order: {{episode.orders.chronologicalOrder}}
+                                            </small>
+                                        </a>
+                                    </ng-container>
+                                </div>
+                            </div>
+                        </a>
+                    <!-- </div> -->
+                </div>
+            </a>
+        </div>
+    </div>
+</div>

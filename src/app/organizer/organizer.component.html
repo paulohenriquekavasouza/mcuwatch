@@ -1,0 +1,117 @@
+<div class="container">
+    <div class="card p-4">
+        <h4>Organizer</h4>
+
+        What you want to watch?
+        <div class="form-group">
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="movies" checked [(ngModel)]="moviesChecked">
+                <label class="form-check-label" for="movies">Movies</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="shows" [(ngModel)]="showsChecked">
+                <label class="form-check-label" for="shows">Canon Shows¹</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="oneshots" [(ngModel)]="oneShotsChecked">
+                <label class="form-check-label" for="oneshots">One-Shots²</label>
+            </div>
+            <!-- <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="series2" value="3">
+                <label class="form-check-label" for="series2">Uncanon Series³</label>
+            </div> -->
+        </div>
+        <!-- <ng-container *ngFor="let item of movies">
+            {{item.titles[language]}} - {{item.orders.releaseOrder}} - {{item.orders.chronologicalOrder}} - {{item.runtime.fullForm}}<br />
+        </ng-container>
+        <br />
+        <ng-container *ngFor="let item of shows">
+            {{item.titles[language]}} - {{item.orders.releaseOrder}} - {{item.orders.chronologicalOrder}}<br />
+        </ng-container>
+        <br />
+        <ng-container *ngFor="let item of oneshots">
+            {{item.titles[language]}} - {{item.orders.releaseOrder}} - {{item.orders.chronologicalOrder}}<br />
+        </ng-container> -->
+
+        <div class="mt-2">
+            Which order you want to watch?
+            <div class="form-group">
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="releaseOrder" [value]="1"
+                        [(ngModel)]="isChronological" name="order">
+                    <label class="form-check-label" for="releaseOrder">Release Date</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="chronologicalOrder" [value]="2"
+                        [(ngModel)]="isChronological" name="order">
+                    <label class="form-check-label" for="chronologicalOrder">Chronological Order</label>
+                </div>
+            </div>
+        </div>
+        <div class="mt-2">
+            When you want to watch?
+            <div class="form-group">
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="frequency1" [value]="1" [(ngModel)]="frequency"
+                        name="frequency">
+                    <label class="form-check-label" for="frequency1">Everyday</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="frequency2" [value]="2" [(ngModel)]="frequency"
+                        name="frequency">
+                    <label class="form-check-label" for="frequency2">Weekends (Sat, Sun)</label>
+                </div>
+            </div>
+        </div>
+        <div class="mt-2">
+            How many movies/episodes per day?
+            <div class="form-group">
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="quantity1" [value]="1" [(ngModel)]="quantity"
+                        name="quantity">
+                    <label class="form-check-label" for="quantity1">1</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="quantity2" [value]="2" [(ngModel)]="quantity"
+                        name="quantity">
+                    <label class="form-check-label" for="quantity2">2</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="quantity3" [value]="3" [(ngModel)]="quantity"
+                        name="quantity">
+                    <label class="form-check-label" for="quantity3">3</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="quantity4" [value]="4" [(ngModel)]="quantity"
+                        name="quantity">
+                    <label class="form-check-label" for="quantity4">4</label>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="mt-4">
+            How much time (minutes) you have daily to watch something?
+            <input type="number" [class.is-invalid]="(time.dirty && time.touched) && time.invalid" class="form-control"
+                placeholder="Time in minutes" [formControl]="time">
+            <div *ngIf="time.invalid" class="invalid-feedback">
+                Provide a number greater than 5 minutes.
+            </div>
+        </div> -->
+        <div class="mt-4">
+            <button class="btn btn-success btn-block w-100" (click)="generate()" [disabled]="time.invalid">
+                <i class="fas fa-arrow-right"></i> Generate my Organizer
+            </button>
+        </div>
+        <p class="mt-4">
+            <small>
+                ¹ Shows produced by Marvel Studios, canonical to the MCU. <br />
+                ² One-Shots are not always canon, sometimes they are used to tie-in some lose ends or just tell other
+                stories about the
+                movies or the MCU.
+                <!-- ³ Shows not produced by Marvel Studios, not canon to the MCU, but have references to the MCU. -->
+            </small>
+        </p>
+        <div *ngFor="let resultItem of result">
+            {{resultItem?.titles[language]}}
+        </div>
+    </div>
+</div>
