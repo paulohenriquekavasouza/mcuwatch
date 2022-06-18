@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
+import { LOCALE_ID, NgModule } from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -12,6 +12,11 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { AppService } from './app.service';
+import { registerLocaleData } from '@angular/common';
+import localePt from '@angular/common/locales/pt';
+
+registerLocaleData(localePt);
 
 export function httpTranslateLoaderFactory(http: HttpClient) {
 	return new TranslateHttpLoader(http);
@@ -40,7 +45,13 @@ export function httpTranslateLoaderFactory(http: HttpClient) {
 		}),
 		HttpClientModule
 	],
-	providers: [],
+	providers: [
+		{
+			provide: LOCALE_ID,
+			deps: [AppService],
+			useFactory: () => localStorage.getItem("language")
+		}
+	],
 	bootstrap: [AppComponent]
 })
 export class AppModule { }
