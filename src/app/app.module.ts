@@ -9,6 +9,13 @@ import { HomeComponent } from './home/home.component';
 import { MoviesComponent } from './movies/movies.component';
 import { ShowsComponent } from './shows/shows.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
+import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+
+export function httpTranslateLoaderFactory(http: HttpClient) {
+	return new TranslateHttpLoader(http);
+}
 
 @NgModule({
 	declarations: [
@@ -23,7 +30,15 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 		AppRoutingModule,
 		FormsModule,
 		ReactiveFormsModule,
-		NgbModule
+		NgbModule,
+		TranslateModule.forRoot({
+			loader: {
+				provide: TranslateLoader,
+				useFactory: httpTranslateLoaderFactory,
+				deps: [HttpClient]
+			}
+		}),
+		HttpClientModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
