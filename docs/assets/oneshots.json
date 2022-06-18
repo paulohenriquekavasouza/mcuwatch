@@ -1,0 +1,274 @@
+[
+    {
+        "titles": {
+            "en-US": "Marvel One-Shot: The Consultant",
+            "pt-BR": "Marvel One-Shot: O Consultor"
+        },
+        "releaseDate": "2011-09-13",
+        "orders": {
+            "releaseOrder": 5,
+            "chronologicalOrder": 9
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/26fa255c-655f-49b8-8642-3670a34e26ea"
+            }
+        ],
+        "runtime": {
+            "minutes": 3,
+            "fullForm": "3min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "10"
+                }
+            ]
+        },
+        "phase": 1
+    },
+    {
+        "titles": {
+            "en-US": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+            "pt-BR": "Marvel One-Shot: Aconteceu Uma Coisa Engraçada a Caminho do Martelo de Thor"
+        },
+        "releaseDate": "2011-10-25",
+        "orders": {
+            "releaseOrder": 7,
+            "chronologicalOrder": 7
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/7dcbdd19-49f8-42bd-91a2-82c0a571c26e"
+            }
+        ],
+        "runtime": {
+            "minutes": 3,
+            "fullForm": "3min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "12"
+                }
+            ]
+        },
+        "phase": 1
+    },
+    {
+        "titles": {
+            "en-US": "Marvel One-Shot: Item 47",
+            "pt-BR": "Marvel One-Shot: Item 47"
+        },
+        "releaseDate": "2012-09-25",
+        "orders": {
+            "releaseOrder": 9,
+            "chronologicalOrder": 9
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/5bcd6e95-1c90-4e45-bc86-3e85c8c01d67"
+            }
+        ],
+        "runtime": {
+            "minutes": 12,
+            "fullForm": "12min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "L"
+                }
+            ]
+        },
+        "phase": 1
+    },
+    {
+        "titles": {
+            "en-US": "Marvel One-Shot: Agent Carter",
+            "pt-BR": "Marvel One-Shot: Agente Carter"
+        },
+        "releaseDate": "2013-09-24",
+        "orders": {
+            "releaseOrder": 11,
+            "chronologicalOrder": 11
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/65e1432a-1108-46c6-b8fa-35d8b64471c1"
+            }
+        ],
+        "runtime": {
+            "minutes": 15,
+            "fullForm": "15min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "phase": 2
+    },
+    {
+        "titles": {
+            "en-US": "Marvel One-Shot: All Hail The King",
+            "pt-BR": "Marvel One-Shot: Todos saúdem o Rei"
+        },
+        "releaseDate": "2014-02-04",
+        "orders": {
+            "releaseOrder": 13,
+            "chronologicalOrder": 13
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/e5c802dd-0a01-4157-9788-dee95a685162"
+            }
+        ],
+        "runtime": {
+            "minutes": 14,
+            "fullForm": "14min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "phase": 2
+    },
+    {
+        "titles": {
+            "en-US": "Marvel One-Shot: Team Thor: Part 1",
+            "pt-BR": "Marvel One-Shot: Equipe Thor: Primeira Parte"
+        },
+        "releaseDate": "2016-08-28",
+        "orders": {
+            "releaseOrder": 19,
+            "chronologicalOrder": 19
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/movies/marvel-one-shot-team-thor-part-1/1TzAxRHo4kjK"
+            }
+        ],
+        "runtime": {
+            "minutes": 3,
+            "fullForm": "3min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "L"
+                }
+            ]
+        },
+        "phase": 3
+    },
+    {
+        "titles": {
+            "en-US": "Marvel One-Shot: Team Thor: Part 2",
+            "pt-BR": "Marvel One-Shot: Equipe Thor: Segunda Parte"
+        },
+        "releaseDate": "2017-02-28",
+        "orders": {
+            "releaseOrder": 21,
+            "chronologicalOrder": 21
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/1a191d76-2d43-4910-a41b-695a9e47b515?distributionPartner=google"
+            }
+        ],
+        "runtime": {
+            "minutes": 4,
+            "fullForm": "4min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "10"
+                }
+            ]
+        },
+        "phase": 3
+    },
+    {
+        "titles": {
+            "en-US": "Marvel One-Shot: Team Darryl",
+            "pt-BR": "Marvel One-Shot: Equipe Darryl"
+        },
+        "releaseDate": "2018-02-20",
+        "orders": {
+            "releaseOrder": 24,
+            "chronologicalOrder": 24
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/f2caf658-d08c-4c20-80fd-bb82dfbdafd6?distributionPartner=google"
+            }
+        ],
+        "runtime": {
+            "minutes": 6,
+            "fullForm": "6min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "10"
+                }
+            ]
+        },
+        "phase": 3
+    }
+]
