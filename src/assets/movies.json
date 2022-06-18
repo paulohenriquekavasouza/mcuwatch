@@ -12,7 +12,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/movies/marvel-studios-iron-man/6aM2a8mZATiu"
+                "url": "https://www.disneyplus.com/movies/marvel-studios-iron-man/6aM2a8mZATiu",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -46,11 +47,13 @@
         "streamings": [
             {
                 "name": "Star+",
-                "url": "https://www.starplus.com/video/c80b15f7-4215-493a-b80a-03b0ee3af966"
+                "url": "https://www.starplus.com/video/c80b15f7-4215-493a-b80a-03b0ee3af966",
+                "logo": "/assets/logos/splus.png"
             },
             {
                 "name": "Netflix",
-                "url": "https://www.netflix.com/watch/70087537"
+                "url": "https://www.netflix.com/watch/70087537",
+                "logo": "/assets/logos/netflix.png"
             }
         ],
         "runtime": {
@@ -84,7 +87,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/a085c66c-3c1e-451e-85b8-cf7474823501"
+                "url": "https://www.disneyplus.com/video/a085c66c-3c1e-451e-85b8-cf7474823501",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -118,7 +122,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/ac837e8b-ab6d-46fc-8f34-86152fd905d8"
+                "url": "https://www.disneyplus.com/video/ac837e8b-ab6d-46fc-8f34-86152fd905d8",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -152,7 +157,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/90aa1132-49e9-46a1-801c-4671ee788e75"
+                "url": "https://www.disneyplus.com/video/90aa1132-49e9-46a1-801c-4671ee788e75",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -186,7 +192,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/c05ea526-1378-4e4b-a38e-a29968cc0def"
+                "url": "https://www.disneyplus.com/video/c05ea526-1378-4e4b-a38e-a29968cc0def",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -220,7 +227,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/e8fbf24f-defb-41a6-b578-1b9edd6d301b"
+                "url": "https://www.disneyplus.com/video/e8fbf24f-defb-41a6-b578-1b9edd6d301b",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -254,7 +262,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/804070a9-62b3-4fad-be8c-8c142b64e404"
+                "url": "https://www.disneyplus.com/video/804070a9-62b3-4fad-be8c-8c142b64e404",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -288,7 +297,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/68e3448b-845b-4c9a-8666-559d25a01c52"
+                "url": "https://www.disneyplus.com/video/68e3448b-845b-4c9a-8666-559d25a01c52",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -322,7 +332,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/04667710-5866-4a77-be5d-a9f7265bdb5c?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/04667710-5866-4a77-be5d-a9f7265bdb5c?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -356,7 +367,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/fad87483-5b6e-4fa1-8b1b-886e60523fc3?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/fad87483-5b6e-4fa1-8b1b-886e60523fc3?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -390,7 +402,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/movies/marvel-studios-ant-man/5c92KVf1zgUX"
+                "url": "https://www.disneyplus.com/movies/marvel-studios-ant-man/5c92KVf1zgUX",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -424,7 +437,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/dc2f0aea-bac6-450d-bb3c-062309e4942d?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/dc2f0aea-bac6-450d-bb3c-062309e4942d?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -458,7 +472,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/bbacb0b8-f726-47db-837c-6fe925401562?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/bbacb0b8-f726-47db-837c-6fe925401562?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -492,7 +507,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/a2eedd10-4408-48ce-bda6-97cf3b54d986?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/a2eedd10-4408-48ce-bda6-97cf3b54d986?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -526,12 +542,48 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/2ed86631-1d9a-4517-b73b-776cd91fd1f5?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/2ed86631-1d9a-4517-b73b-776cd91fd1f5?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
             "minutes": 130,
             "fullForm": "2h10min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "12"
+                }
+            ]
+        },
+        "phase": 3
+    },
+    {
+        "titles": {
+            "en-US": "Spider-Man: Homecoming",
+            "pt-BR": "Homem-Aranha: De Volta ao Lar"
+        },
+        "releaseDate": "2017-07-06",
+        "orders": {
+            "releaseOrder": 22,
+            "chronologicalOrder": 22
+        },
+        "streamings": [
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/watch/80166369?source=35",
+                "logo": "/assets/logos/netflix.png"
+            }
+        ],
+        "runtime": {
+            "minutes": 133,
+            "fullForm": "2h13min"
         },
         "ratings": {
             "ESRB": [
@@ -560,7 +612,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/0784106c-c677-40f2-b2ca-b856c637c0ee?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/0784106c-c677-40f2-b2ca-b856c637c0ee?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -594,7 +647,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/movies/marvel-studios-avengers-infinity-war/1WEuZ7H6y39v"
+                "url": "https://www.disneyplus.com/movies/marvel-studios-avengers-infinity-war/1WEuZ7H6y39v",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -628,7 +682,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/623d35ab-b438-4ba7-86c2-3a50f840737d?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/623d35ab-b438-4ba7-86c2-3a50f840737d?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -662,7 +717,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/91cc3496-ee90-4414-93c6-2faba95e1f2e?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/91cc3496-ee90-4414-93c6-2faba95e1f2e?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -696,7 +752,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/4da34214-4803-4c80-8e66-b9b4b46e1bf8?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/4da34214-4803-4c80-8e66-b9b4b46e1bf8?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -719,6 +776,41 @@
     },
     {
         "titles": {
+            "en-US": "Spider-Man: Far From Home",
+            "pt-BR": "Homem-Aranha: Longe de Casa"
+        },
+        "releaseDate": "2019-07-04",
+        "orders": {
+            "releaseOrder": 30,
+            "chronologicalOrder": 30
+        },
+        "streamings": [
+            {
+                "name": "Prime Video",
+                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.e4b85f95-60b7-b172-232b-3a7f3ffd78c4?autoplay=1&ref_=atv_cf_strg_wb",
+                "logo": "/assets/logos/primevideo.png"
+            }
+        ],
+        "runtime": {
+            "minutes": 130,
+            "fullForm": "2h10min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "10"
+                }
+            ]
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
             "en-US": "Black Widow",
             "pt-BR": "Viúva Negra"
         },
@@ -730,7 +822,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/6e3d316b-778f-4050-ad1a-daef6cba38d8?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/6e3d316b-778f-4050-ad1a-daef6cba38d8?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -764,7 +857,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/2e9cb640-b29c-480a-929d-434fdade61e0?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/2e9cb640-b29c-480a-929d-434fdade61e0?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -798,7 +892,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/84008f72-3da5-4e9b-8228-3545b8f7e17c?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/84008f72-3da5-4e9b-8228-3545b8f7e17c?distributionPartner=google",
+                "logo": "/assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -814,6 +909,64 @@
             "DJCTQ": [
                 {
                     "title": "12"
+                }
+            ]
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Spider-Man: No Way Home",
+            "pt-BR": "Homem-Aranha: Sem Volta para Casa"
+        },
+        "releaseDate": "2021-12-16",
+        "orders": {
+            "releaseOrder": 40,
+            "chronologicalOrder": 40
+        },
+        "streamings": [],
+        "runtime": {
+            "minutes": 148,
+            "fullForm": "2h10min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "10"
+                }
+            ]
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Doctor Strange in the Multiverse of Madness",
+            "pt-BR": "Doutor Estranho no Multiverso da Loucura"
+        },
+        "releaseDate": "2022-05-04",
+        "orders": {
+            "releaseOrder": 41,
+            "chronologicalOrder": 41
+        },
+        "streamings": [],
+        "runtime": {
+            "minutes": 126,
+            "fullForm": "2h6min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
                 }
             ]
         },

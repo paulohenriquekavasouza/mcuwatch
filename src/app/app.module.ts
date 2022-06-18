@@ -8,6 +8,7 @@ import { OrganizerComponent } from './organizer/organizer.component';
 import { HomeComponent } from './home/home.component';
 import { MoviesComponent } from './movies/movies.component';
 import { ShowsComponent } from './shows/shows.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
 	declarations: [
@@ -21,7 +22,8 @@ import { ShowsComponent } from './shows/shows.component';
 		BrowserModule,
 		AppRoutingModule,
 		FormsModule,
-		ReactiveFormsModule
+		ReactiveFormsModule,
+		NgbModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
