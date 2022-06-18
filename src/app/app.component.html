@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">MCU Watch Organizer</a>
+        <a class="navbar-brand" href="#">{{"TITLE" | translate}}</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -13,11 +13,10 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" routerLink="/organizer" routerLinkActive="active"
-                        [routerLinkActiveOptions]="{exact: true}">Make my
-                        own organizer</a>
+                        [routerLinkActiveOptions]="{exact: true}">{{"MENU.ORGANIZER" | translate}}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" routerLink="/movies" routerLinkActive="active">Movies</a>
+                    <a class="nav-link" aria-current="page" routerLink="/movies" routerLinkActive="active">{{"MENU.MOVIES" | translate}}</a>
                 </li>
                 <!-- <li class="nav-item">
                     <a class="nav-link" aria-current="page" routerLink="/shows" routerLinkActive="active">Shows</a>
@@ -25,7 +24,7 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                         data-bs-toggle="dropdown" aria-expanded="false">
-                        Language
+                        {{"MENU.LANGUAGE" | translate}}
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li>

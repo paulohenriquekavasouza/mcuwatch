@@ -18,6 +18,5 @@ export class AppComponent {
 			this.translate.use(val);
 		});
 		translate.addLangs(['en-US', 'pt-BR']);
-		translate.setDefaultLang('en-US');
 	}
 }

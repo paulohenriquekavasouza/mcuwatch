@@ -6,12 +6,13 @@ import { BehaviorSubject } from 'rxjs';
 })
 export class AppService {
 
-	language = new BehaviorSubject<string>("en-US");
+	language = new BehaviorSubject<string>(localStorage.getItem("language") || "en-US");
 
 	constructor() { }
 
 	setLanguage(val: string) {
 		this.language.next(val);
+		localStorage.setItem("language", val);
 	}
 
 	getLanguage() {

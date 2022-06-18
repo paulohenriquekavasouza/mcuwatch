@@ -1,5 +1,9 @@
 {
+    "TITLE": "MCU Watch Organizer",
     "MENU": {
-        "HOME": "Início"
+        "HOME": "Início",
+        "ORGANIZER": "Fazer meu próprio organizador",
+        "MOVIES": "Filmes",
+        "LANGUAGE": "Língua"
     }
 }
