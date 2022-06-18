@@ -1,0 +1,1604 @@
+[
+    {
+        "titles": {
+            "en-US": "WandaVision",
+            "pt-BR": "WandaVision"
+        },
+        "releaseDate": "2021-01-15",
+        "orders": {
+            "releaseOrder":  31,
+            "chronologicalOrder": 31
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/wandavision/4SrN28ZjDLwH"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Filmed Before a Live Studio Audience",
+                            "pt-BR": "Gravado ao Vivo com Plateia"
+                        },
+                        "releaseDate": "2021-01-15",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 31,
+                            "fullForm": "31min"
+                        },
+                        "orders": {
+                            "releaseOrder":  1,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Don't Touch That Dial",
+                            "pt-BR": "Não Mude de Canal"
+                        },
+                        "releaseDate": "2021-01-15",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 38,
+                            "fullForm": "38min"
+                        },
+                        "orders": {
+                            "releaseOrder": 2,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Now in Color",
+                            "pt-BR": "Agora em Cores"
+                        },
+                        "releaseDate": "2021-01-22",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 34,
+                            "fullForm": "34min"
+                        },
+                        "orders": {
+                            "releaseOrder": 3,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "We Interrupt This Program",
+                            "pt-BR": "Interrompemos este Programa"
+                        },
+                        "releaseDate": "2021-01-29",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 36,
+                            "fullForm": "36min"
+                        },
+                        "orders": {
+                            "releaseOrder": 4,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "On a Very Special Episode…",
+                            "pt-BR": "Em um Episódio Muito Especial..."
+                        },
+                        "releaseDate": "2021-02-05",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 43,
+                            "fullForm": "43min"
+                        },
+                        "orders": {
+                            "releaseOrder": 5,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "All-New Halloween Spooktacular!",
+                            "pt-BR": "Um Halloween Assustadoramente Inédito!"
+                        },
+                        "releaseDate": "2021-02-12",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 40,
+                            "fullForm": "40min"
+                        },
+                        "orders": {
+                            "releaseOrder": 6,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Breaking the Fourth Wall",
+                            "pt-BR": "Derrubando a Quarta Parede"
+                        },
+                        "releaseDate": "2021-02-19",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 39,
+                            "fullForm": "39min"
+                        },
+                        "orders": {
+                            "releaseOrder": 7,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Previously On",
+                            "pt-BR": "Nos Capítulos Anteriores"
+                        },
+                        "releaseDate": "2021-02-26",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 8,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Series Finale",
+                            "pt-BR": "O Grande Final"
+                        },
+                        "releaseDate": "2021-03-05",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 9,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "12"
+                }
+            ]
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "The Falcon and The Winter Soldier",
+            "pt-BR": "Falcão e o Soldado Invernal"
+        },
+        "releaseDate": "2021-03-19",
+        "orders": {
+            "releaseOrder":  32,
+            "chronologicalOrder": 32
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/the-falcon-and-the-winter-soldier/4gglDBMx8icA"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "New World Order",
+                            "pt-BR": "Nova Ordem Mundial"
+                        },
+                        "releaseDate": "2021-03-19",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder":  1,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Star-Spangled Man",
+                            "pt-BR": "O Herói Americano"
+                        },
+                        "releaseDate": "2021-03-26",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder":  2,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Power Broker",
+                            "pt-BR": "Mercador do Poder"
+                        },
+                        "releaseDate": "2021-04-02",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder":  3,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Whole World Is Watching",
+                            "pt-BR": "O Mundo Está Vendo"
+                        },
+                        "releaseDate": "2021-04-09",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder":  4,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Truth",
+                            "pt-BR": "Verdade"
+                        },
+                        "releaseDate": "2021-04-16",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 62,
+                            "fullForm": "1h2min"
+                        },
+                        "orders": {
+                            "releaseOrder": 5,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "releaseOrder":  [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "One World, One People",
+                            "pt-BR": "Um Mundo, Um Povo"
+                        },
+                        "releaseDate": "2021-04-23",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 6,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "12"
+                }
+            ]
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Loki",
+            "pt-BR": "Loki"
+        },
+        "releaseDate": "2021-06-09",
+        "orders": {
+            "releaseOrder":  33,
+            "chronologicalOrder": 33
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/loki/6pARMvILBGzF"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Glorious Purpose",
+                            "pt-BR": "Glorioso Propósito"
+                        },
+                        "releaseDate": "2021-06-09",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder":  1,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Variant",
+                            "pt-BR": "A Variante"
+                        },
+                        "releaseDate": "2021-06-16",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder":  2,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Lamentis",
+                            "pt-BR": "Lamentis"
+                        },
+                        "releaseDate": "2021-06-23",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 43,
+                            "fullForm": "43min"
+                        },
+                        "orders": {
+                            "releaseOrder":  3,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Nexus Event",
+                            "pt-BR": "O Evento Nexus"
+                        },
+                        "releaseDate": "2021-06-30",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder":  4,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Journey Into Mystery",
+                            "pt-BR": "Jornada ao Mistério"
+                        },
+                        "releaseDate": "2021-07-07",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder":  5,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "For All Time. Always.",
+                            "pt-BR": "Por Todo Tempo. Sempre."
+                        },
+                        "releaseDate": "2021-07-14",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder":  6,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "What If...?",
+            "pt-BR": "What If...?"
+        },
+        "releaseDate": "2021-08-11",
+        "orders": {
+            "releaseOrder":  35,
+            "chronologicalOrder": 35
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/what-if/7672ZVj1ZxU9?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "What If… Captain Carter Were The First Avenger?",
+                            "pt-BR": "E se… a capitã Carter fosse a primeira Vingadora?"
+                        },
+                        "releaseDate": "2021-08-11",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 36,
+                            "fullForm": "36min"
+                        },
+                        "orders": {
+                            "releaseOrder":  1,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What If… T’Challa Became a Star-Lord?",
+                            "pt-BR": "E se… T’Challa se tornasse o Senhor das Estrelas?"
+                        },
+                        "releaseDate": "2021-08-18",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 37,
+                            "fullForm": "37min"
+                        },
+                        "orders": {
+                            "releaseOrder":  2,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What If… The World Lost Its Mightiest Heroes?",
+                            "pt-BR": "E se… o mundo perdesse seus heróis mais poderosos?"
+                        },
+                        "releaseDate": "2021-08-25",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 35,
+                            "fullForm": "35min"
+                        },
+                        "orders": {
+                            "releaseOrder":  3,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What If… Doctor Strange Lost His Heart Instead of His Hands?",
+                            "pt-BR": "E se… o Doutor Estranho perdesse seu coração em vez das mãos?"
+                        },
+                        "releaseDate": "2021-09-01",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 38,
+                            "fullForm": "38min"
+                        },
+                        "orders": {
+                            "releaseOrder":  4,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What If… Zombies?!",
+                            "pt-BR": "E se… zumbis!?"
+                        },
+                        "releaseDate": "2021-09-08",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 34,
+                            "fullForm": "34min"
+                        },
+                        "orders": {
+                            "releaseOrder":  5,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What If… Killmonger Rescued Tony Stark?",
+                            "pt-BR": "E se… Killmonger tivesse resgatado Tony Stark?"
+                        },
+                        "releaseDate": "2021-09-15",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 35,
+                            "fullForm": "35min"
+                        },
+                        "orders": {
+                            "releaseOrder":  6,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What If… Thor Were an Only Child?",
+                            "pt-BR": "E se… Thor fosse filho único?"
+                        },
+                        "releaseDate": "2021-09-22",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 37,
+                            "fullForm": "37min"
+                        },
+                        "orders": {
+                            "releaseOrder":  7,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What If… Ultron Won?",
+                            "pt-BR": "E se… Ultron tivesse vencido?"
+                        },
+                        "releaseDate": "2021-09-29",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 32,
+                            "fullForm": "32min"
+                        },
+                        "orders": {
+                            "releaseOrder":  8,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What If… The Watcher Broke His Oath?",
+                            "pt-BR": "E se… o Vigia quebrasse seu juramento?"
+                        },
+                        "releaseDate": "2021-10-06",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 37,
+                            "fullForm": "37min"
+                        },
+                        "orders": {
+                            "releaseOrder":  9,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Hawkeye",
+            "pt-BR": "Gavião Arqueiro"
+        },
+        "releaseDate": "2021-11-24",
+        "orders": {
+            "releaseOrder":  38,
+            "chronologicalOrder": 38
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/hawkeye/11Zy8m9Dkj5l"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Never Meet Your Heroes",
+                            "pt-BR": "Nunca Conheça seus Heróis"
+                        },
+                        "releaseDate": "2021-11-24",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder":  1,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Hide and Seek",
+                            "pt-BR": "Esconde-Esconde"
+                        },
+                        "releaseDate": "2021-11-24",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder":  2,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Echoes",
+                            "pt-BR": "Ecos"
+                        },
+                        "releaseDate": "2021-12-01",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 44,
+                            "fullForm": "44min"
+                        },
+                        "orders": {
+                            "releaseOrder":  3,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Partners, Am I Right?",
+                            "pt-BR": "Parceiros, Certo?"
+                        },
+                        "releaseDate": "2021-12-08",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 41,
+                            "fullForm": "41min"
+                        },
+                        "orders": {
+                            "releaseOrder":  4,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Ronin",
+                            "pt-BR": "Ronin"
+                        },
+                        "releaseDate": "2021-12-15",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 45,
+                            "fullForm": "45min"
+                        },
+                        "orders": {
+                            "releaseOrder":  5,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "So This Is Christmas?",
+                            "pt-BR": "Então Já É Natal?"
+                        },
+                        "releaseDate": "2021-12-22",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 62,
+                            "fullForm": "1h2min"
+                        },
+                        "orders": {
+                            "releaseOrder":  6,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Moon Knight",
+            "pt-BR": "Cavaleiro da Lua"
+        },
+        "releaseDate": "2022-03-30",
+        "orders": {
+            "releaseOrder":  39,
+            "chronologicalOrder": 39
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/moon-knight/4S3oOF1knocS?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "The Goldfish Problem",
+                            "pt-BR": "O Problema do Peixe Dourado"
+                        },
+                        "releaseDate": "2022-03-30",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder":  1,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Summon the Suit",
+                            "pt-BR": "Invoque o Traje"
+                        },
+                        "releaseDate": "2022-04-06",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder":  2,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Friendly Type",
+                            "pt-BR": "O Tipo Amigável"
+                        },
+                        "releaseDate": "2022-04-13",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder":  3,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Tomb",
+                            "pt-BR": "A Tumba"
+                        },
+                        "releaseDate": "2022-04-20",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder":  4,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Asylum",
+                            "pt-BR": "O Manicômio"
+                        },
+                        "releaseDate": "2022-04-27",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder":  5,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Gods and Monsters",
+                            "pt-BR": "Deuses e Monstros"
+                        },
+                        "releaseDate": "2022-05-04",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": ""
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 45,
+                            "fullForm": "45min"
+                        },
+                        "orders": {
+                            "releaseOrder":  6,
+                            "chronologicalOrder": 0
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "phase": 4
+    }
+]
