@@ -6,7 +6,7 @@ import { BehaviorSubject } from 'rxjs';
 })
 export class AppService {
 
-	language = new BehaviorSubject<string>(localStorage.getItem("language") || "en-US");
+	language = new BehaviorSubject<string>(localStorage.getItem("language") ?? "en-US");
 
 	constructor() { }
 
