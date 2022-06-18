@@ -1,12 +1,12 @@
 <div class="container">
     <div class="card p-4">
-        <h4>Organizer</h4>
+        <h4>{{"ORGANIZER.TITLE" | translate}}</h4>
 
-        What you want to watch?
+        {{"ORGANIZER.QUESTIONS.WHAT" | translate}}
         <div class="form-group">
             <div class="form-check form-check-inline">
                 <input class="form-check-input" type="checkbox" id="movies" checked [(ngModel)]="moviesChecked">
-                <label class="form-check-label" for="movies">Movies</label>
+                <label class="form-check-label" for="movies">{{"ORGANIZER.RADIO.MOVIES" | translate}}</label>
             </div>
             <!-- <div class="form-check form-check-inline">
                 <input class="form-check-input" type="checkbox" id="shows" [(ngModel)]="showsChecked">
@@ -23,37 +23,37 @@
         </div>
 
         <div class="mt-2">
-            Which order you want to watch?
+            {{"ORGANIZER.QUESTIONS.ORDER" | translate}}
             <div class="form-group">
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" id="releaseOrder" [value]="1"
                         [(ngModel)]="isChronological" name="order">
-                    <label class="form-check-label" for="releaseOrder">Release Date</label>
+                    <label class="form-check-label" for="releaseOrder">{{"ORGANIZER.RADIO.ORDER.RELEASE" | translate}}</label>
                 </div>
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" id="chronologicalOrder" [value]="2"
                         [(ngModel)]="isChronological" name="order">
-                    <label class="form-check-label" for="chronologicalOrder">Chronological Order</label>
+                    <label class="form-check-label" for="chronologicalOrder">{{"ORGANIZER.RADIO.ORDER.CHRONOLOGICAL" | translate}}</label>
                 </div>
             </div>
         </div>
         <div class="mt-2">
-            When you want to watch?
+            {{"ORGANIZER.QUESTIONS.FREQUENCY" | translate}}
             <div class="form-group">
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" id="frequency1" [value]="1" [(ngModel)]="frequency"
                         name="frequency">
-                    <label class="form-check-label" for="frequency1">Everyday</label>
+                    <label class="form-check-label" for="frequency1">{{"ORGANIZER.RADIO.FREQUENCY.EVERYDAY" | translate}}</label>
                 </div>
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" id="frequency2" [value]="2" [(ngModel)]="frequency"
                         name="frequency">
-                    <label class="form-check-label" for="frequency2">Weekends</label>
+                    <label class="form-check-label" for="frequency2">{{"ORGANIZER.RADIO.FREQUENCY.WEEKENDS" | translate}}</label>
                 </div>
             </div>
         </div>
         <div class="mt-2">
-            How many movies per day?
+            {{"ORGANIZER.QUESTIONS.QUANTITY" | translate}}
             <div class="form-group">
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" id="quantity1" [value]="1" [(ngModel)]="quantity"
@@ -83,7 +83,7 @@
             </div>
         </div>
         <div class="mt-2">
-            When you want to start watching?
+            {{"ORGANIZER.QUESTIONS.START" | translate}}
             <input type="date" class="form-control" [value]="minDate | date:'yyyy-MM-dd'"
                 [min]="minDate | date:'yyyy-MM-dd'" onkeydown="return false" (change)="changeDate($event.target)">
 
@@ -98,7 +98,7 @@
         </div> -->
         <div class="mt-4">
             <button class="btn btn-success btn-block w-100" (click)="generate()" [disabled]="!isValid() || loading">
-                <i class="fas fa-arrow-right"></i> Generate my Organizer
+                <i class="fas fa-arrow-right"></i> {{"ORGANIZER.ACTION" | translate}}
             </button>
         </div>
         <p class="mt-4">
@@ -110,7 +110,7 @@
                 ³ Shows not produced by Marvel Studios, not canon to the MCU, but have references to the MCU. -->
             </small>
         </p>
-        <h2 *ngIf="loading">Generating results, this may take a while!</h2>
+        <h2 *ngIf="loading">{{"ORGANIZER.LOADING" | translate}}</h2>
         <div class="row" *ngIf="!loading">
             <div class="col-md-4 col-sm-12" *ngFor="let day of days">
                 <div class="card mt-3 overflow-auto" style="width: 26rem;height: 200px">

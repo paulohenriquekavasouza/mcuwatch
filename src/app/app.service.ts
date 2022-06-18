@@ -13,6 +13,7 @@ export class AppService {
 	setLanguage(val: string) {
 		this.language.next(val);
 		localStorage.setItem("language", val);
+		window.location.reload()
 	}
 
 	getLanguage() {

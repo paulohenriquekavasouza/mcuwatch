@@ -6,6 +6,7 @@ import { AppService } from '../app.service';
 import { FormControl, Validators } from '@angular/forms';
 import { Observable } from 'rxjs';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
+import { TranslateService } from '@ngx-translate/core';
 
 @Component({
 	selector: 'app-organizer',
@@ -32,8 +33,12 @@ export class OrganizerComponent implements OnInit {
 	selectedMovie: any;
 
 	constructor(public appService: AppService,
+		public translate: TranslateService,
 		private modalService: NgbModal) {
-		this.appService.getLanguage().subscribe(val => this.language = val);
+		this.appService.getLanguage().subscribe(val => {
+			this.language = val;
+			this.translate.use(val);
+		});
 		this.minDate = new Date(this.minDate.setDate(this.minDate.getDate() + 1));
 		this.dateStart = this.minDate;
 	}
