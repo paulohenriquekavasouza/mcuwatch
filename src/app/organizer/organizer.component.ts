@@ -169,8 +169,9 @@ export class OrganizerComponent implements OnInit {
 				})
 			}
 			console.log(this.days)
-
-			_.next();
+			setTimeout(() => {
+				_.next();
+			}, 1000)
 		}).subscribe(_ => {
 			this.loading = false;
 		})
