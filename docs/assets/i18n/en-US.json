@@ -7,7 +7,7 @@
         "LANGUAGE": "Language"
     },
     "HOME": {
-        "DESCRIPTION": "Using this tool, you can organize yourself to watch the entirity of the MCU in a few weeks or months! It all depends on how much you want to watch per day.",
+        "DESCRIPTION": "Using this tool, you can organize yourself to watch the entirety of the MCU in a few weeks or months! It all depends on how much you want to watch per day.",
         "ACTION": "Let's do it!"
     },
     "ORGANIZER": {
@@ -31,6 +31,7 @@
             "START": "When you want to start watching?"
         },
         "ACTION": "Generate my Organizer",
-        "LOADING": "Generating results, this may take a while!"
+        "LOADING": "Generating results, this may take a while!",
+        "NUMDAYS": "It will take you {{numDaysToWatch}} day(s) to watch the entirety of the MCU!"
     }
 }

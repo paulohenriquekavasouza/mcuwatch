@@ -7,7 +7,7 @@
         "LANGUAGE": "Língua"
     },
     "HOME": {
-        "DESCRIPTION": "Utilizando esta ferramenta, você pode ser organizar para assistir todo o UCM em algumas semanas ou meses! Depende apenas do quanto quer assistir por dia.",
+        "DESCRIPTION": "Utilizando esta ferramenta, você pode se organizar para assistir todo o UCM em algumas semanas ou meses! Depende apenas do quanto quer assistir por dia.",
         "ACTION": "Partiu!"
     },
     "ORGANIZER": {
@@ -31,6 +31,7 @@
             "START": "Quando quer começar a assistir?"
         },
         "ACTION": "Gerar meu Organizador",
-        "LOADING": "Gerando resultados, isso pode levar algum tempo!"
+        "LOADING": "Gerando resultados, isso pode levar algum tempo!",
+        "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir todo o UCM!"
     }
 }
