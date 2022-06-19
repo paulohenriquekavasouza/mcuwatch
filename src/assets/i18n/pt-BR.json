@@ -1,0 +1,36 @@
+{
+    "TITLE": "MCU Watch Organizer",
+    "MENU": {
+        "HOME": "Início",
+        "ORGANIZER": "Fazer meu próprio organizador",
+        "MOVIES": "Filmes",
+        "LANGUAGE": "Língua"
+    },
+    "HOME": {
+        "DESCRIPTION": "Utilizando esta ferramenta, você pode ser organizar para assistir todo o UCM em algumas semanas ou meses! Depende apenas do quanto quer assistir por dia.",
+        "ACTION": "Partiu!"
+    },
+    "ORGANIZER": {
+        "TITLE": "Organizador",
+        "RADIO": {
+            "MOVIES": "Filmes",
+            "ORDER": {
+                "RELEASE": "Data de Lançamento",
+                "CHRONOLOGICAL": "Ordem Cronológica"
+            },
+            "FREQUENCY": {
+                "EVERYDAY": "Todos os dias",
+                "WEEKENDS": "Fins de semana"
+            }
+        },
+        "QUESTIONS": {
+            "WHAT": "O que quer assistir?",
+            "ORDER": "Em qual ordem quer assistir?",
+            "FREQUENCY": "Quando quer assistir?",
+            "QUANTITY": "Quantos filmes por dia?",
+            "START": "Quando quer começar a assistir?"
+        },
+        "ACTION": "Gerar meu Organizador",
+        "LOADING": "Gerando resultados, isso pode levar algum tempo!"
+    }
+}

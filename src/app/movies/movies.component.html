@@ -1,0 +1,29 @@
+<div class="container">
+	<div class="card p-4">
+		<h4>Movies</h4>
+		<div class="list-group">
+			<a href="javascript: void(0)" class="list-group-item list-group-item-action"
+				*ngFor="let item of movies; let i = index" data-bs-toggle="collapse" href="#collapse{{i}}"
+				role="button" aria-expanded="false" [attr.aria-controls]="'collapse' + i">
+				<div class="d-flex w-100 justify-content-between">
+					<h5 class="mb-1">{{item.titles[language]}}</h5>
+					<small class="text-muted">{{item.runtime.fullForm}}</small>
+				</div>
+				<p class="mb-1">Released {{item.releaseDate | date:'dd/MM/yyyy'}}</p>
+				<small class="text-muted">
+					Release order: {{item.orders.releaseOrder}}
+					<br />
+					Chronological order: {{item.orders.chronologicalOrder}}
+				</small>
+				<div class="collapse" id="collapse{{i}}">
+					<div class="card card-body">
+						Some placeholder content for the collapse component. This panel is hidden by default but
+						revealed
+						when the user
+						activates the relevant trigger.
+					</div>
+				</div>
+			</a>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,153 @@
+<div class="container">
+    <div class="card p-4">
+        <h4>{{"ORGANIZER.TITLE" | translate}}</h4>
+
+        {{"ORGANIZER.QUESTIONS.WHAT" | translate}}
+        <div class="form-group">
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="movies" checked [(ngModel)]="moviesChecked">
+                <label class="form-check-label" for="movies">{{"ORGANIZER.RADIO.MOVIES" | translate}}</label>
+            </div>
+            <!-- <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="shows" [(ngModel)]="showsChecked">
+                <label class="form-check-label" for="shows">Canon Shows¹</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="oneshots" [(ngModel)]="oneShotsChecked">
+                <label class="form-check-label" for="oneshots">One-Shots²</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="series2" value="3">
+                <label class="form-check-label" for="series2">Uncanon Series³</label>
+            </div> -->
+        </div>
+
+        <div class="mt-2">
+            {{"ORGANIZER.QUESTIONS.ORDER" | translate}}
+            <div class="form-group">
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="releaseOrder" [value]="1"
+                        [(ngModel)]="isChronological" name="order">
+                    <label class="form-check-label" for="releaseOrder">{{"ORGANIZER.RADIO.ORDER.RELEASE" | translate}}</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="chronologicalOrder" [value]="2"
+                        [(ngModel)]="isChronological" name="order">
+                    <label class="form-check-label" for="chronologicalOrder">{{"ORGANIZER.RADIO.ORDER.CHRONOLOGICAL" | translate}}</label>
+                </div>
+            </div>
+        </div>
+        <div class="mt-2">
+            {{"ORGANIZER.QUESTIONS.FREQUENCY" | translate}}
+            <div class="form-group">
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="frequency1" [value]="1" [(ngModel)]="frequency"
+                        name="frequency">
+                    <label class="form-check-label" for="frequency1">{{"ORGANIZER.RADIO.FREQUENCY.EVERYDAY" | translate}}</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="frequency2" [value]="2" [(ngModel)]="frequency"
+                        name="frequency">
+                    <label class="form-check-label" for="frequency2">{{"ORGANIZER.RADIO.FREQUENCY.WEEKENDS" | translate}}</label>
+                </div>
+            </div>
+        </div>
+        <div class="mt-2">
+            {{"ORGANIZER.QUESTIONS.QUANTITY" | translate}}
+            <div class="form-group">
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="quantity1" [value]="1" [(ngModel)]="quantity"
+                        name="quantity">
+                    <label class="form-check-label" for="quantity1">1</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="quantity2" [value]="2" [(ngModel)]="quantity"
+                        name="quantity">
+                    <label class="form-check-label" for="quantity2">2</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="quantity3" [value]="3" [(ngModel)]="quantity"
+                        name="quantity">
+                    <label class="form-check-label" for="quantity3">3</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="quantity4" [value]="4" [(ngModel)]="quantity"
+                        name="quantity">
+                    <label class="form-check-label" for="quantity4">4</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" id="quantity5" [value]="5" [(ngModel)]="quantity"
+                        name="quantity">
+                    <label class="form-check-label" for="quantity5">5</label>
+                </div>
+            </div>
+        </div>
+        <div class="mt-2">
+            {{"ORGANIZER.QUESTIONS.START" | translate}}
+            <input type="date" class="form-control" [value]="minDate | date:'yyyy-MM-dd'"
+                [min]="minDate | date:'yyyy-MM-dd'" onkeydown="return false" (change)="changeDate($event.target)">
+
+        </div>
+        <!-- <div class="mt-4">
+            How much time (minutes) you have daily to watch something?
+            <input type="number" [class.is-invalid]="(time.dirty && time.touched) && time.invalid" class="form-control"
+                placeholder="Time in minutes" [formControl]="time">
+            <div *ngIf="time.invalid" class="invalid-feedback">
+                Provide a number greater than 5 minutes.
+            </div>
+        </div> -->
+        <div class="mt-4">
+            <button class="btn btn-success btn-block w-100" (click)="generate()" [disabled]="!isValid() || loading">
+                <i class="fas fa-arrow-right"></i> {{"ORGANIZER.ACTION" | translate}}
+            </button>
+        </div>
+        <p class="mt-4">
+            <small>
+                <!-- ¹ Shows produced by Marvel Studios, canonical to the MCU. <br />
+                ² One-Shots are not always canon, sometimes they are used to tie-in some lose ends or just tell other
+                stories about the
+                movies or the MCU.
+                ³ Shows not produced by Marvel Studios, not canon to the MCU, but have references to the MCU. -->
+            </small>
+        </p>
+        <h2 *ngIf="loading">{{"ORGANIZER.LOADING" | translate}}</h2>
+        <div class="row" *ngIf="!loading">
+            <div class="col-md-4 col-sm-12" *ngFor="let day of days">
+                <div class="card mt-3 overflow-auto" style="width: 26rem;height: 200px">
+                    <div class="card-body">
+                        <h5 class="card-title">{{day?.day | date:'fullDate'}}</h5>
+                        <ul class="fa-ul">
+                            <ng-container *ngFor="let movie of day?.list">
+                                <li>
+                                    <i class="fa-li fas fa-arrow-right align-middle"></i> {{movie?.titles[language]}}
+                                </li>
+                                <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text={{movie?.titles[language]}}&dates={{day?.day | date:'yyyyMMdd\'T\'130000\'Z\''}}/{{day?.day | date:'yyyyMMdd\'T\'140000\'Z\''}}&details=&location=My+home&sf=true&output=xml"
+                                    class="text-decoration-none" target="_blank">
+                                    <img src="assets/logos/google-calendar.png" width="36" height="36" />
+                                </a>
+                                <ng-container *ngIf="movie?.streamings?.length > 0">
+                                    <a href="{{streaming?.url}}" class="text-decoration-none" style="padding-left: 10px"
+                                        target="_blank" *ngFor="let streaming of movie?.streamings">
+                                        <img src="{{streaming?.logo}}" width="36" height="36" />
+                                    </a>
+                                </ng-container>
+                            </ng-container>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<ng-template #content let-modal>
+    <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">Where to Watch?</h4>
+        <button type="button" class="btn-close" aria-label="Close" (click)="modal.dismiss()"></button>
+    </div>
+    <div class="modal-body">
+
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-outline-dark" (click)="modal.close()">Close</button>
+    </div>
+</ng-template>
