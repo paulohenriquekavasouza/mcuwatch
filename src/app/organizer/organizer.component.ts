@@ -31,6 +31,7 @@ export class OrganizerComponent implements OnInit {
 	quantity = 0;
 	days: any = [];
 	selectedMovie: any;
+	numDaysToWatch = 0;
 
 	constructor(public appService: AppService,
 		public translate: TranslateService,
@@ -76,6 +77,7 @@ export class OrganizerComponent implements OnInit {
 	generate() {
 		this.loading = true;
 		this.days = [];
+		this.numDaysToWatch = 0;
 		new Observable(_ => {
 			// NOW THE FUN STARTS
 			var tempResult: any = [];
@@ -173,7 +175,9 @@ export class OrganizerComponent implements OnInit {
 
 				})
 			}
-			console.log(this.days)
+			var maxDay = this.days.reduce((prev, current) => (prev.y > current.y) ? prev : current);
+			this.numDaysToWatch = Math.ceil((<any>new Date(maxDay?.day) - <any>new Date(this.dateStart)) / (1000 * 60 * 60 * 24)) + 1;
+
 			setTimeout(() => {
 				_.next();
 			}, 1000)
