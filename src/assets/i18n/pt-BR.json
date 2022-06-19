@@ -31,6 +31,7 @@
             "START": "Quando quer começar a assistir?"
         },
         "ACTION": "Gerar meu Organizador",
-        "LOADING": "Gerando resultados, isso pode levar algum tempo!"
+        "LOADING": "Gerando resultados, isso pode levar algum tempo!",
+        "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir todo o UCM!"
     }
 }
