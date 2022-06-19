@@ -118,7 +118,7 @@
 
         <div class="row" *ngIf="!loading">
             <div class="col-12" *ngIf="days?.length > 0">
-                <h4 [translate]="'ORGANIZER.NUMDAYS'" [translateParams]="{numDaysToWatch: numDaysToWatch}"></h4>
+                <h4 [translate]="'ORGANIZER.NUMDAYS'" [translateParams]="{numDaysToWatch: days.length}"></h4>
             </div>
             <div class="col-md-4 col-sm-12" *ngFor="let day of days">
                 <div class="card mt-3 overflow-auto" style="width: 26rem;height: 200px">
