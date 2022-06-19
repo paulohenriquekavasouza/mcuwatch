@@ -28,12 +28,14 @@
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" id="releaseOrder" [value]="1"
                         [(ngModel)]="isChronological" name="order">
-                    <label class="form-check-label" for="releaseOrder">{{"ORGANIZER.RADIO.ORDER.RELEASE" | translate}}</label>
+                    <label class="form-check-label" for="releaseOrder">{{"ORGANIZER.RADIO.ORDER.RELEASE" |
+                        translate}}</label>
                 </div>
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" id="chronologicalOrder" [value]="2"
                         [(ngModel)]="isChronological" name="order">
-                    <label class="form-check-label" for="chronologicalOrder">{{"ORGANIZER.RADIO.ORDER.CHRONOLOGICAL" | translate}}</label>
+                    <label class="form-check-label" for="chronologicalOrder">{{"ORGANIZER.RADIO.ORDER.CHRONOLOGICAL" |
+                        translate}}</label>
                 </div>
             </div>
         </div>
@@ -43,12 +45,14 @@
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" id="frequency1" [value]="1" [(ngModel)]="frequency"
                         name="frequency">
-                    <label class="form-check-label" for="frequency1">{{"ORGANIZER.RADIO.FREQUENCY.EVERYDAY" | translate}}</label>
+                    <label class="form-check-label" for="frequency1">{{"ORGANIZER.RADIO.FREQUENCY.EVERYDAY" |
+                        translate}}</label>
                 </div>
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" id="frequency2" [value]="2" [(ngModel)]="frequency"
                         name="frequency">
-                    <label class="form-check-label" for="frequency2">{{"ORGANIZER.RADIO.FREQUENCY.WEEKENDS" | translate}}</label>
+                    <label class="form-check-label" for="frequency2">{{"ORGANIZER.RADIO.FREQUENCY.WEEKENDS" |
+                        translate}}</label>
                 </div>
             </div>
         </div>
@@ -111,7 +115,11 @@
             </small>
         </p>
         <h2 *ngIf="loading">{{"ORGANIZER.LOADING" | translate}}</h2>
+
         <div class="row" *ngIf="!loading">
+            <div class="col-12" *ngIf="days?.length > 0">
+                <h4 [translate]="'ORGANIZER.NUMDAYS'" [translateParams]="{numDaysToWatch: numDaysToWatch}"></h4>
+            </div>
             <div class="col-md-4 col-sm-12" *ngFor="let day of days">
                 <div class="card mt-3 overflow-auto" style="width: 26rem;height: 200px">
                     <div class="card-body">
