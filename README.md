@@ -16,7 +16,9 @@ Para rodar esse projeto, basta seguir o passo-a-passo normal de uma aplicação 
 
 Pretendo adicionar ao projeto as seguintes coisas:
 - Séries canônicas e não-canônicas;
-- Listas de streamings específicas para cada região.
+- Listas de streamings específicas para cada região;
+- Classificação indicativa para mais territórios;
+- Notas do RottenTomatoes.
 
 ###### English
 Using this tool, you can organize yourself to watch the entirety of the MCU in a few weeks or months! It all depends on how much you want to watch per day.
@@ -32,4 +34,6 @@ To run this project, just follow the regular Angular applications steps.
 
 In the near future I'd to include the following content:
 - Canon and non-canon shows;
-- Region specific streaming lists.
+- Region specific streaming lists;
+- Ratings for more territories;
+- RottenTomatoes ratings.
