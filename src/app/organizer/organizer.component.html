@@ -5,7 +5,7 @@
         {{"ORGANIZER.QUESTIONS.WHAT" | translate}}
         <div class="form-group">
             <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="movies" checked [(ngModel)]="moviesChecked">
+                <input class="form-check-input" type="checkbox" id="movies" checked [(ngModel)]="moviesChecked" disabled>
                 <label class="form-check-label" for="movies">{{"ORGANIZER.RADIO.MOVIES" | translate}}</label>
             </div>
             <!-- <div class="form-check form-check-inline">
@@ -120,6 +120,7 @@
             <div class="col-12" *ngIf="days?.length > 0">
                 <h4 [translate]="'ORGANIZER.NUMDAYS'" [translateParams]="{numDaysToWatch: days.length}"></h4>
             </div>
+            <small>{{"ORGANIZER.REGIONWARNING" | translate}}</small>
             <div class="col-md-4 col-sm-12" *ngFor="let day of days">
                 <div class="card mt-3 overflow-auto" style="width: 26rem;height: 200px">
                     <div class="card-body">
