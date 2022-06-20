@@ -1,6 +1,6 @@
 # MCUWatchOrganizer
 
-[Live demo](https://paulohenriquekavasouza.github.io/mcuwatch/)
+[Live demo](https://mcuwatchorganizer.herokuapp.com)
 
 ###### Português
 Utilizando esta ferramenta, você pode se organizar para assistir todo o UCM em algumas semanas ou meses! Depende apenas do quanto quer assistir por dia.
@@ -9,6 +9,7 @@ Ele irá gerar uma agenda para você seguir, assim você consegue assistir todos
 - Angular 11
 - [@ng-bootstrap/ng-bootstrap](https://www.npmjs.com/package/@ng-bootstrap/ng-bootstrap), para estilização
 - [ngx-translate](https://www.npmjs.com/package/ngx-translate), para traduções
+- Heroku, para a demonstração
 
 Para rodar esse projeto, basta seguir o passo-a-passo normal de uma aplicação Angular.
 
@@ -27,6 +28,7 @@ It will generate a schedule for you to follow, this way you can watch all the mo
 - Angular 11
 - [@ng-bootstrap/ng-bootstrap](https://www.npmjs.com/package/@ng-bootstrap/ng-bootstrap), for styling
 - [ngx-translate](https://www.npmjs.com/package/ngx-translate), for translations
+- Heroku, for Live Demo
 
 To run this project, just follow the regular Angular applications steps.
 
