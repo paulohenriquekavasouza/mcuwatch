@@ -32,6 +32,7 @@
         },
         "ACTION": "Gerar meu Organizador",
         "LOADING": "Gerando resultados, isso pode levar algum tempo!",
-        "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir todo o UCM!"
+        "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir todo o UCM!",
+        "REGIONWARNING": "A disponibilidade de streamings pode ser diferente na sua região!"
     }
 }

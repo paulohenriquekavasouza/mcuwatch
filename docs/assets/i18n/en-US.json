@@ -32,6 +32,7 @@
         },
         "ACTION": "Generate my Organizer",
         "LOADING": "Generating results, this may take a while!",
-        "NUMDAYS": "It will take you {{numDaysToWatch}} day(s) to watch the entirety of the MCU!"
+        "NUMDAYS": "It will take you {{numDaysToWatch}} day(s) to watch the entirety of the MCU!",
+        "REGIONWARNING": "Streaming availability may differ in your region!"
     }
 }
