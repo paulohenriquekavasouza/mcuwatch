@@ -101,12 +101,11 @@ export class OrganizerComponent implements OnInit {
 			}
 
 			this.result = tempResult;
-			var dateStartFix = this.dateStart;
 
 			// MOVIES AND SHOWS ORDERED, NOW WE'RE GOING TO SPLIT IT IN DAYS
 			if (this.frequency == 1) {
 				// EVERYDAY
-				var currentDate = new Date(dateStartFix);
+				var currentDate = new Date(this.dateStart);
 
 				this.result?.forEach((val: any) => {
 					var day = this.days?.find(x => x.day == new Date(currentDate).toISOString().split('T')[0]);
@@ -136,10 +135,10 @@ export class OrganizerComponent implements OnInit {
 				})
 			} else {
 				// ONLY WEEKENDS
-				var currentDate = new Date(dateStartFix);
+				var currentDate = new Date(this.dateStart);
 
 				if (currentDate.getDay() >= 0 && currentDate.getDay() <= 5) {
-					currentDate = this.nextSaturday(new Date(dateStartFix));
+					currentDate = this.nextSaturday(new Date(this.dateStart));
 				}
 
 				this.result?.forEach((val: any) => {
