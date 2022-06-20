@@ -1,27 +1,23 @@
 # MCUWatchOrganizer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+[Live demo](https://paulohenriquekavasouza.github.io/mcuwatch/)
 
-## Development server
+###### Português
+Utilizando esta ferramenta, você pode se organizar para assistir todo o UCM em algumas semanas ou meses! Depende apenas do quanto quer assistir por dia.
+Ele irá gerar uma agenda para você seguir, assim você consegue assistir todos os filmes - no momento - em order de lançamento ou ordem cronológica.
+###### What I used
+- Angular 11
+- [@ng-bootstrap/ng-bootstrap](https://www.npmjs.com/package/@ng-bootstrap/ng-bootstrap), para estilização
+- [ngx-translate](https://www.npmjs.com/package/ngx-translate), para traduções
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Para rodar esse projeto, basta seguir o passo-a-passo normal de uma aplicação Angular.
 
-## Code scaffolding
+###### English
+Using this tool, you can organize yourself to watch the entirety of the MCU in a few weeks or months! It all depends on how much you want to watch per day.
+It will generate a schedule for you to follow, this way you can watch all the movies - for the moment - in release order or chronological order.
+###### What I used
+- Angular 11
+- [@ng-bootstrap/ng-bootstrap](https://www.npmjs.com/package/@ng-bootstrap/ng-bootstrap), for styling
+- [ngx-translate](https://www.npmjs.com/package/ngx-translate), for translations
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To run this project, just follow the regular Angular applications steps.
