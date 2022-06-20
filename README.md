@@ -5,6 +5,8 @@
 ###### Português
 Utilizando esta ferramenta, você pode se organizar para assistir todo o UCM em algumas semanas ou meses! Depende apenas do quanto quer assistir por dia.
 Ele irá gerar uma agenda para você seguir, assim você consegue assistir todos os filmes - no momento - em order de lançamento ou ordem cronológica.
+
+Toda informação foi coletada uma a uma à mão.
 ###### Ferramentas que usei
 - Angular 11
 - [@ng-bootstrap/ng-bootstrap](https://www.npmjs.com/package/@ng-bootstrap/ng-bootstrap), para estilização
@@ -24,6 +26,8 @@ Pretendo adicionar ao projeto as seguintes coisas:
 ###### English
 Using this tool, you can organize yourself to watch the entirety of the MCU in a few weeks or months! It all depends on how much you want to watch per day.
 It will generate a schedule for you to follow, this way you can watch all the movies - for the moment - in release order or chronological order.
+
+All information was gathered by hand one by one.
 ###### What I used
 - Angular 11
 - [@ng-bootstrap/ng-bootstrap](https://www.npmjs.com/package/@ng-bootstrap/ng-bootstrap), for styling
