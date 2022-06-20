@@ -49,7 +49,7 @@ export function httpTranslateLoaderFactory(http: HttpClient) {
 		{
 			provide: LOCALE_ID,
 			deps: [AppService],
-			useFactory: () => localStorage.getItem("language")
+			useFactory: () => localStorage.getItem("language") ?? "en-US"
 		}
 	],
 	bootstrap: [AppComponent]
