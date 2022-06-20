@@ -12,6 +12,12 @@ Ele irá gerar uma agenda para você seguir, assim você consegue assistir todos
 
 Para rodar esse projeto, basta seguir o passo-a-passo normal de uma aplicação Angular.
 
+###### O que vem por aí?
+
+Pretendo adicionar ao projeto as seguintes coisas:
+- Séries canônicas e não-canônicas;
+- Listas de streamings específicas para cada região.
+
 ###### English
 Using this tool, you can organize yourself to watch the entirety of the MCU in a few weeks or months! It all depends on how much you want to watch per day.
 It will generate a schedule for you to follow, this way you can watch all the movies - for the moment - in release order or chronological order.
@@ -21,3 +27,9 @@ It will generate a schedule for you to follow, this way you can watch all the mo
 - [ngx-translate](https://www.npmjs.com/package/ngx-translate), for translations
 
 To run this project, just follow the regular Angular applications steps.
+
+###### What's coming next?
+
+In the near future I'd to include the following content:
+- Canon and non-canon shows;
+- Region specific streaming lists.
