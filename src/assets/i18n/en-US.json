@@ -14,6 +14,7 @@
         "TITLE": "Organizer",
         "RADIO": {
             "MOVIES": "Movies",
+            "CANONSHOWS": "Canon Shows",
             "ORDER": {
                 "RELEASE": "Release Date",
                 "CHRONOLOGICAL": "Chronological Order"
@@ -27,8 +28,11 @@
             "WHAT": "What you want to watch?",
             "ORDER": "Which order you want to watch?",
             "FREQUENCY": "When you want to watch?",
-            "QUANTITY": "How many movies per day?",
+            "QUANTITY": "How many movies/episodes per day?",
             "START": "When you want to start watching?"
+        },
+        "OBSERVATIONS": {
+            "OBS1": "Shows produced by Marvel Studios, canonical to the MCU."
         },
         "ACTION": "Generate my Organizer",
         "LOADING": "Generating results, this may take a while!",

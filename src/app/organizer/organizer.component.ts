@@ -70,7 +70,7 @@ export class OrganizerComponent implements OnInit {
 	}
 
 	isValid() {
-		return this.frequency > 0 && this.quantity > 0;
+		return this.frequency > 0 && this.quantity > 0 && (this.moviesChecked || this.showsChecked);
 	}
 
 	generate() {
@@ -84,7 +84,10 @@ export class OrganizerComponent implements OnInit {
 				this.movies?.map((x: any) => tempResult.push(x));
 			}
 			if (this.showsChecked) {
-				this.shows?.map((x: any) => tempResult.push(x));
+				this.shows?.map((x: any) => x?.seasons?.map(y => y?.episodes?.map(z => {
+					z.showTitles = x?.titles;
+					tempResult.push(z);
+				})));
 			}
 			if (this.oneShotsChecked) {
 				this.oneshots?.map((x: any) => tempResult.push(x));
