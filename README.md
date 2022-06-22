@@ -18,7 +18,7 @@ Para rodar esse projeto, basta seguir o passo-a-passo normal de uma aplicação 
 ###### O que vem por aí?
 
 Pretendo adicionar ao projeto as seguintes coisas:
-- Séries canônicas e não-canônicas;
+- Séries não-canônicas;
 - Listas de streamings específicas para cada região;
 - Classificação indicativa para mais territórios;
 - Notas do RottenTomatoes.
@@ -39,7 +39,7 @@ To run this project, just follow the regular Angular applications steps.
 ###### What's coming next?
 
 In the near future I'd to include the following content:
-- Canon and non-canon shows;
+- Non-canon shows;
 - Region specific streaming lists;
 - Ratings for more territories;
 - RottenTomatoes ratings.
