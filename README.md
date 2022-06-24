@@ -21,7 +21,7 @@ Pretendo adicionar ao projeto as seguintes coisas:
 - Séries não-canônicas;
 - Listas de streamings específicas para cada região;
 - Classificação indicativa para mais territórios;
-- Notas do RottenTomatoes.
+- Infos do IMDb.
 
 ###### English
 Using this tool, you can organize yourself to watch the entirety of the MCU in a few weeks or months! It all depends on how much you want to watch per day.
@@ -42,4 +42,4 @@ In the near future I'd to include the following content:
 - Non-canon shows;
 - Region specific streaming lists;
 - Ratings for more territories;
-- RottenTomatoes ratings.
+- IMDb infos.
