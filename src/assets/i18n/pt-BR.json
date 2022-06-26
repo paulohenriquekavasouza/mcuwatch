@@ -39,5 +39,6 @@
         "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir todo o UCM!",
         "REGIONWARNING": "A disponibilidade de streamings pode ser diferente na sua região!"
     },
-    "DEVELOPED_BY": "Desenvolvido por Paulo Henrique"
+    "DEVELOPED_BY": "Desenvolvido por Paulo Henrique",
+    "GITHUB": "Projeto no GitHub"
 }

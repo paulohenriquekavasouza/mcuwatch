@@ -39,5 +39,6 @@
         "NUMDAYS": "It will take you {{numDaysToWatch}} day(s) to watch the entirety of the MCU!",
         "REGIONWARNING": "Streaming availability may differ in your region!"
     },
-    "DEVELOPED_BY": "Developed by Paulo Henrique"
+    "DEVELOPED_BY": "Developed by Paulo Henrique",
+    "GITHUB": "Project on GitHub"
 }
