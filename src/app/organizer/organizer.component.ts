@@ -28,6 +28,7 @@ export class OrganizerComponent implements OnInit {
 	minDate = new Date();
 	dateStart: any;
 	frequency = 0;
+	frequencyAfterGenerate = 0;
 	quantity = 0;
 	days: any = [];
 	selectedMovie: any;
@@ -76,6 +77,7 @@ export class OrganizerComponent implements OnInit {
 	generate() {
 		this.loading = true;
 		this.days = [];
+		this.frequencyAfterGenerate = this.frequency;
 		new Observable(_ => {
 			// NOW THE FUN STARTS
 			var tempResult: any = [];

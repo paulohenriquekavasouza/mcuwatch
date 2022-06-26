@@ -38,5 +38,6 @@
         "LOADING": "Gerando resultados, isso pode levar algum tempo!",
         "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir todo o UCM!",
         "REGIONWARNING": "A disponibilidade de streamings pode ser diferente na sua região!"
-    }
+    },
+    "DEVELOPED_BY": "Desenvolvido por Paulo Henrique"
 }
