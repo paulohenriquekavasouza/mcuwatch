@@ -131,12 +131,14 @@
                                     {{item?.titles[language]}}
                                 </li>
                                 <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text={{item?.titles[language]}}&dates={{day?.day | date:'yyyyMMdd\'T\'130000\'Z\''}}/{{day?.day | date:'yyyyMMdd\'T\'140000\'Z\''}}&details=&location=My+home&sf=true&output=xml"
-                                    class="text-decoration-none" target="_blank">
+                                    class="text-decoration-none" target="_blank" ngbTooltip="Google Agenda"
+                                    container="body">
                                     <img src="assets/logos/google-calendar.png" width="36" height="36" />
                                 </a>
                                 <ng-container *ngIf="item?.streamings?.length > 0">
                                     <a href="{{streaming?.url}}" class="text-decoration-none" style="padding-left: 10px"
-                                        target="_blank" *ngFor="let streaming of item?.streamings">
+                                        target="_blank" *ngFor="let streaming of item?.streamings"
+                                        [ngbTooltip]="streaming?.name" container="body">
                                         <img src="{{streaming?.logo}}" width="36" height="36" />
                                     </a>
                                 </ng-container>
