@@ -14,6 +14,7 @@
         "TITLE": "Organizador",
         "RADIO": {
             "MOVIES": "Filmes",
+            "CANONSHOWS": "Séries canônicas",
             "ORDER": {
                 "RELEASE": "Data de Lançamento",
                 "CHRONOLOGICAL": "Ordem Cronológica"
@@ -27,12 +28,17 @@
             "WHAT": "O que quer assistir?",
             "ORDER": "Em qual ordem quer assistir?",
             "FREQUENCY": "Quando quer assistir?",
-            "QUANTITY": "Quantos filmes por dia?",
+            "QUANTITY": "Quantos filmes/episódios por dia?",
             "START": "Quando quer começar a assistir?"
+        },
+        "OBSERVATIONS": {
+            "OBS1": "Séries produzidas pela Marvel Studios, canônicas ao UCM."
         },
         "ACTION": "Gerar meu Organizador",
         "LOADING": "Gerando resultados, isso pode levar algum tempo!",
         "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir todo o UCM!",
         "REGIONWARNING": "A disponibilidade de streamings pode ser diferente na sua região!"
-    }
+    },
+    "DEVELOPED_BY": "Desenvolvido por Paulo Henrique",
+    "GITHUB": "Projeto no GitHub"
 }

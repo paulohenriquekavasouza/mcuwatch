@@ -2018,6 +2018,45 @@
                                 "id": "tt11950112"
                             }
                         }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Seeing Red",
+                            "pt-BR": "De volta às origens"
+                        },
+                        "releaseDate": "2022-06-29",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/pt-br/video/1d07c159-f806-4558-bf78-6ddd02531a6d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 80,
+                            "chronologicalOrder": 74
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950118"
+                            }
+                        }
                     }
                 ]
             }
