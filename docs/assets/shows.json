@@ -6,8 +6,8 @@
         },
         "releaseDate": "2021-01-15",
         "orders": {
-            "releaseOrder":  31,
-            "chronologicalOrder": 31
+            "releaseOrder":  34,
+            "chronologicalOrder": 40
         },
         "streamings": [
             {
@@ -27,7 +27,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/964f19ae-0a75-4b53-b23a-e8f8ea0186fe",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -35,8 +36,8 @@
                             "fullForm": "31min"
                         },
                         "orders": {
-                            "releaseOrder":  1,
-                            "chronologicalOrder": 0
+                            "releaseOrder":  34,
+                            "chronologicalOrder": 40
                         },
                         "ratings": {
                             "ESRB": [
@@ -49,6 +50,11 @@
                                     "title": "12"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt9601584"
+                            }
                         }
                     },
                     {
@@ -60,7 +66,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/fb69aa70-c803-44d1-9d30-5244034ec6c8",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -68,8 +75,8 @@
                             "fullForm": "38min"
                         },
                         "orders": {
-                            "releaseOrder": 2,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 32,
+                            "chronologicalOrder": 41
                         },
                         "ratings": {
                             "ESRB": [
@@ -82,6 +89,11 @@
                                     "title": "12"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161310"
+                            }
                         }
                     },
                     {
@@ -93,7 +105,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/55f629d0-52b7-41a0-a0bf-2ae9fa1dd569",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -101,8 +114,8 @@
                             "fullForm": "34min"
                         },
                         "orders": {
-                            "releaseOrder": 3,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 33,
+                            "chronologicalOrder": 42
                         },
                         "ratings": {
                             "ESRB": [
@@ -115,6 +128,11 @@
                                     "title": "12"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161312"
+                            }
                         }
                     },
                     {
@@ -126,7 +144,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/dbaef37e-cd4d-4862-8044-f329a4bc3d71",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -134,8 +153,8 @@
                             "fullForm": "36min"
                         },
                         "orders": {
-                            "releaseOrder": 4,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 34,
+                            "chronologicalOrder": 43
                         },
                         "ratings": {
                             "ESRB": [
@@ -148,6 +167,11 @@
                                     "title": "12"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161316"
+                            }
                         }
                     },
                     {
@@ -159,7 +183,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/a0c2b9f4-f88c-4e0f-9bde-02ab532eb964",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -167,8 +192,8 @@
                             "fullForm": "43min"
                         },
                         "orders": {
-                            "releaseOrder": 5,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 35,
+                            "chronologicalOrder": 44
                         },
                         "ratings": {
                             "ESRB": [
@@ -181,6 +206,11 @@
                                     "title": "12"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161318"
+                            }
                         }
                     },
                     {
@@ -192,7 +222,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/6a2bbb5e-3ec8-4965-b6f2-9ad52e497f27",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -200,8 +231,8 @@
                             "fullForm": "40min"
                         },
                         "orders": {
-                            "releaseOrder": 6,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 36,
+                            "chronologicalOrder": 45
                         },
                         "ratings": {
                             "ESRB": [
@@ -214,6 +245,11 @@
                                     "title": "12"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161320"
+                            }
                         }
                     },
                     {
@@ -225,7 +261,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/8a5e2217-9cf1-4074-a449-ff410665ab3b",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -233,8 +270,8 @@
                             "fullForm": "39min"
                         },
                         "orders": {
-                            "releaseOrder": 7,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 37,
+                            "chronologicalOrder": 47
                         },
                         "ratings": {
                             "ESRB": [
@@ -247,6 +284,11 @@
                                     "title": "12"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13776690"
+                            }
                         }
                     },
                     {
@@ -258,7 +300,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/ebaaf404-b012-4a35-a4bd-0d5d4f32ccd0",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -266,8 +309,8 @@
                             "fullForm": "48min"
                         },
                         "orders": {
-                            "releaseOrder": 8,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 38,
+                            "chronologicalOrder": 48
                         },
                         "ratings": {
                             "ESRB": [
@@ -280,6 +323,11 @@
                                     "title": "12"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13776714"
+                            }
                         }
                     },
                     {
@@ -291,7 +339,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/ec21d421-f9fa-4a0b-8705-da87dacbdd29",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -299,8 +348,8 @@
                             "fullForm": "51min"
                         },
                         "orders": {
-                            "releaseOrder": 9,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 39,
+                            "chronologicalOrder": 49
                         },
                         "ratings": {
                             "ESRB": [
@@ -313,6 +362,11 @@
                                     "title": "12"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13778978"
+                            }
                         }
                     }
                 ]
@@ -330,6 +384,11 @@
                 }
             ]
         },
+        "rates": {
+            "imdb": {
+                "id": "tt9140560"
+            }
+        },
         "phase": 4
     },
     {
@@ -339,8 +398,8 @@
         },
         "releaseDate": "2021-03-19",
         "orders": {
-            "releaseOrder":  32,
-            "chronologicalOrder": 32
+            "releaseOrder":  40,
+            "chronologicalOrder": 51
         },
         "streamings": [
             {
@@ -360,7 +419,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/1c5d063a-52a4-4942-ac08-67f0ea13e27b",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -368,8 +428,8 @@
                             "fullForm": "51min"
                         },
                         "orders": {
-                            "releaseOrder":  1,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 40,
+                            "chronologicalOrder": 51
                         },
                         "ratings": {
                             "ESRB": [
@@ -382,6 +442,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt9212984"
+                            }
                         }
                     },
                     {
@@ -393,7 +458,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/b6a1f374-9191-4809-a675-9351bbab3631",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -401,8 +467,8 @@
                             "fullForm": "51min"
                         },
                         "orders": {
-                            "releaseOrder":  2,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 41,
+                            "chronologicalOrder": 52
                         },
                         "ratings": {
                             "ESRB": [
@@ -415,6 +481,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt9212988"
+                            }
                         }
                     },
                     {
@@ -426,7 +497,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/979bcde7-d40f-4881-9505-1f98dbd71dc6",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -434,8 +506,8 @@
                             "fullForm": "55min"
                         },
                         "orders": {
-                            "releaseOrder":  3,
-                            "chronologicalOrder": 0
+                            "releaseOrder":  42,
+                            "chronologicalOrder": 53
                         },
                         "ratings": {
                             "ESRB": [
@@ -448,6 +520,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt9212992"
+                            }
                         }
                     },
                     {
@@ -459,7 +536,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/2789e5b4-8d1b-4174-b8ab-99dc0e855a05",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -467,8 +545,8 @@
                             "fullForm": "55min"
                         },
                         "orders": {
-                            "releaseOrder":  4,
-                            "chronologicalOrder": 0
+                            "releaseOrder":  43,
+                            "chronologicalOrder": 54
                         },
                         "ratings": {
                             "ESRB": [
@@ -481,6 +559,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt9212994"
+                            }
                         }
                     },
                     {
@@ -492,7 +575,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/132fece3-4be5-4479-a530-49b779e959c0",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -500,8 +584,8 @@
                             "fullForm": "1h2min"
                         },
                         "orders": {
-                            "releaseOrder": 5,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 44,
+                            "chronologicalOrder": 55
                         },
                         "ratings": {
                             "releaseOrder":  [
@@ -514,6 +598,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt9212996"
+                            }
                         }
                     },
                     {
@@ -525,7 +614,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/f3f11053-d810-4b92-9c95-567bef5f215d",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -533,8 +623,8 @@
                             "fullForm": "54min"
                         },
                         "orders": {
-                            "releaseOrder": 6,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 45,
+                            "chronologicalOrder": 56
                         },
                         "ratings": {
                             "ESRB": [
@@ -547,6 +637,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt9212998"
+                            }
                         }
                     }
                 ]
@@ -564,6 +659,11 @@
                 }
             ]
         },
+        "rates": {
+            "imdb": {
+                "id": "tt9208876"
+            }
+        },
         "phase": 4
     },
     {
@@ -573,8 +673,8 @@
         },
         "releaseDate": "2021-06-09",
         "orders": {
-            "releaseOrder":  33,
-            "chronologicalOrder": 33
+            "releaseOrder":  46,
+            "chronologicalOrder": 25
         },
         "streamings": [
             {
@@ -594,7 +694,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/cc42ae25-d9ce-4faf-8a7e-429d31194cc7",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -602,8 +703,8 @@
                             "fullForm": "52min"
                         },
                         "orders": {
-                            "releaseOrder":  1,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 46,
+                            "chronologicalOrder": 25
                         },
                         "ratings": {
                             "ESRB": [
@@ -616,6 +717,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161330"
+                            }
                         }
                     },
                     {
@@ -627,7 +733,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/89321346-382c-45bf-9f39-26585d9cca38",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -635,8 +742,8 @@
                             "fullForm": "55min"
                         },
                         "orders": {
-                            "releaseOrder":  2,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 47,
+                            "chronologicalOrder": 26
                         },
                         "ratings": {
                             "ESRB": [
@@ -649,6 +756,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161334"
+                            }
                         }
                     },
                     {
@@ -660,7 +772,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/a50f1a1f-b539-411c-88ab-4969daa68054",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -668,8 +781,8 @@
                             "fullForm": "43min"
                         },
                         "orders": {
-                            "releaseOrder":  3,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 48,
+                            "chronologicalOrder": 27
                         },
                         "ratings": {
                             "ESRB": [
@@ -682,6 +795,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161336"
+                            }
                         }
                     },
                     {
@@ -693,7 +811,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/9e66be91-d5f8-417b-a3b3-10c367fbe082",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -701,8 +820,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder":  4,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 49,
+                            "chronologicalOrder": 28
                         },
                         "ratings": {
                             "ESRB": [
@@ -715,6 +834,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161340"
+                            }
                         }
                     },
                     {
@@ -726,7 +850,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/a7a8bc8f-3360-450b-8e8c-1e74e8707745",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -734,8 +859,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder":  5,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 50,
+                            "chronologicalOrder": 29
                         },
                         "ratings": {
                             "ESRB": [
@@ -748,6 +873,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161338"
+                            }
                         }
                     },
                     {
@@ -759,7 +889,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/bc4be7e3-8405-4414-91a1-269137a0ed15",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -767,8 +898,8 @@
                             "fullForm": "48min"
                         },
                         "orders": {
-                            "releaseOrder":  6,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 52,
+                            "chronologicalOrder": 30
                         },
                         "ratings": {
                             "ESRB": [
@@ -781,6 +912,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10161342"
+                            }
                         }
                     }
                 ]
@@ -798,6 +934,11 @@
                 }
             ]
         },
+        "rates": {
+            "imdb": {
+                "id": "tt9140554"
+            }
+        },
         "phase": 4
     },
     {
@@ -807,8 +948,8 @@
         },
         "releaseDate": "2021-08-11",
         "orders": {
-            "releaseOrder":  35,
-            "chronologicalOrder": 35
+            "releaseOrder": 53,
+            "chronologicalOrder": 31
         },
         "streamings": [
             {
@@ -828,7 +969,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/afdc98f1-26bf-48d8-8866-af185ba5d5ac",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -836,8 +978,8 @@
                             "fullForm": "36min"
                         },
                         "orders": {
-                            "releaseOrder":  1,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 53,
+                            "chronologicalOrder": 31
                         },
                         "ratings": {
                             "ESRB": [
@@ -850,6 +992,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10670784"
+                            }
                         }
                     },
                     {
@@ -861,7 +1008,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/be381346-6d72-4eee-9d72-60d84e66e5f2",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -869,8 +1017,8 @@
                             "fullForm": "37min"
                         },
                         "orders": {
-                            "releaseOrder":  2,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 54,
+                            "chronologicalOrder": 32
                         },
                         "ratings": {
                             "ESRB": [
@@ -883,6 +1031,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13106186"
+                            }
                         }
                     },
                     {
@@ -894,7 +1047,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/b06dadd8-b057-4972-b126-5d70326e9be1",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -902,8 +1056,8 @@
                             "fullForm": "35min"
                         },
                         "orders": {
-                            "releaseOrder":  3,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 55,
+                            "chronologicalOrder": 33
                         },
                         "ratings": {
                             "ESRB": [
@@ -916,6 +1070,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13106188"
+                            }
                         }
                     },
                     {
@@ -927,7 +1086,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/21545205-9940-4c05-aa92-dfe49889a2fe",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -935,8 +1095,8 @@
                             "fullForm": "38min"
                         },
                         "orders": {
-                            "releaseOrder":  4,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 56,
+                            "chronologicalOrder": 34
                         },
                         "ratings": {
                             "ESRB": [
@@ -949,6 +1109,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13106190"
+                            }
                         }
                     },
                     {
@@ -960,7 +1125,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/ae1a734c-daf0-4ed0-87bc-61bbad60afc7",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -968,8 +1134,8 @@
                             "fullForm": "34min"
                         },
                         "orders": {
-                            "releaseOrder":  5,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 58,
+                            "chronologicalOrder": 35
                         },
                         "ratings": {
                             "ESRB": [
@@ -982,6 +1148,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13106194"
+                            }
                         }
                     },
                     {
@@ -993,7 +1164,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/5f2f609c-de2e-4cc0-82a7-8216504ebe8b",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1001,8 +1173,8 @@
                             "fullForm": "35min"
                         },
                         "orders": {
-                            "releaseOrder":  6,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 59,
+                            "chronologicalOrder": 36
                         },
                         "ratings": {
                             "ESRB": [
@@ -1015,6 +1187,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13106196"
+                            }
                         }
                     },
                     {
@@ -1026,7 +1203,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/6f624a33-c259-4546-aa45-5158ae7b4875",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1034,8 +1212,8 @@
                             "fullForm": "37min"
                         },
                         "orders": {
-                            "releaseOrder":  7,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 60,
+                            "chronologicalOrder": 37
                         },
                         "ratings": {
                             "ESRB": [
@@ -1048,6 +1226,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13106200"
+                            }
                         }
                     },
                     {
@@ -1059,7 +1242,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/5b75f5e6-43c1-456c-b605-da503d2ff909",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1067,8 +1251,8 @@
                             "fullForm": "32min"
                         },
                         "orders": {
-                            "releaseOrder":  8,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 61,
+                            "chronologicalOrder": 38
                         },
                         "ratings": {
                             "ESRB": [
@@ -1081,6 +1265,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt15387948"
+                            }
                         }
                     },
                     {
@@ -1092,7 +1281,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/f06d0b1d-b19e-457c-bc88-a32aa666ffd2",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1100,8 +1290,8 @@
                             "fullForm": "37min"
                         },
                         "orders": {
-                            "releaseOrder":  9,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 62,
+                            "chronologicalOrder": 39
                         },
                         "ratings": {
                             "ESRB": [
@@ -1114,6 +1304,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt13106212"
+                            }
                         }
                     }
                 ]
@@ -1131,6 +1326,11 @@
                 }
             ]
         },
+        "rates": {
+            "imdb": {
+                "id": "tt10168312"
+            }
+        },
         "phase": 4
     },
     {
@@ -1140,8 +1340,8 @@
         },
         "releaseDate": "2021-11-24",
         "orders": {
-            "releaseOrder":  38,
-            "chronologicalOrder": 38
+            "releaseOrder": 64,
+            "chronologicalOrder": 59
         },
         "streamings": [
             {
@@ -1161,7 +1361,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/6a02d958-54b9-4704-9d17-40a6ba689066",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1169,8 +1370,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder":  1,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 64,
+                            "chronologicalOrder": 59
                         },
                         "ratings": {
                             "ESRB": [
@@ -1183,6 +1384,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10166574"
+                            }
                         }
                     },
                     {
@@ -1194,7 +1400,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/79f8992c-82b6-41d8-bf5e-b25b94966561",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1202,8 +1409,8 @@
                             "fullForm": "52min"
                         },
                         "orders": {
-                            "releaseOrder":  2,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 65,
+                            "chronologicalOrder": 60
                         },
                         "ratings": {
                             "ESRB": [
@@ -1216,6 +1423,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10166576"
+                            }
                         }
                     },
                     {
@@ -1227,7 +1439,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/92c90bce-1f86-4bc3-83e0-ed3e9e3b8f19",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1235,8 +1448,8 @@
                             "fullForm": "44min"
                         },
                         "orders": {
-                            "releaseOrder":  3,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 66,
+                            "chronologicalOrder": 61
                         },
                         "ratings": {
                             "ESRB": [
@@ -1249,6 +1462,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10166580"
+                            }
                         }
                     },
                     {
@@ -1260,7 +1478,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/bed35ff0-af74-45f1-8625-1eba1ef03232",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1268,8 +1487,8 @@
                             "fullForm": "41min"
                         },
                         "orders": {
-                            "releaseOrder":  4,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 67,
+                            "chronologicalOrder": 62
                         },
                         "ratings": {
                             "ESRB": [
@@ -1282,6 +1501,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10166578"
+                            }
                         }
                     },
                     {
@@ -1293,7 +1517,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/4520bf3f-a44f-4a2d-95cf-8b829960aa37",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1301,8 +1526,8 @@
                             "fullForm": "45min"
                         },
                         "orders": {
-                            "releaseOrder":  5,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 68,
+                            "chronologicalOrder": 63
                         },
                         "ratings": {
                             "ESRB": [
@@ -1315,6 +1540,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10166584"
+                            }
                         }
                     },
                     {
@@ -1326,7 +1556,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/3f174b87-65ae-413f-95f8-13d538781393",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1334,8 +1565,8 @@
                             "fullForm": "1h2min"
                         },
                         "orders": {
-                            "releaseOrder":  6,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 70,
+                            "chronologicalOrder": 64
                         },
                         "ratings": {
                             "ESRB": [
@@ -1348,6 +1579,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt10166582"
+                            }
                         }
                     }
                 ]
@@ -1365,6 +1601,11 @@
                 }
             ]
         },
+        "rates": {
+            "imdb": {
+                "id": "tt10160804"
+            }
+        },
         "phase": 4
     },
     {
@@ -1374,8 +1615,8 @@
         },
         "releaseDate": "2022-03-30",
         "orders": {
-            "releaseOrder":  39,
-            "chronologicalOrder": 39
+            "releaseOrder": 71,
+            "chronologicalOrder": 65
         },
         "streamings": [
             {
@@ -1395,7 +1636,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/29853478-684c-4f05-af88-ac364c90ffdc",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1403,8 +1645,8 @@
                             "fullForm": "48min"
                         },
                         "orders": {
-                            "releaseOrder":  1,
-                            "chronologicalOrder": 0
+                            "releaseOrder":  71,
+                            "chronologicalOrder": 65
                         },
                         "ratings": {
                             "ESRB": [
@@ -1417,6 +1659,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11006864"
+                            }
                         }
                     },
                     {
@@ -1428,7 +1675,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/902a7b8b-705d-400b-81c4-87dd7a02125a",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1436,8 +1684,8 @@
                             "fullForm": "53min"
                         },
                         "orders": {
-                            "releaseOrder":  2,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 72,
+                            "chronologicalOrder": 66
                         },
                         "ratings": {
                             "ESRB": [
@@ -1450,6 +1698,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950074"
+                            }
                         }
                     },
                     {
@@ -1461,7 +1714,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/f229b378-942c-4c51-a4b8-450d98436c5b",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1469,8 +1723,8 @@
                             "fullForm": "53min"
                         },
                         "orders": {
-                            "releaseOrder":  3,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 73,
+                            "chronologicalOrder": 67
                         },
                         "ratings": {
                             "ESRB": [
@@ -1483,6 +1737,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950096"
+                            }
                         }
                     },
                     {
@@ -1494,7 +1753,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/d0ba2e1d-6ced-4a8a-ac0a-b28b60a101fc",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1502,8 +1762,8 @@
                             "fullForm": "54min"
                         },
                         "orders": {
-                            "releaseOrder":  4,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 74,
+                            "chronologicalOrder": 68
                         },
                         "ratings": {
                             "ESRB": [
@@ -1516,6 +1776,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950082"
+                            }
                         }
                     },
                     {
@@ -1527,7 +1792,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/fc8c2e83-8ba4-40a4-ade1-f4ae68f522bf",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1535,8 +1801,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder":  5,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 75,
+                            "chronologicalOrder": 69
                         },
                         "ratings": {
                             "ESRB": [
@@ -1549,6 +1815,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950098"
+                            }
                         }
                     },
                     {
@@ -1560,7 +1831,8 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": ""
+                                "url": "https://www.disneyplus.com/video/d7a12a99-143e-4b49-b294-1433a9d98474",
+                                "logo": "assets/logos/dplus.png"
                             }
                         ],
                         "runtime": {
@@ -1568,8 +1840,8 @@
                             "fullForm": "45min"
                         },
                         "orders": {
-                            "releaseOrder":  6,
-                            "chronologicalOrder": 0
+                            "releaseOrder": 76,
+                            "chronologicalOrder": 70
                         },
                         "ratings": {
                             "ESRB": [
@@ -1582,6 +1854,11 @@
                                     "title": "14"
                                 }
                             ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950090"
+                            }
                         }
                     }
                 ]
@@ -1598,6 +1875,208 @@
                     "title": "14"
                 }
             ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt10234724"
+            }
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Ms. Marvel",
+            "pt-BR": "Ms. Marvel"
+        },
+        "releaseDate": "2022-06-08",
+        "orders": {
+            "releaseOrder": 77,
+            "chronologicalOrder": 72
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/ms-marvel/45BsikoMcOOo?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Generation Why",
+                            "pt-BR": "Geração \"Por quê?\""
+                        },
+                        "releaseDate": "2022-06-08",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/pt-br/video/4d8d84d0-dcca-4edc-9e9d-54448520feb8",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 77,
+                            "chronologicalOrder": 72
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11860740"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Crushed",
+                            "pt-BR": "O crush"
+                        },
+                        "releaseDate": "2022-06-15",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/pt-br/video/25ec9da4-3156-45d3-b4ec-35b4c3d4b843",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 78,
+                            "chronologicalOrder": 73
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950110"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Destined",
+                            "pt-BR": "Destinada"
+                        },
+                        "releaseDate": "2022-06-22",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/pt-br/video/37529361-2fa0-4b67-abf5-8e00f993528c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 79,
+                            "chronologicalOrder": 73
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950112"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Seeing Red",
+                            "pt-BR": "De volta às origens"
+                        },
+                        "releaseDate": "2022-06-29",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/pt-br/video/1d07c159-f806-4558-bf78-6ddd02531a6d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 80,
+                            "chronologicalOrder": 74
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950118"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt10857164"
+            }
         },
         "phase": 4
     }
