@@ -6,7 +6,7 @@
         },
         "releaseDate": "2021-01-15",
         "orders": {
-            "releaseOrder":  34,
+            "releaseOrder":  31,
             "chronologicalOrder": 40
         },
         "streamings": [
@@ -36,7 +36,7 @@
                             "fullForm": "31min"
                         },
                         "orders": {
-                            "releaseOrder":  34,
+                            "releaseOrder":  31,
                             "chronologicalOrder": 40
                         },
                         "ratings": {
