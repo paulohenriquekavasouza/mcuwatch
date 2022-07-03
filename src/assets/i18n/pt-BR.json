@@ -36,9 +36,10 @@
         },
         "ACTION": "Gerar meu Organizador",
         "LOADING": "Gerando resultados, isso pode levar algum tempo!",
-        "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir todo o UCM!",
+        "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir sua lista!",
         "REGIONWARNING": "A disponibilidade de streamings pode ser diferente na sua região!"
     },
     "DEVELOPED_BY": "Desenvolvido por Paulo Henrique",
-    "GITHUB": "Projeto no GitHub"
+    "GITHUB": "Projeto no GitHub",
+    "BACK": "Voltar"
 }
