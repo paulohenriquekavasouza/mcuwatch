@@ -24,16 +24,20 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                         data-bs-toggle="dropdown" aria-expanded="false">
-                        {{"MENU.LANGUAGE" | translate}}
+                        <i class="fas fa-globe"></i> {{"MENU.LANGUAGE" | translate}}
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li>
                             <a class="dropdown-item" [class.active]="language === 'en-US'" href="javascript: void(0)"
-                                (click)="appService.setLanguage('en-US')">English (US)</a>
+                                (click)="appService.setLanguage('en-US')">
+                                <img src="http://purecatamphetamine.github.io/country-flag-icons/3x2/US.svg" width="24"
+                                    height="24" /> English (US)</a>
                         </li>
                         <li>
                             <a class="dropdown-item" [class.active]="language === 'pt-BR'" href="javascript: void(0)"
-                                (click)="appService.setLanguage('pt-BR')">Português (Brasil)</a>
+                                (click)="appService.setLanguage('pt-BR')">
+                                <img src="http://purecatamphetamine.github.io/country-flag-icons/3x2/BR.svg" width="24"
+                                    height="24" /> Português (Brasil)</a>
                         </li>
                     </ul>
                 </li>
@@ -45,7 +49,7 @@
     </div>
 </nav>
 <router-outlet></router-outlet>
-<div class="row p-0 m-0 pt-2">
+<div class="row p-0 m-0 pt-2 pb-2">
     <div class="col-12 text-center">
         <a href="https://github.com/paulohenriquekavasouza/mcuwatch" target="_blank" class="text-decoration-none"><i
                 class="fab fa-github"></i> {{"GITHUB" | translate}}</a>
