@@ -141,6 +141,9 @@
                                     <i class="fa-li fas fa-arrow-right align-middle"></i> <span
                                         *ngIf="item?.showTitles">{{item?.showTitles[language]}} - </span>
                                     {{item?.titles[language]}}
+                                    <div class="pt-0" *ngIf="item?.showTitles">
+                                        <small class="text-muted">S{{item?.season}}E{{item?.episode}}</small>
+                                    </div>
                                 </li>
                                 <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text={{item?.titles[language]}}&dates={{day?.day | date:'yyyyMMdd\'T\'130000\'Z\''}}/{{day?.day | date:'yyyyMMdd\'T\'140000\'Z\''}}&details=&location=My+home&sf=true&output=xml"
                                     class="text-decoration-none" target="_blank" ngbTooltip="Google Agenda"

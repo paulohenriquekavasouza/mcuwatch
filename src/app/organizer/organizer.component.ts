@@ -86,8 +86,10 @@ export class OrganizerComponent implements OnInit {
 				this.movies?.map((x: any) => tempResult.push(x));
 			}
 			if (this.showsChecked) {
-				this.shows?.map((x: any) => x?.seasons?.map(y => y?.episodes?.map(z => {
+				this.shows?.map((x: any) => x?.seasons?.map((y, index) => y?.episodes?.map((z, indexb) => {
 					z.showTitles = x?.titles;
+					z.season = index+1;
+					z.episode = indexb+1;
 					tempResult.push(z);
 				})));
 			}
