@@ -1147,5 +1147,40 @@
             }
         },
         "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Thor: Love and Thunder",
+            "pt-BR": "Thor: Amor e Trovão"
+        },
+        "releaseDate": "2022-07-06",
+        "orders": {
+            "releaseOrder": 82,
+            "chronologicalOrder": 77
+        },
+        "streamings": [],
+        "theaters": true,
+        "runtime": {
+            "minutes": 118,
+            "fullForm": "1h58min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt10648342"
+            }
+        },
+        "phase": 4
     }
 ]

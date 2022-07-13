@@ -37,7 +37,8 @@
         "ACTION": "Gerar meu Organizador",
         "LOADING": "Gerando resultados, isso pode levar algum tempo!",
         "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir sua lista!",
-        "REGIONWARNING": "A disponibilidade de streamings pode ser diferente na sua região!"
+        "REGIONWARNING": "A disponibilidade de streamings pode ser diferente na sua região!",
+        "THEATERS": "Esse filme está disponível nos cinemas!"
     },
     "DEVELOPED_BY": "Desenvolvido por Paulo Henrique",
     "GITHUB": "Projeto no GitHub",
