@@ -6,7 +6,7 @@
         },
         "releaseDate": "2021-01-15",
         "orders": {
-            "releaseOrder":  34,
+            "releaseOrder":  31,
             "chronologicalOrder": 40
         },
         "streamings": [
@@ -36,7 +36,7 @@
                             "fullForm": "31min"
                         },
                         "orders": {
-                            "releaseOrder":  34,
+                            "releaseOrder":  31,
                             "chronologicalOrder": 40
                         },
                         "ratings": {
@@ -1911,7 +1911,7 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": "https://www.disneyplus.com/pt-br/video/4d8d84d0-dcca-4edc-9e9d-54448520feb8",
+                                "url": "https://www.disneyplus.com/video/4d8d84d0-dcca-4edc-9e9d-54448520feb8",
                                 "logo": "assets/logos/dplus.png"
                             }
                         ],
@@ -1950,7 +1950,7 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": "https://www.disneyplus.com/pt-br/video/25ec9da4-3156-45d3-b4ec-35b4c3d4b843",
+                                "url": "https://www.disneyplus.com/video/25ec9da4-3156-45d3-b4ec-35b4c3d4b843",
                                 "logo": "assets/logos/dplus.png"
                             }
                         ],
@@ -1989,7 +1989,7 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": "https://www.disneyplus.com/pt-br/video/37529361-2fa0-4b67-abf5-8e00f993528c",
+                                "url": "https://www.disneyplus.com/video/37529361-2fa0-4b67-abf5-8e00f993528c",
                                 "logo": "assets/logos/dplus.png"
                             }
                         ],
@@ -2028,7 +2028,7 @@
                         "streamings": [
                             {
                                 "name": "Disney+",
-                                "url": "https://www.disneyplus.com/pt-br/video/1d07c159-f806-4558-bf78-6ddd02531a6d",
+                                "url": "https://www.disneyplus.com/video/1d07c159-f806-4558-bf78-6ddd02531a6d",
                                 "logo": "assets/logos/dplus.png"
                             }
                         ],
@@ -2055,6 +2055,84 @@
                         "rates": {
                             "imdb": {
                                 "id": "tt11950118"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Time and Again",
+                            "pt-BR": "Mais uma vez"
+                        },
+                        "releaseDate": "2022-07-06",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/76b84ed9-2ad2-49bf-aa9a-8c8358ff6f68",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 41,
+                            "fullForm": "41min"
+                        },
+                        "orders": {
+                            "releaseOrder": 81,
+                            "chronologicalOrder": 75
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950120"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "No Normal",
+                            "pt-BR": "Um Normal"
+                        },
+                        "releaseDate": "2022-07-13",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ad0879fc-e8f3-4234-b2c7-a9483a8b69e6",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 83,
+                            "chronologicalOrder": 76
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950122"
                             }
                         }
                     }
