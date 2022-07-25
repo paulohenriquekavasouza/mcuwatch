@@ -1078,9 +1078,9 @@
         },
         "streamings": [
             {
-                "name": "Prime Video",
-                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.df5db546-ce75-4f60-8e7e-f9a68e00a2c1?autoplay=1&ref_=atv_cf_strg_wb",
-                "logo": "assets/logos/primevideo.png"
+                "name": "HBO Max",
+                "url": "https://play.hbomax.com/page/urn:hbo:page:GYqeASQeezEo8igEAAACK:type:feature",
+                "logo": "assets/logos/hbomax.png"
             }
         ],
         "runtime": {
