@@ -2157,5 +2157,85 @@
             }
         },
         "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "She-Hulk: Attorney at Law",
+            "pt-BR": "Mulher-Hulk: Defensora de Heróis"
+        },
+        "releaseDate": "2022-08-18",
+        "orders": {
+            "releaseOrder": 85,
+            "chronologicalOrder": 77
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/ms-marvel/45BsikoMcOOo?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "A Normal Amount of Rage",
+                            "pt-BR": "Uma Quantidade Normal de Raiva"
+                        },
+                        "releaseDate": "2022-08-18",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/cc006bed-d21b-490c-8fd9-7b6c6df26892",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 38,
+                            "fullForm": "38min"
+                        },
+                        "orders": {
+                            "releaseOrder": 83,
+                            "chronologicalOrder": 77
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11261206"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt10857160"
+            }
+        },
+        "phase": 4
     }
 ]
