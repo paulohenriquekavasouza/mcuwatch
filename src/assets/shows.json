@@ -2215,6 +2215,45 @@
                                 "id": "tt11261206"
                             }
                         }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Superhuman Law",
+                            "pt-BR": "Direito Super-Humano"
+                        },
+                        "releaseDate": "2022-08-25",
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/pt-br/video/ccd83799-6f1a-4c2f-8287-38afdd19be64",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "runtime": {
+                            "minutes": 31,
+                            "fullForm": "31min"
+                        },
+                        "orders": {
+                            "releaseOrder": 84,
+                            "chronologicalOrder": 78
+                        },
+                        "ratings": {
+                            "ESRB": [
+                                {
+                                    "title": "PG-?"
+                                }
+                            ],
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        },
+                        "rates": {
+                            "imdb": {
+                                "id": "tt11950134"
+                            }
+                        }
                     }
                 ]
             }
