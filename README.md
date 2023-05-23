@@ -1,6 +1,6 @@
 # MCUWatchOrganizer
 
-[Live demo](https://mcuwatchorganizer.herokuapp.com)
+[Live demo]([https://mcuwatchorganizer.herokuapp.com](https://mcuwatch-2b2a0.web.app/))
 
 ###### Português
 Utilizando esta ferramenta, você pode se organizar para assistir todo o UCM em algumas semanas ou meses! Depende apenas do quanto quer assistir por dia.
