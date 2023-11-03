@@ -1158,7 +1158,13 @@
             "releaseOrder": 82,
             "chronologicalOrder": 77
         },
-        "streamings": [],
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/movies/thor-amor-e-trovao/3htR8mRAZMoT",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
         "theaters": true,
         "runtime": {
             "minutes": 118,

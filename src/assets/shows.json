@@ -6,7 +6,7 @@
         },
         "releaseDate": "2021-01-15",
         "orders": {
-            "releaseOrder":  31,
+            "releaseOrder": 31,
             "chronologicalOrder": 40
         },
         "streamings": [
@@ -36,7 +36,7 @@
                             "fullForm": "31min"
                         },
                         "orders": {
-                            "releaseOrder":  31,
+                            "releaseOrder": 31,
                             "chronologicalOrder": 40
                         },
                         "ratings": {
@@ -398,7 +398,7 @@
         },
         "releaseDate": "2021-03-19",
         "orders": {
-            "releaseOrder":  40,
+            "releaseOrder": 40,
             "chronologicalOrder": 51
         },
         "streamings": [
@@ -506,7 +506,7 @@
                             "fullForm": "55min"
                         },
                         "orders": {
-                            "releaseOrder":  42,
+                            "releaseOrder": 42,
                             "chronologicalOrder": 53
                         },
                         "ratings": {
@@ -545,7 +545,7 @@
                             "fullForm": "55min"
                         },
                         "orders": {
-                            "releaseOrder":  43,
+                            "releaseOrder": 43,
                             "chronologicalOrder": 54
                         },
                         "ratings": {
@@ -588,7 +588,7 @@
                             "chronologicalOrder": 55
                         },
                         "ratings": {
-                            "releaseOrder":  [
+                            "releaseOrder": [
                                 {
                                     "title": "PG-?"
                                 }
@@ -673,7 +673,7 @@
         },
         "releaseDate": "2021-06-09",
         "orders": {
-            "releaseOrder":  46,
+            "releaseOrder": 46,
             "chronologicalOrder": 25
         },
         "streamings": [
@@ -917,6 +917,155 @@
                             "imdb": {
                                 "id": "tt10161342"
                             }
+                        }
+                    }
+                ]
+            },
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Ouroboros",
+                            "pt-BR": "Ouroboros"
+                        },
+                        "runtime": {
+                            "minutes": 47,
+                            "fullForm": "47min"
+                        },
+                        "orders": {
+                            "releaseOrder": 100,
+                            "chronologicalOrder": 94
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/37376486-35a3-4886-bf5b-7c5a59521edd",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-10-05",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Breaking Brad",
+                            "pt-BR": "Quem é Brad"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 101,
+                            "chronologicalOrder": 95
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6da7ad42-749f-449a-b43d-95bb6fb0ea58",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-10-12",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "1893",
+                            "pt-BR": "1893"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 102,
+                            "chronologicalOrder": 96
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e5654255-7b9b-43b5-8456-c272f1f7997a",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Heart of the TVA",
+                            "pt-BR": "Coração da AVT"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 103,
+                            "chronologicalOrder": 97
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/7f5b3d77-abbc-42a8-89e0-27a56a3dcca2",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-10-26",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Science/Fiction",
+                            "pt-BR": "Ciência/Ficção"
+                        },
+                        "runtime": {
+                            "minutes": 47,
+                            "fullForm": "47min"
+                        },
+                        "orders": {
+                            "releaseOrder": 104,
+                            "chronologicalOrder": 98
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/075f6353-c19f-450c-9543-72f3ea8aa074",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-11-02",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
                         }
                     }
                 ]
@@ -1645,7 +1794,7 @@
                             "fullForm": "48min"
                         },
                         "orders": {
-                            "releaseOrder":  71,
+                            "releaseOrder": 71,
                             "chronologicalOrder": 65
                         },
                         "ratings": {
@@ -2182,14 +2331,6 @@
                             "en-US": "A Normal Amount of Rage",
                             "pt-BR": "Uma Quantidade Normal de Raiva"
                         },
-                        "releaseDate": "2022-08-18",
-                        "streamings": [
-                            {
-                                "name": "Disney+",
-                                "url": "https://www.disneyplus.com/video/cc006bed-d21b-490c-8fd9-7b6c6df26892",
-                                "logo": "assets/logos/dplus.png"
-                            }
-                        ],
                         "runtime": {
                             "minutes": 38,
                             "fullForm": "38min"
@@ -2198,22 +2339,20 @@
                             "releaseOrder": 83,
                             "chronologicalOrder": 77
                         },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/cc006bed-d21b-490c-8fd9-7b6c6df26892",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-08-18",
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
                             "DJCTQ": [
                                 {
-                                    "title": "14"
+                                    "title": "12"
                                 }
                             ]
-                        },
-                        "rates": {
-                            "imdb": {
-                                "id": "tt11261206"
-                            }
                         }
                     },
                     {
@@ -2221,14 +2360,6 @@
                             "en-US": "Superhuman Law",
                             "pt-BR": "Direito Super-Humano"
                         },
-                        "releaseDate": "2022-08-25",
-                        "streamings": [
-                            {
-                                "name": "Disney+",
-                                "url": "https://www.disneyplus.com/video/ccd83799-6f1a-4c2f-8287-38afdd19be64",
-                                "logo": "assets/logos/dplus.png"
-                            }
-                        ],
                         "runtime": {
                             "minutes": 31,
                             "fullForm": "31min"
@@ -2237,22 +2368,223 @@
                             "releaseOrder": 84,
                             "chronologicalOrder": 78
                         },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ccd83799-6f1a-4c2f-8287-38afdd19be64",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-08-25",
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
                             "DJCTQ": [
                                 {
-                                    "title": "14"
+                                    "title": "12"
                                 }
                             ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The People vs. Emil Blonsky",
+                            "pt-BR": "O Povo contra Emil Blonsky"
                         },
-                        "rates": {
-                            "imdb": {
-                                "id": "tt11950134"
+                        "runtime": {
+                            "minutes": 34,
+                            "fullForm": "34min"
+                        },
+                        "orders": {
+                            "releaseOrder": 85,
+                            "chronologicalOrder": 79
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/fee04205-623c-4107-bb5e-a95de920a41e",
+                                "logo": "assets/logos/dplus.png"
                             }
+                        ],
+                        "releaseDate": "2022-09-01",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Is This Not Real Magic?",
+                            "pt-BR": "Não é Magia de Verdade?"
+                        },
+                        "runtime": {
+                            "minutes": 37,
+                            "fullForm": "37min"
+                        },
+                        "orders": {
+                            "releaseOrder": 86,
+                            "chronologicalOrder": 80
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/17bcaa81-3520-4564-9379-68fad0c37d53",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-09-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Mean, Green, and Straight Poured into These Jeans",
+                            "pt-BR": "Malvadinha, Verdinha e de Calça Apertadinha"
+                        },
+                        "runtime": {
+                            "minutes": 31,
+                            "fullForm": "31min"
+                        },
+                        "orders": {
+                            "releaseOrder": 87,
+                            "chronologicalOrder": 81
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/f550ac44-545f-4005-a19b-54d68c5af1e6",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-09-15",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Just Jen",
+                            "pt-BR": "Apenas Jen"
+                        },
+                        "runtime": {
+                            "minutes": 31,
+                            "fullForm": "31min"
+                        },
+                        "orders": {
+                            "releaseOrder": 88,
+                            "chronologicalOrder": 82
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/a832726c-52df-4a21-b3d8-5049fdcea245",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-09-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Retreat",
+                            "pt-BR": "O Retiro"
+                        },
+                        "runtime": {
+                            "minutes": 35,
+                            "fullForm": "35min"
+                        },
+                        "orders": {
+                            "releaseOrder": 89,
+                            "chronologicalOrder": 83
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/48d90aa6-3f2e-487b-91ca-382cf5aa8aae",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-09-29",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Ribbit and Rip it",
+                            "pt-BR": "Coaxando e Saltando"
+                        },
+                        "runtime": {
+                            "minutes": 36,
+                            "fullForm": "36min"
+                        },
+                        "orders": {
+                            "releaseOrder": 90,
+                            "chronologicalOrder": 84
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/d16ac549-4587-4e47-befb-a2f4a21c5ce9",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-10-06",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Whose Show is This?",
+                            "pt-BR": "De Quem É Essa Série?"
+                        },
+                        "runtime": {
+                            "minutes": 35,
+                            "fullForm": "35min"
+                        },
+                        "orders": {
+                            "releaseOrder": 91,
+                            "chronologicalOrder": 85
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/4247f96f-e86b-4d49-9746-22c62579ccd2",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-10-13",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
                         }
                     }
                 ]
@@ -2273,6 +2605,221 @@
         "rates": {
             "imdb": {
                 "id": "tt10857160"
+            }
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Secret Invasion",
+            "pt-BR": "Invasão Secreta"
+        },
+        "releaseDate": "2023-06-21",
+        "orders": {
+            "releaseOrder": 94,
+            "chronologicalOrder": 88
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/she-hulk-attorney-at-law/gPwaYusKqRQh?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Resurrection",
+                            "pt-BR": "Ressurreição"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 94,
+                            "chronologicalOrder": 88
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6611bd60-97b5-4060-8a3c-09f4cd4b2355",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-06-21",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Promises",
+                            "pt-BR": "Promessas"
+                        },
+                        "runtime": {
+                            "minutes": 58,
+                            "fullForm": "58min"
+                        },
+                        "orders": {
+                            "releaseOrder": 95,
+                            "chronologicalOrder": 89
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e13910f0-5ce3-4c44-a197-a5afcf68f536",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-06-28",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Betrayed",
+                            "pt-BR": "Traído"
+                        },
+                        "runtime": {
+                            "minutes": 44,
+                            "fullForm": "44min"
+                        },
+                        "orders": {
+                            "releaseOrder": 96,
+                            "chronologicalOrder": 90
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/d6944b40-e202-4b02-97d8-6b5aedb30bb1",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-07-05",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Beloved",
+                            "pt-BR": "Amado"
+                        },
+                        "runtime": {
+                            "minutes": 38,
+                            "fullForm": "38min"
+                        },
+                        "orders": {
+                            "releaseOrder": 97,
+                            "chronologicalOrder": 91
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/645df86d-2eda-4aa0-bb44-410ed6ad3832",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-07-12",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Harvest",
+                            "pt-BR": "Colheita"
+                        },
+                        "runtime": {
+                            "minutes": 39,
+                            "fullForm": "39min"
+                        },
+                        "orders": {
+                            "releaseOrder": 98,
+                            "chronologicalOrder": 92
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/665722d2-2ed4-4b08-9971-d836e35675f1",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-07-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Home",
+                            "pt-BR": "Lar"
+                        },
+                        "runtime": {
+                            "minutes": 38,
+                            "fullForm": "38min"
+                        },
+                        "orders": {
+                            "releaseOrder": 99,
+                            "chronologicalOrder": 93
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/79336620-4967-4002-a194-ba2be64c84d9",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-07-26",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
             }
         },
         "phase": 4
