@@ -32,7 +32,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt0371746"
@@ -50,18 +49,7 @@
             "releaseOrder": 2,
             "chronologicalOrder": 5
         },
-        "streamings": [
-            {
-                "name": "Star+",
-                "url": "https://www.starplus.com/video/c80b15f7-4215-493a-b80a-03b0ee3af966",
-                "logo": "assets/logos/splus.png"
-            },
-            {
-                "name": "Netflix",
-                "url": "https://www.netflix.com/watch/70087537",
-                "logo": "assets/logos/netflix.png"
-            }
-        ],
+        "streamings": [],
         "runtime": {
             "minutes": 112,
             "fullForm": "1h52min"
@@ -238,7 +226,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt0848228"
@@ -279,7 +266,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt1300854"
@@ -320,7 +306,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt1981115"
@@ -361,7 +346,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt1843866"
@@ -402,7 +386,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt2015381"
@@ -443,7 +426,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt2395427"
@@ -484,7 +466,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt0478970"
@@ -525,7 +506,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt3498820"
@@ -566,7 +546,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt1211837"
@@ -607,7 +586,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt3896198"
@@ -648,7 +626,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt3501632"
@@ -689,7 +666,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt2250912"
@@ -730,7 +706,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt1825683"
@@ -771,7 +746,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt4154756"
@@ -812,7 +786,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt5095030"
@@ -853,7 +826,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt4154664"
@@ -894,7 +866,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt4154796"
@@ -914,9 +885,9 @@
         },
         "streamings": [
             {
-                "name": "Prime Video",
-                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.e4b85f95-60b7-b172-232b-3a7f3ffd78c4?autoplay=1&ref_=atv_cf_strg_wb",
-                "logo": "assets/logos/primevideo.png"
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/pt-br/video/38d2c6a5-f0c4-4960-85ed-d09bd7d7943b",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -935,7 +906,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt6320628"
@@ -976,7 +946,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt3480822"
@@ -1017,7 +986,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt9376612"
@@ -1058,7 +1026,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt9032400"
@@ -1078,9 +1045,9 @@
         },
         "streamings": [
             {
-                "name": "HBO Max",
-                "url": "https://play.hbomax.com/page/urn:hbo:page:GYqeASQeezEo8igEAAACK:type:feature",
-                "logo": "assets/logos/hbomax.png"
+                "name": "Prime Video",
+                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.df5db546-ce75-4f60-8e7e-f9a68e00a2c1",
+                "logo": "assets/logos/primevideo.png"
             }
         ],
         "runtime": {
@@ -1099,7 +1066,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt10872600"
@@ -1140,7 +1106,6 @@
                 }
             ]
         },
-        
         "rates": {
             "imdb": {
                 "id": "tt9419884"
@@ -1165,7 +1130,7 @@
                 "logo": "assets/logos/dplus.png"
             }
         ],
-        "theaters": true,
+        "theaters": false,
         "runtime": {
             "minutes": 118,
             "fullForm": "1h58min"
@@ -1185,6 +1150,164 @@
         "rates": {
             "imdb": {
                 "id": "tt10648342"
+            }
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Black Panther: Wakanda Forever",
+            "pt-BR": "Pantera Negra: Wakanda Para Sempre"
+        },
+        "releaseDate": "2022-12-10",
+        "orders": {
+            "releaseOrder": 92,
+            "chronologicalOrder": 78
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/pt-br/video/89af4f55-76e4-440a-a025-3eeae2fe2166",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 145,
+            "fullForm": "2h41min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "12"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt9114286"
+            }
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Ant-Man and the Wasp: Quantumania",
+            "pt-BR": "Homem-Formiga e a Vespa: Quantumania"
+        },
+        "releaseDate": "2023-02-16",
+        "orders": {
+            "releaseOrder": 92,
+            "chronologicalOrder": 86
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/pt-br/video/498649d2-a45d-4d77-910c-f5fe1e837a90",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 124,
+            "fullForm": "2h5min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "12"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt10954600"
+            }
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Guardians of the Galaxy Vol. 3",
+            "pt-BR": "Guardiões da Galáxia Vol. 3"
+        },
+        "releaseDate": "2023-05-04",
+        "orders": {
+            "releaseOrder": 93,
+            "chronologicalOrder": 87
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/pt-br/video/2bd7042a-59ee-4e2c-a479-1c9b713b0958",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 149,
+            "fullForm": "2h29min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt6791350"
+            }
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "The Marvels",
+            "pt-BR": "As Marvels"
+        },
+        "releaseDate": "2023-11-09",
+        "orders": {
+            "releaseOrder": 105,
+            "chronologicalOrder": 99
+        },
+        "streamings": [],
+        "theaters": true,
+        "runtime": {
+            "minutes": 105,
+            "fullForm": "1h45min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt10676048"
             }
         },
         "phase": 4

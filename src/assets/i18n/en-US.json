@@ -38,7 +38,8 @@
         "LOADING": "Generating results, this may take a while!",
         "NUMDAYS": "It will take you {{numDaysToWatch}} day(s) to watch this list!",
         "REGIONWARNING": "Streaming availability may differ in your region!",
-        "THEATERS": "This movie is playing in theaters!"
+        "THEATERS": "This movie is playing in theaters!",
+        "SEASONSABBREVIATE": "S"
     },
     "DEVELOPED_BY": "Developed by Paulo Henrique",
     "GITHUB": "Project on GitHub",

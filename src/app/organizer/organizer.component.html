@@ -130,7 +130,7 @@
             <small>{{"ORGANIZER.REGIONWARNING" | translate}}</small>
             <div [class.col-lg-3.col-md-4]="frequencyAfterGenerate == 1" [class.col-md-6]="frequencyAfterGenerate == 2"
                 class="col-sm-12" *ngFor="let day of days">
-                <div class="card mt-3 overflow-auto" style="height: 200px">
+                <div class="card mt-3 overflow-auto" style="height: 250px">
                     <div class="card-header">
                         {{day?.day | date:'fullDate'}}
                     </div>
@@ -138,11 +138,16 @@
                         <ul class="fa-ul">
                             <ng-container *ngFor="let item of day?.list">
                                 <li>
-                                    <i class="fa-li fas fa-arrow-right align-middle"></i> <span
+                                    <i class="fa-li fas fa-arrow-right align-bottom"></i> <span
                                         *ngIf="item?.showTitles">{{item?.showTitles[language]}} - </span>
                                     {{item?.titles[language]}}
                                     <div class="pt-0" *ngIf="item?.showTitles">
-                                        <small class="text-muted">S{{item?.season}}E{{item?.episode}}</small>
+                                        <small class="text-muted">{{"ORGANIZER.SEASONSABBREVIATE" |
+                                            translate}}{{item?.season}}E{{item?.episode}} - </small>
+                                        <small class="text-muted">{{item?.runtime?.fullForm}}</small>
+                                    </div>
+                                    <div class="pt-0" *ngIf="!item?.showTitles">
+                                        <small class="text-muted">{{item?.runtime?.fullForm}}</small>
                                     </div>
                                 </li>
                                 <ng-container *ngIf="item?.streamings?.length == 0 && item?.theaters">
@@ -152,7 +157,7 @@
                                 </ng-container>
                                 <ng-container *ngIf="!item?.theaters">
                                     <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text={{item?.titles[language]}}&dates={{day?.day | date:'yyyyMMdd\'T\'130000\'Z\''}}/{{day?.day | date:'yyyyMMdd\'T\'140000\'Z\''}}&details=&location=My+home&sf=true&output=xml"
-                                        class="text-decoration-none" target="_blank" ngbTooltip="Google Agenda"
+                                        class="text-decoration-none" target="_blank" ngbTooltip="Google Calendar"
                                         container="body">
                                         <img src="assets/logos/google-calendar.png" width="36" height="36" />
                                     </a>
