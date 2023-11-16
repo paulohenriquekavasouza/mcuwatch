@@ -1067,6 +1067,35 @@
                                 }
                             ]
                         }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Glorious Purpose",
+                            "pt-BR": "Glorioso Propósito"
+                        },
+                        "runtime": {
+                            "minutes": 59,
+                            "fullForm": "59min"
+                        },
+                        "orders": {
+                            "releaseOrder": 106,
+                            "chronologicalOrder": 100
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/a33b22db-88c5-4b92-bdab-74f001d18f97",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-11-09",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "14"
+                                }
+                            ]
+                        }
                     }
                 ]
             }

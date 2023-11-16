@@ -15,6 +15,10 @@ const routes: Routes = [
 		component: OrganizerComponent
 	},
 	{
+		path: 'organizer/:moviesChecked/:showsChecked/:isChronological/:frequency/:quantity/:minDate',
+		component: OrganizerComponent
+	},
+	{
 		path: 'movies',
 		component: MoviesComponent
 	},

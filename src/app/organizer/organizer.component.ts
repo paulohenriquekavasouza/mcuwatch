@@ -7,6 +7,7 @@ import { FormControl, Validators } from '@angular/forms';
 import { Observable } from 'rxjs';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { TranslateService } from '@ngx-translate/core';
+import { ActivatedRoute, Router } from '@angular/router';
 
 @Component({
 	selector: 'app-organizer',
@@ -35,6 +36,8 @@ export class OrganizerComponent implements OnInit {
 
 	constructor(public appService: AppService,
 		public translate: TranslateService,
+		private activatedRoute: ActivatedRoute,
+		private router: Router,
 		private modalService: NgbModal) {
 		this.appService.getLanguage().subscribe(val => {
 			this.language = val;
@@ -42,6 +45,21 @@ export class OrganizerComponent implements OnInit {
 		});
 		this.minDate = new Date(this.minDate.setDate(this.minDate.getDate() + 1));
 		this.dateStart = this.minDate;
+
+		this.activatedRoute.queryParamMap.subscribe((val: any) => {
+			val = val?.params;
+			if (val?.moviesChecked) {
+				this.moviesChecked = val?.moviesChecked === 'true';
+				this.showsChecked = val?.showsChecked === 'true';
+				this.isChronological = val?.isChronological === 'true' ? 2 : 1;
+				this.frequency = parseInt(val?.frequency);
+				this.quantity = parseInt(val?.quantity);
+				this.minDate = new Date(val?.minDate);
+				this.minDate = new Date(this.minDate.setDate(this.minDate.getDate() + 1));
+
+				this.generate(0);
+			}
+		});
 	}
 
 	ngOnInit(): void {
@@ -74,7 +92,7 @@ export class OrganizerComponent implements OnInit {
 		return this.frequency > 0 && this.quantity > 0 && (this.moviesChecked || this.showsChecked);
 	}
 
-	generate() {
+	generate(timeOut = 1000) {
 		this.loading = true;
 		this.days = [];
 		this.frequencyAfterGenerate = this.frequency;
@@ -88,8 +106,8 @@ export class OrganizerComponent implements OnInit {
 			if (this.showsChecked) {
 				this.shows?.map((x: any) => x?.seasons?.map((y, index) => y?.episodes?.map((z, indexb) => {
 					z.showTitles = x?.titles;
-					z.season = index+1;
-					z.episode = indexb+1;
+					z.season = index + 1;
+					z.episode = indexb + 1;
 					tempResult.push(z);
 				})));
 			}
@@ -138,8 +156,7 @@ export class OrganizerComponent implements OnInit {
 						};
 						this.days.push(info);
 					}
-
-				})
+				});
 			} else {
 				// ONLY WEEKENDS
 				var currentDate = new Date(this.dateStart);
@@ -176,13 +193,22 @@ export class OrganizerComponent implements OnInit {
 						};
 						this.days.push(info);
 					}
-
-				})
+				});
 			}
+
+			this.days?.forEach(day => {
+				var titlesNotInTheaters = day?.list?.filter(x => !x?.theaters);
+				day.totalTime = titlesNotInTheaters?.reduce((acc, obj) => acc + obj?.runtime?.minutes, 0);
+			});
 
 			setTimeout(() => {
 				_.next();
-			}, 1000)
+
+				if (timeOut != 0) {
+					var minDate = new Date(new Date(this.minDate).setDate(this.minDate.getDate() - 1));
+					this.router.navigate(['/organizer'], { queryParams: { moviesChecked: this.moviesChecked, showsChecked: this.showsChecked, isChronological: this.isChronological == 2 ? true : false, frequency: this.frequency, quantity: this.quantity, minDate: minDate?.toISOString() } });
+				}
+			}, timeOut)
 		}).subscribe(_ => {
 			this.loading = false;
 		})
