@@ -15,6 +15,7 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { AppService } from './app.service';
 import { registerLocaleData } from '@angular/common';
 import localePt from '@angular/common/locales/pt';
+import { TimePipe } from './utils/time.pipe';
 
 registerLocaleData(localePt);
 
@@ -28,7 +29,8 @@ export function httpTranslateLoaderFactory(http: HttpClient) {
 		OrganizerComponent,
 		HomeComponent,
 		MoviesComponent,
-		ShowsComponent
+		ShowsComponent,
+		TimePipe
 	],
 	imports: [
 		BrowserModule,

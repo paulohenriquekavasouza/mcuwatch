@@ -32,13 +32,13 @@
                         <label class="form-check-label" for="releaseOrder">{{"ORGANIZER.RADIO.ORDER.RELEASE" |
                             translate}}</label>
                     </div>
-                    <div class="form-check form-check-inline">
+                    <!-- <div class="form-check form-check-inline">
                         <input class="form-check-input" type="radio" id="chronologicalOrder" [value]="2"
                             [(ngModel)]="isChronological" name="order">
                         <label class="form-check-label" for="chronologicalOrder">{{"ORGANIZER.RADIO.ORDER.CHRONOLOGICAL"
                             |
                             translate}}</label>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="mt-2">
@@ -118,59 +118,90 @@
 
         <div class="row" *ngIf="!loading">
             <ng-container *ngIf="days?.length > 0">
-                <div class="col-2">
-                    <button class="btn btn-success" (click)="days = []">
-                        <i class="fas fa-arrow-left"></i> {{"BACK" | translate}}
-                    </button>
-                </div>
-                <div class="col-12 mt-2">
-                    <h4 [translate]="'ORGANIZER.NUMDAYS'" [translateParams]="{numDaysToWatch: days.length}"></h4>
+                <div class="d-flex flex-row align-items-center">
+                    <div class="pe-2">
+                        <button class="btn btn-success btn-sm" (click)="days = []" [ngbTooltip]="('BACK' | translate)">
+                            <i class="fas fa-arrow-left"></i>
+                        </button>
+                    </div>
+                    <div>
+                        <h4 [translate]="'ORGANIZER.NUMDAYS'" [translateParams]="{numDaysToWatch: days.length}"></h4>
+                    </div>
+                    <!-- <div class="ms-auto">
+                        <button class="btn btn-primary btn-sm" [ngbTooltip]="('ORGANIZER.SHARE' | translate)">
+                            <i class="fas fa-share"></i>
+                        </button>
+                    </div> -->
                 </div>
             </ng-container>
             <small>{{"ORGANIZER.REGIONWARNING" | translate}}</small>
-            <div [class.col-lg-3.col-md-4]="frequencyAfterGenerate == 1" [class.col-md-6]="frequencyAfterGenerate == 2"
-                class="col-sm-12" *ngFor="let day of days">
-                <div class="card mt-3 overflow-auto" style="height: 250px">
-                    <div class="card-header">
-                        {{day?.day | date:'fullDate'}}
+            <div class="col-sm-12" [class.col-md-2]="quantity == 1 || quantity == 2"
+                [class.col-md-3]="quantity > 2 && quantity < 3" [class.col-md-4]="quantity >= 3 && quantity < 5"
+                [class.col-md-6]="quantity >= 5" *ngFor="let day of days">
+                <div class="card mt-3 overflow-auto" [style.height]="quantity == 1 ? '180px' : '230px'">
+                    <div class="card-header" style="font-size: 13px">
+                        <div class="d-flex justify-content-between">
+                            <div>
+                                {{day?.day | date:'fullDate'}}
+                            </div>
+                            <div class="small text-muted">
+                                <i class="fas fa-clock"></i> {{day?.totalTime | timetohours}}
+                            </div>
+                        </div>
                     </div>
                     <div class="card-body">
-                        <ul class="fa-ul">
+                        <div class="d-flex flex-row flex-wrap">
                             <ng-container *ngFor="let item of day?.list">
-                                <li>
-                                    <i class="fa-li fas fa-arrow-right align-bottom"></i> <span
-                                        *ngIf="item?.showTitles">{{item?.showTitles[language]}} - </span>
-                                    {{item?.titles[language]}}
-                                    <div class="pt-0" *ngIf="item?.showTitles">
-                                        <small class="text-muted">{{"ORGANIZER.SEASONSABBREVIATE" |
-                                            translate}}{{item?.season}}E{{item?.episode}} - </small>
-                                        <small class="text-muted">{{item?.runtime?.fullForm}}</small>
+                                <div class="py-1" [class.w-100]="quantity < 3"
+                                    [class.w-50]="quantity >= 3 && quantity < 5" [class.w-25]="quantity >= 5">
+                                    <div style="font-size: 13px">
+                                        <span *ngIf="item?.showTitles">
+                                            <span class="text-muted" style="font-size: 11px">
+                                                {{"ORGANIZER.SEASONSABBREVIATE" |
+                                                translate}}{{item?.season}}E{{item?.episode}}
+                                            </span>
+                                        </span> {{item?.titles[language]}}
                                     </div>
-                                    <div class="pt-0" *ngIf="!item?.showTitles">
-                                        <small class="text-muted">{{item?.runtime?.fullForm}}</small>
+                                    <div class="d-flex flex-row flex-wrap align-items-center">
+                                        <div *ngIf="item?.showTitles" style="font-size: 11px">
+                                            {{item?.showTitles[language]}}
+                                        </div>
                                     </div>
-                                </li>
-                                <ng-container *ngIf="item?.streamings?.length == 0 && item?.theaters">
-                                    <div class="text-muted">
-                                        {{"ORGANIZER.THEATERS" | translate}}
+                                    <div class="d-flex align-items-center">
+                                        <div class="pe-1 text-muted" style="font-size: 11px"
+                                            [ngbTooltip]="!item?.showTitles ? ('ORGANIZER.MOVIE' | translate) : ('ORGANIZER.SHOW' | translate)">
+                                            <i class="fas fa-film" *ngIf="!item?.showTitles"></i>
+                                            <i class="fas fa-video" *ngIf="item?.showTitles"></i>
+                                        </div>
+                                        <div class="text-muted" style="font-size: 11px">
+                                            <i class="fas fa-clock"></i> {{item?.runtime?.fullForm}}
+                                        </div>
+                                        <div class="px-1 text-muted" style="font-size: 11px">
+                                            <i class="fas fa-calendar"></i> {{item?.releaseDate | date:'dd/MM/yyyy'}}
+                                        </div>
+                                        <!-- <ng-container *ngIf="!item?.theaters">
+                                            <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text={{item?.titles[language]}}&dates={{day?.day | date:'yyyyMMdd\'T\'130000\'Z\''}}/{{day?.day | date:'yyyyMMdd\'T\'140000\'Z\''}}&details=&location=My+home&sf=true&output=xml"
+                                                class="text-decoration-none" target="_blank"
+                                                ngbTooltip="Google Calendar" container="body">
+                                                <img src="assets/logos/google-calendar.png" width="32" height="32" />
+                                            </a>
+                                        </ng-container> -->
                                     </div>
-                                </ng-container>
-                                <ng-container *ngIf="!item?.theaters">
-                                    <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text={{item?.titles[language]}}&dates={{day?.day | date:'yyyyMMdd\'T\'130000\'Z\''}}/{{day?.day | date:'yyyyMMdd\'T\'140000\'Z\''}}&details=&location=My+home&sf=true&output=xml"
-                                        class="text-decoration-none" target="_blank" ngbTooltip="Google Calendar"
-                                        container="body">
-                                        <img src="assets/logos/google-calendar.png" width="36" height="36" />
-                                    </a>
-                                </ng-container>
-                                <ng-container *ngIf="item?.streamings?.length > 0">
-                                    <a href="{{streaming?.url}}" class="text-decoration-none" style="padding-left: 10px"
-                                        target="_blank" *ngFor="let streaming of item?.streamings"
-                                        [ngbTooltip]="streaming?.name" container="body">
-                                        <img src="{{streaming?.logo}}" width="36" height="36" />
-                                    </a>
-                                </ng-container>
+                                    <ng-container *ngIf="item?.streamings?.length > 0">
+                                        <a href="{{streaming?.url}}" class="text-decoration-none" target="_blank"
+                                            *ngFor="let streaming of item?.streamings" [ngbTooltip]="streaming?.name"
+                                            container="body">
+                                            <img src="{{streaming?.logo}}" width="32" height="32" />
+                                        </a>
+                                    </ng-container>
+                                    <ng-container *ngIf="item?.streamings?.length == 0 && item?.theaters">
+                                        <div class="text-muted" style="font-size: 12px">
+                                            {{"ORGANIZER.THEATERS" | translate}}
+                                        </div>
+                                    </ng-container>
+                                </div>
                             </ng-container>
-                        </ul>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -14,7 +14,7 @@
         "TITLE": "Organizador",
         "RADIO": {
             "MOVIES": "Filmes",
-            "CANONSHOWS": "Séries canônicas",
+            "CANONSHOWS": "Séries do Disney+",
             "ORDER": {
                 "RELEASE": "Data de Lançamento",
                 "CHRONOLOGICAL": "Ordem Cronológica"
@@ -32,14 +32,17 @@
             "START": "Quando quer começar a assistir?"
         },
         "OBSERVATIONS": {
-            "OBS1": "Séries produzidas pela Marvel Studios, canônicas ao UCM."
+            "OBS1": "Séries produzidas pela Marvel Studios para o Disney+, canônicas ao UCM."
         },
         "ACTION": "Gerar meu Organizador",
         "LOADING": "Gerando resultados, isso pode levar algum tempo!",
         "NUMDAYS": "Você levará {{numDaysToWatch}} dia(s) para assistir sua lista!",
         "REGIONWARNING": "A disponibilidade de streamings pode ser diferente na sua região!",
         "THEATERS": "Esse filme está disponível nos cinemas!",
-        "SEASONSABBREVIATE": "T"
+        "SEASONSABBREVIATE": "T",
+        "SHARE": "Compartilhar minha ordem",
+        "MOVIE": "Filme",
+        "SHOW": "Série"
     },
     "DEVELOPED_BY": "Desenvolvido por Paulo Henrique",
     "GITHUB": "Projeto no GitHub",
