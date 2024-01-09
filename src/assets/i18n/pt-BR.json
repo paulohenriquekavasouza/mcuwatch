@@ -13,8 +13,11 @@
     "ORGANIZER": {
         "TITLE": "Organizador",
         "RADIO": {
-            "MOVIES": "Filmes",
+            "MOVIES": "Filmes do UCM",
             "CANONSHOWS": "Séries do Disney+",
+            "SSU": "Filmes do Universo Homem-Aranha da Sony",
+            "FOX": "Filmes do Universo de personagens da Marvel da FOX",
+            "NETFLIX": "Séries do Universo de personagens da Marvel da Netflix",
             "ORDER": {
                 "RELEASE": "Data de Lançamento",
                 "CHRONOLOGICAL": "Ordem Cronológica"
@@ -32,7 +35,10 @@
             "START": "Quando quer começar a assistir?"
         },
         "OBSERVATIONS": {
-            "OBS1": "Séries produzidas pela Marvel Studios para o Disney+, canônicas ao UCM."
+            "OBS1": "Séries produzidas pela Marvel Studios para o Disney+, canônicas ao UCM.",
+            "OBS2": "Filmes do Universo do Homem-Aranha feitos pela Sony além do Homem-Aranha do UCM. Desde 'Homem-Aranha: Sem Volta para Casa', os filmes feitos pela Sony sobre o Universo do Homem-Aranha, tornaram-se canônicos ao Multiverso do UCM.",
+            "OBS3": "Filmes de personagens da Marvel feitos pela FOX. Desde 'As Marvels', os filmes feitos pela FOX de personagens da Marvel, tornaram-se canônicos ao Multiverso do UCM.",
+            "OBS4": "Séries de personagens da Marvel feitas pela Netflix. Desde 'Homem-Aranha: Sem Volta para Casa', as séries feitas pela Netflix de personagens da Marvel, tornaram-se canônicos ao Multiverso do UCM."
         },
         "ACTION": "Gerar meu Organizador",
         "LOADING": "Gerando resultados, isso pode levar algum tempo!",

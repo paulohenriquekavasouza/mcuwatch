@@ -13,8 +13,11 @@
     "ORGANIZER": {
         "TITLE": "Organizer",
         "RADIO": {
-            "MOVIES": "Movies",
+            "MOVIES": "MCU's Movies",
             "CANONSHOWS": "Disney+ Shows",
+            "SSU": "Sony's Spider-Man Universe Movies",
+            "FOX": "Movies from the Marvel Characters Universe by FOX",
+            "NETFLIX": "Shows from the Marvel Characters Universe by Netflix",
             "ORDER": {
                 "RELEASE": "Release Date",
                 "CHRONOLOGICAL": "Chronological Order"
@@ -32,7 +35,10 @@
             "START": "When you want to start watching?"
         },
         "OBSERVATIONS": {
-            "OBS1": "Shows produced by Marvel Studios to Disney+, canonical to the MCU."
+            "OBS1": "Shows produced by Marvel Studios to Disney+, canonical to the MCU.",
+            "OBS2": "Movies from the Spider-Man Universe made by Sony beyond the MCU's Spider-Man. Since 'Spider-Man: No Way Home', Sony's movies about the Spider-Man Universe have become canonical to the MCU's Multiverse.",
+            "OBS3": "Movies featuring Marvel characters made by FOX. Since 'The Marvels', movies produced by FOX featuring Marvel characters have become canonical within the MCU's Multiverse.",
+            "OBS4": "Shows featuring Marvel characters made by Netflix. Since 'Spider-Man: No Way Home', shows produced by Netflix featuring Marvel characters have become canonical within the MCU's Multiverse."
         },
         "ACTION": "Generate my Organizer",
         "LOADING": "Generating results, this may take a while!",

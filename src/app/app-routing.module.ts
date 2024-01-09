@@ -15,7 +15,7 @@ const routes: Routes = [
 		component: OrganizerComponent
 	},
 	{
-		path: 'organizer/:moviesChecked/:showsChecked/:isChronological/:frequency/:quantity/:minDate',
+		path: 'organizer/:moviesChecked/:showsChecked/:netflixChecked/:ssuChecked/:foxChecked/:isChronological/:frequency/:quantity/:minDate',
 		component: OrganizerComponent
 	},
 	{

@@ -6,8 +6,8 @@
         },
         "releaseDate": "2008-04-29",
         "orders": {
-            "releaseOrder": 1,
-            "chronologicalOrder": 3
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -46,8 +46,8 @@
         },
         "releaseDate": "2008-06-13",
         "orders": {
-            "releaseOrder": 2,
-            "chronologicalOrder": 5
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [],
         "runtime": {
@@ -80,8 +80,8 @@
         },
         "releaseDate": "2010-04-30",
         "orders": {
-            "releaseOrder": 3,
-            "chronologicalOrder": 4
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -120,8 +120,8 @@
         },
         "releaseDate": "2011-04-29",
         "orders": {
-            "releaseOrder": 4,
-            "chronologicalOrder": 6
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -160,8 +160,8 @@
         },
         "releaseDate": "2011-07-29",
         "orders": {
-            "releaseOrder": 6,
-            "chronologicalOrder": 1
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -200,8 +200,8 @@
         },
         "releaseDate": "2012-04-27",
         "orders": {
-            "releaseOrder": 8,
-            "chronologicalOrder": 7
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -240,8 +240,8 @@
         },
         "releaseDate": "2013-04-26",
         "orders": {
-            "releaseOrder": 10,
-            "chronologicalOrder": 9
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -280,8 +280,8 @@
         },
         "releaseDate": "2013-11-08",
         "orders": {
-            "releaseOrder": 12,
-            "chronologicalOrder": 8
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -320,8 +320,8 @@
         },
         "releaseDate": "2014-04-10",
         "orders": {
-            "releaseOrder": 14,
-            "chronologicalOrder": 10
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -360,8 +360,8 @@
         },
         "releaseDate": "2014-07-31",
         "orders": {
-            "releaseOrder": 15,
-            "chronologicalOrder": 11
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -400,8 +400,8 @@
         },
         "releaseDate": "2015-03-23",
         "orders": {
-            "releaseOrder": 16,
-            "chronologicalOrder": 13
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -440,8 +440,8 @@
         },
         "releaseDate": "2015-07-16",
         "orders": {
-            "releaseOrder": 17,
-            "chronologicalOrder": 14
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -480,8 +480,8 @@
         },
         "releaseDate": "2016-04-28",
         "orders": {
-            "releaseOrder": 18,
-            "chronologicalOrder": 15
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -520,8 +520,8 @@
         },
         "releaseDate": "2016-12-02",
         "orders": {
-            "releaseOrder": 20,
-            "chronologicalOrder": 19
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -560,8 +560,8 @@
         },
         "releaseDate": "2017-04-27",
         "orders": {
-            "releaseOrder": 22,
-            "chronologicalOrder": 12
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -600,8 +600,8 @@
         },
         "releaseDate": "2017-10-26",
         "orders": {
-            "releaseOrder": 23,
-            "chronologicalOrder": 20
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -640,8 +640,8 @@
         },
         "releaseDate": "2017-07-06",
         "orders": {
-            "releaseOrder": 22,
-            "chronologicalOrder": 18
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -680,8 +680,8 @@
         },
         "releaseDate": "2018-02-15",
         "orders": {
-            "releaseOrder": 25,
-            "chronologicalOrder": 17
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -720,8 +720,8 @@
         },
         "releaseDate": "2018-04-26",
         "orders": {
-            "releaseOrder": 27,
-            "chronologicalOrder": 22
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -760,8 +760,8 @@
         },
         "releaseDate": "2018-07-05",
         "orders": {
-            "releaseOrder": 28,
-            "chronologicalOrder": 21
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -800,8 +800,8 @@
         },
         "releaseDate": "2019-03-07",
         "orders": {
-            "releaseOrder": 29,
-            "chronologicalOrder": 2
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -840,8 +840,8 @@
         },
         "releaseDate": "2019-04-25",
         "orders": {
-            "releaseOrder": 30,
-            "chronologicalOrder": 23
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -880,8 +880,8 @@
         },
         "releaseDate": "2019-07-04",
         "orders": {
-            "releaseOrder": 30,
-            "chronologicalOrder": 57
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -920,8 +920,8 @@
         },
         "releaseDate": "2021-07-08",
         "orders": {
-            "releaseOrder": 51,
-            "chronologicalOrder": 16
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -960,8 +960,8 @@
         },
         "releaseDate": "2021-09-21",
         "orders": {
-            "releaseOrder": 57,
-            "chronologicalOrder": 50
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1000,8 +1000,8 @@
         },
         "releaseDate": "2021-11-04",
         "orders": {
-            "releaseOrder": 63,
-            "chronologicalOrder": 24
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1040,8 +1040,8 @@
         },
         "releaseDate": "2021-12-16",
         "orders": {
-            "releaseOrder": 69,
-            "chronologicalOrder": 58
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1080,8 +1080,8 @@
         },
         "releaseDate": "2022-05-04",
         "orders": {
-            "releaseOrder": 77,
-            "chronologicalOrder": 71
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1120,8 +1120,8 @@
         },
         "releaseDate": "2022-07-06",
         "orders": {
-            "releaseOrder": 82,
-            "chronologicalOrder": 77
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1161,8 +1161,8 @@
         },
         "releaseDate": "2022-12-10",
         "orders": {
-            "releaseOrder": 92,
-            "chronologicalOrder": 78
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1202,8 +1202,8 @@
         },
         "releaseDate": "2023-02-16",
         "orders": {
-            "releaseOrder": 92,
-            "chronologicalOrder": 86
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1243,8 +1243,8 @@
         },
         "releaseDate": "2023-05-04",
         "orders": {
-            "releaseOrder": 93,
-            "chronologicalOrder": 87
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1284,10 +1284,16 @@
         },
         "releaseDate": "2023-11-09",
         "orders": {
-            "releaseOrder": 105,
-            "chronologicalOrder": 99
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
-        "streamings": [],
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/movies/the-marvels/3sAcYG9CeWFw",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
         "theaters": true,
         "runtime": {
             "minutes": 105,
@@ -1311,5 +1317,1055 @@
             }
         },
         "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Spider-Man",
+            "pt-BR": "Homem-Aranha"
+        },
+        "producer": "sony",
+        "releaseDate": "2002-05-03",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "HBO Max",
+                "url": "https://play.hbomax.com/feature/urn:hbo:feature:GYeg4RQeJUMINtwEAAAHk?source=googleHBOMAX&action=open",
+                "logo": "assets/logos/hbomax.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 121,
+            "fullForm": "2h1min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Spider-Man 2",
+            "pt-BR": "Homem-Aranha 2"
+        },
+        "producer": "sony",
+        "releaseDate": "2004-06-30",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Netflix",
+                "url": "https://www.netflix.com/watch/60036230?source=35",
+                "logo": "assets/logos/netflix.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 127,
+            "fullForm": "2h7min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Spider-Man 3",
+            "pt-BR": "Homem-Aranha 3"
+        },
+        "producer": "sony",
+        "releaseDate": "2007-05-04",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/b2767bcb-1050-4922-b153-d5edc83394eb?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 139,
+            "fullForm": "2h19min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "The Amazing Spider-Man",
+            "pt-BR": "O Espetacular Homem-Aranha"
+        },
+        "producer": "sony",
+        "releaseDate": "2012-07-03",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/88a1d7b6-a760-48e2-a440-e319d1da5630?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 136,
+            "fullForm": "2h16min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "The Amazing Spider-Man 2",
+            "pt-BR": "O Espetacular Homem-Aranha 2: A Ameaça de Electro"
+        },
+        "producer": "sony",
+        "releaseDate": "2014-05-02",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "HBO Max",
+                "url": "https://play.hbomax.com/feature/urn:hbo:feature:GYetqZwc89XGpCwEAAAAS?source=googleHBOMAX&action=open",
+                "logo": "assets/logos/hbomax.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 142,
+            "fullForm": "2h22min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Venom",
+            "pt-BR": "Venom"
+        },
+        "producer": "sony",
+        "releaseDate": "2018-10-05",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/c9499791-b595-4971-b2f8-b0e73fa3c10a?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 112,
+            "fullForm": "1h52min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Venom: Let There Be Carnage",
+            "pt-BR": "Venom: Tempo de Carnificina"
+        },
+        "producer": "sony",
+        "releaseDate": "2021-10-01",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Prime Video",
+                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.ffb3dff5-f5c9-4c30-9d14-90663bb6758a?autoplay=0&ref_=atv_cf_strg_wb",
+                "logo": "assets/logos/primevideo.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 97,
+            "fullForm": "1h37min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Morbius",
+            "pt-BR": "Morbius"
+        },
+        "producer": "sony",
+        "releaseDate": "2022-04-01",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Prime Video",
+                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.6cdeda97-297a-4299-97f0-522f0e1ad600?autoplay=0&ref_=atv_cf_strg_wb",
+                "logo": "assets/logos/primevideo.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 104,
+            "fullForm": "1h44min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Spider-Man: Into the Spider-Verse",
+            "pt-BR": "Homem-Aranha no Aranhaverso"
+        },
+        "producer": "sony",
+        "releaseDate": "2019-01-10",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/9f80d495-9372-4623-bd94-bb3fbaa2c68a?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 116,
+            "fullForm": "1h56min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Spider-Man: Across the Spider-Verse",
+            "pt-BR": "Homem-Aranha: Através do Aranhaverso"
+        },
+        "producer": "sony",
+        "releaseDate": "2023-06-01",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "HBO Max",
+                "url": "https://play.hbomax.com/feature/urn:hbo:feature:GZS_zdAcKjrqspgEAABKH?source=googleHBOMAX&action=open",
+                "logo": "assets/logos/hbomax.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 140,
+            "fullForm": "2h20min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "X-Men",
+            "pt-BR": "X-Men - O Filme"
+        },
+        "producer": "fox",
+        "releaseDate": "2000-07-14",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/2f183903-1672-4daa-87cc-4d8c4b0663b8?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 104,
+            "fullForm": "1h44min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "X-Men 2",
+            "pt-BR": "X-Men 2"
+        },
+        "producer": "fox",
+        "releaseDate": "2003-05-01",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/a4a9306c-d19d-4349-838d-403d145b5e1c?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 133,
+            "fullForm": "2h13min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "X-Men: The Last Stand",
+            "pt-BR": "X-Men 3: O Confronto Final"
+        },
+        "producer": "fox",
+        "releaseDate": "2006-05-25",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/a08b85d0-4ba3-4d59-9e01-84f405b95080?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 104,
+            "fullForm": "1h44min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "X-Men Origins: Wolverine",
+            "pt-BR": "X-Men Origens: Wolverine"
+        },
+        "producer": "fox",
+        "releaseDate": "2009-04-30",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/19de6446-5525-494c-bbfe-e1e8ebe89226?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 105,
+            "fullForm": "1h47min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "X-Men: First Class",
+            "pt-BR": "X-Men: Primeira Classe"
+        },
+        "producer": "fox",
+        "releaseDate": "2011-05-25",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/26b8f2ec-fd10-4ff4-ac24-51a3127fa39d?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 132,
+            "fullForm": "2h12min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "The Wolverine",
+            "pt-BR": "Wolverine - Imortal"
+        },
+        "producer": "fox",
+        "releaseDate": "2013-07-26",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/a6c2c834-a190-4ab9-a0d8-ac9f59a3667a?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 126,
+            "fullForm": "2h06min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "X-Men: Days of Future Past",
+            "pt-BR": "X-Men: Dias de um Futuro Esquecido"
+        },
+        "producer": "fox",
+        "releaseDate": "2014-05-22",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/24cf0863-f20d-469e-a7e3-048fa1246195?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 132,
+            "fullForm": "2h12min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "X-Men: Apocalypse",
+            "pt-BR": "X-Men: Apocalipse"
+        },
+        "producer": "fox",
+        "releaseDate": "2016-05-19",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/0274867d-2fcc-468a-8b5b-86d6ad63c87b?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 144,
+            "fullForm": "2h24min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Logan",
+            "pt-BR": "Logan"
+        },
+        "producer": "fox",
+        "releaseDate": "2017-03-02",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/a2179932-d63d-4fd3-a651-ec522c8ce2ba?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 137,
+            "fullForm": "2h17min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Dark Phoenix",
+            "pt-BR": "X-Men: Fênix Negra"
+        },
+        "producer": "fox",
+        "releaseDate": "2019-06-06",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/08534004-08e2-48f5-8954-60e5bcaaa3ce?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 114,
+            "fullForm": "1h54min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "The New Mutants",
+            "pt-BR": "Os Novos Mutantes"
+        },
+        "producer": "fox",
+        "releaseDate": "2020-10-22",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/3f1d6fce-336e-4430-8e73-aa41c43a1851?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 94,
+            "fullForm": "1h34min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Daredevil",
+            "pt-BR": "Demolidor - O Homem sem Medo"
+        },
+        "producer": "fox",
+        "releaseDate": "2003-02-14",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "HBO Max",
+                "url": "https://play.hbomax.com/feature/urn:hbo:feature:GWd-FgQj0mMNcawEAAAAb?source=googleHBOMAX&action=open",
+                "logo": "assets/logos/hbomax.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 133,
+            "fullForm": "2h13min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Fantastic Four",
+            "pt-BR": "Quarteto Fantástico"
+        },
+        "producer": "fox",
+        "releaseDate": "2005-07-08",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/0691ad3a-73f5-4390-8322-143fce7b72a1?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 125,
+            "fullForm": "2h5min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Fantastic Four: Rise of the Silver Surfer",
+            "pt-BR": "Quarteto Fantástico e o Surfista Prateado"
+        },
+        "producer": "fox",
+        "releaseDate": "2007-06-15",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/bfaebf7a-3afb-4dac-8713-b284007eabfd?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 92,
+            "fullForm": "1h32min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Fantastic Four (2015)",
+            "pt-BR": "Quarteto Fantástico (2015)"
+        },
+        "producer": "fox",
+        "releaseDate": "2015-08-06",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/6c2ebdb9-f650-4718-9fd0-c8da191395a7?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 106,
+            "fullForm": "1h46min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": ""
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
     }
 ]

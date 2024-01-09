@@ -6,8 +6,8 @@
         },
         "releaseDate": "2021-01-15",
         "orders": {
-            "releaseOrder": 31,
-            "chronologicalOrder": 40
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -36,8 +36,8 @@
                             "fullForm": "31min"
                         },
                         "orders": {
-                            "releaseOrder": 31,
-                            "chronologicalOrder": 40
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -75,8 +75,8 @@
                             "fullForm": "38min"
                         },
                         "orders": {
-                            "releaseOrder": 32,
-                            "chronologicalOrder": 41
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -114,8 +114,8 @@
                             "fullForm": "34min"
                         },
                         "orders": {
-                            "releaseOrder": 33,
-                            "chronologicalOrder": 42
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -153,8 +153,8 @@
                             "fullForm": "36min"
                         },
                         "orders": {
-                            "releaseOrder": 34,
-                            "chronologicalOrder": 43
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -192,8 +192,8 @@
                             "fullForm": "43min"
                         },
                         "orders": {
-                            "releaseOrder": 35,
-                            "chronologicalOrder": 44
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -231,8 +231,8 @@
                             "fullForm": "40min"
                         },
                         "orders": {
-                            "releaseOrder": 36,
-                            "chronologicalOrder": 45
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -270,8 +270,8 @@
                             "fullForm": "39min"
                         },
                         "orders": {
-                            "releaseOrder": 37,
-                            "chronologicalOrder": 47
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -309,8 +309,8 @@
                             "fullForm": "48min"
                         },
                         "orders": {
-                            "releaseOrder": 38,
-                            "chronologicalOrder": 48
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -348,8 +348,8 @@
                             "fullForm": "51min"
                         },
                         "orders": {
-                            "releaseOrder": 39,
-                            "chronologicalOrder": 49
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -398,8 +398,8 @@
         },
         "releaseDate": "2021-03-19",
         "orders": {
-            "releaseOrder": 40,
-            "chronologicalOrder": 51
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -428,8 +428,8 @@
                             "fullForm": "51min"
                         },
                         "orders": {
-                            "releaseOrder": 40,
-                            "chronologicalOrder": 51
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -467,8 +467,8 @@
                             "fullForm": "51min"
                         },
                         "orders": {
-                            "releaseOrder": 41,
-                            "chronologicalOrder": 52
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -506,8 +506,8 @@
                             "fullForm": "55min"
                         },
                         "orders": {
-                            "releaseOrder": 42,
-                            "chronologicalOrder": 53
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -545,8 +545,8 @@
                             "fullForm": "55min"
                         },
                         "orders": {
-                            "releaseOrder": 43,
-                            "chronologicalOrder": 54
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -584,8 +584,8 @@
                             "fullForm": "1h2min"
                         },
                         "orders": {
-                            "releaseOrder": 44,
-                            "chronologicalOrder": 55
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "releaseOrder": [
@@ -623,8 +623,8 @@
                             "fullForm": "54min"
                         },
                         "orders": {
-                            "releaseOrder": 45,
-                            "chronologicalOrder": 56
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -673,8 +673,8 @@
         },
         "releaseDate": "2021-06-09",
         "orders": {
-            "releaseOrder": 46,
-            "chronologicalOrder": 25
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -703,8 +703,8 @@
                             "fullForm": "52min"
                         },
                         "orders": {
-                            "releaseOrder": 46,
-                            "chronologicalOrder": 25
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -742,8 +742,8 @@
                             "fullForm": "55min"
                         },
                         "orders": {
-                            "releaseOrder": 47,
-                            "chronologicalOrder": 26
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -781,8 +781,8 @@
                             "fullForm": "43min"
                         },
                         "orders": {
-                            "releaseOrder": 48,
-                            "chronologicalOrder": 27
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -820,8 +820,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder": 49,
-                            "chronologicalOrder": 28
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -859,8 +859,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder": 50,
-                            "chronologicalOrder": 29
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -898,8 +898,8 @@
                             "fullForm": "48min"
                         },
                         "orders": {
-                            "releaseOrder": 52,
-                            "chronologicalOrder": 30
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -933,8 +933,8 @@
                             "fullForm": "47min"
                         },
                         "orders": {
-                            "releaseOrder": 100,
-                            "chronologicalOrder": 94
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -962,8 +962,8 @@
                             "fullForm": "52min"
                         },
                         "orders": {
-                            "releaseOrder": 101,
-                            "chronologicalOrder": 95
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -991,8 +991,8 @@
                             "fullForm": "56min"
                         },
                         "orders": {
-                            "releaseOrder": 102,
-                            "chronologicalOrder": 96
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -1020,8 +1020,8 @@
                             "fullForm": "51min"
                         },
                         "orders": {
-                            "releaseOrder": 103,
-                            "chronologicalOrder": 97
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -1049,8 +1049,8 @@
                             "fullForm": "47min"
                         },
                         "orders": {
-                            "releaseOrder": 104,
-                            "chronologicalOrder": 98
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -1078,8 +1078,8 @@
                             "fullForm": "59min"
                         },
                         "orders": {
-                            "releaseOrder": 106,
-                            "chronologicalOrder": 100
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -1126,8 +1126,8 @@
         },
         "releaseDate": "2021-08-11",
         "orders": {
-            "releaseOrder": 53,
-            "chronologicalOrder": 31
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1156,8 +1156,8 @@
                             "fullForm": "36min"
                         },
                         "orders": {
-                            "releaseOrder": 53,
-                            "chronologicalOrder": 31
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1195,8 +1195,8 @@
                             "fullForm": "37min"
                         },
                         "orders": {
-                            "releaseOrder": 54,
-                            "chronologicalOrder": 32
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1234,8 +1234,8 @@
                             "fullForm": "35min"
                         },
                         "orders": {
-                            "releaseOrder": 55,
-                            "chronologicalOrder": 33
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1273,8 +1273,8 @@
                             "fullForm": "38min"
                         },
                         "orders": {
-                            "releaseOrder": 56,
-                            "chronologicalOrder": 34
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1312,8 +1312,8 @@
                             "fullForm": "34min"
                         },
                         "orders": {
-                            "releaseOrder": 58,
-                            "chronologicalOrder": 35
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1351,8 +1351,8 @@
                             "fullForm": "35min"
                         },
                         "orders": {
-                            "releaseOrder": 59,
-                            "chronologicalOrder": 36
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1390,8 +1390,8 @@
                             "fullForm": "37min"
                         },
                         "orders": {
-                            "releaseOrder": 60,
-                            "chronologicalOrder": 37
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1429,8 +1429,8 @@
                             "fullForm": "32min"
                         },
                         "orders": {
-                            "releaseOrder": 61,
-                            "chronologicalOrder": 38
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1468,8 +1468,8 @@
                             "fullForm": "37min"
                         },
                         "orders": {
-                            "releaseOrder": 62,
-                            "chronologicalOrder": 39
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1518,8 +1518,8 @@
         },
         "releaseDate": "2021-11-24",
         "orders": {
-            "releaseOrder": 64,
-            "chronologicalOrder": 59
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1548,8 +1548,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder": 64,
-                            "chronologicalOrder": 59
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1587,8 +1587,8 @@
                             "fullForm": "52min"
                         },
                         "orders": {
-                            "releaseOrder": 65,
-                            "chronologicalOrder": 60
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1626,8 +1626,8 @@
                             "fullForm": "44min"
                         },
                         "orders": {
-                            "releaseOrder": 66,
-                            "chronologicalOrder": 61
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1665,8 +1665,8 @@
                             "fullForm": "41min"
                         },
                         "orders": {
-                            "releaseOrder": 67,
-                            "chronologicalOrder": 62
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1704,8 +1704,8 @@
                             "fullForm": "45min"
                         },
                         "orders": {
-                            "releaseOrder": 68,
-                            "chronologicalOrder": 63
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1743,8 +1743,8 @@
                             "fullForm": "1h2min"
                         },
                         "orders": {
-                            "releaseOrder": 70,
-                            "chronologicalOrder": 64
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1793,8 +1793,8 @@
         },
         "releaseDate": "2022-03-30",
         "orders": {
-            "releaseOrder": 71,
-            "chronologicalOrder": 65
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -1823,8 +1823,8 @@
                             "fullForm": "48min"
                         },
                         "orders": {
-                            "releaseOrder": 71,
-                            "chronologicalOrder": 65
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1862,8 +1862,8 @@
                             "fullForm": "53min"
                         },
                         "orders": {
-                            "releaseOrder": 72,
-                            "chronologicalOrder": 66
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1901,8 +1901,8 @@
                             "fullForm": "53min"
                         },
                         "orders": {
-                            "releaseOrder": 73,
-                            "chronologicalOrder": 67
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1940,8 +1940,8 @@
                             "fullForm": "54min"
                         },
                         "orders": {
-                            "releaseOrder": 74,
-                            "chronologicalOrder": 68
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -1979,8 +1979,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder": 75,
-                            "chronologicalOrder": 69
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -2018,8 +2018,8 @@
                             "fullForm": "45min"
                         },
                         "orders": {
-                            "releaseOrder": 76,
-                            "chronologicalOrder": 70
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -2068,8 +2068,8 @@
         },
         "releaseDate": "2022-06-08",
         "orders": {
-            "releaseOrder": 77,
-            "chronologicalOrder": 72
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -2098,8 +2098,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder": 77,
-                            "chronologicalOrder": 72
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -2137,8 +2137,8 @@
                             "fullForm": "52min"
                         },
                         "orders": {
-                            "releaseOrder": 78,
-                            "chronologicalOrder": 73
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -2176,8 +2176,8 @@
                             "fullForm": "48min"
                         },
                         "orders": {
-                            "releaseOrder": 79,
-                            "chronologicalOrder": 73
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -2215,8 +2215,8 @@
                             "fullForm": "48min"
                         },
                         "orders": {
-                            "releaseOrder": 80,
-                            "chronologicalOrder": 74
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -2254,8 +2254,8 @@
                             "fullForm": "41min"
                         },
                         "orders": {
-                            "releaseOrder": 81,
-                            "chronologicalOrder": 75
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -2293,8 +2293,8 @@
                             "fullForm": "50min"
                         },
                         "orders": {
-                            "releaseOrder": 83,
-                            "chronologicalOrder": 76
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "ratings": {
                             "ESRB": [
@@ -2343,8 +2343,8 @@
         },
         "releaseDate": "2022-08-18",
         "orders": {
-            "releaseOrder": 85,
-            "chronologicalOrder": 77
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -2365,8 +2365,8 @@
                             "fullForm": "38min"
                         },
                         "orders": {
-                            "releaseOrder": 83,
-                            "chronologicalOrder": 77
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2394,8 +2394,8 @@
                             "fullForm": "31min"
                         },
                         "orders": {
-                            "releaseOrder": 84,
-                            "chronologicalOrder": 78
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2423,8 +2423,8 @@
                             "fullForm": "34min"
                         },
                         "orders": {
-                            "releaseOrder": 85,
-                            "chronologicalOrder": 79
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2452,8 +2452,8 @@
                             "fullForm": "37min"
                         },
                         "orders": {
-                            "releaseOrder": 86,
-                            "chronologicalOrder": 80
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2481,8 +2481,8 @@
                             "fullForm": "31min"
                         },
                         "orders": {
-                            "releaseOrder": 87,
-                            "chronologicalOrder": 81
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2510,8 +2510,8 @@
                             "fullForm": "31min"
                         },
                         "orders": {
-                            "releaseOrder": 88,
-                            "chronologicalOrder": 82
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2539,8 +2539,8 @@
                             "fullForm": "35min"
                         },
                         "orders": {
-                            "releaseOrder": 89,
-                            "chronologicalOrder": 83
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2568,8 +2568,8 @@
                             "fullForm": "36min"
                         },
                         "orders": {
-                            "releaseOrder": 90,
-                            "chronologicalOrder": 84
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2597,8 +2597,8 @@
                             "fullForm": "35min"
                         },
                         "orders": {
-                            "releaseOrder": 91,
-                            "chronologicalOrder": 85
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2645,8 +2645,8 @@
         },
         "releaseDate": "2023-06-21",
         "orders": {
-            "releaseOrder": 94,
-            "chronologicalOrder": 88
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
         },
         "streamings": [
             {
@@ -2667,8 +2667,8 @@
                             "fullForm": "55min"
                         },
                         "orders": {
-                            "releaseOrder": 94,
-                            "chronologicalOrder": 88
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2696,8 +2696,8 @@
                             "fullForm": "58min"
                         },
                         "orders": {
-                            "releaseOrder": 95,
-                            "chronologicalOrder": 89
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2725,8 +2725,8 @@
                             "fullForm": "44min"
                         },
                         "orders": {
-                            "releaseOrder": 96,
-                            "chronologicalOrder": 90
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2754,8 +2754,8 @@
                             "fullForm": "38min"
                         },
                         "orders": {
-                            "releaseOrder": 97,
-                            "chronologicalOrder": 91
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2783,8 +2783,8 @@
                             "fullForm": "39min"
                         },
                         "orders": {
-                            "releaseOrder": 98,
-                            "chronologicalOrder": 92
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2812,8 +2812,8 @@
                             "fullForm": "38min"
                         },
                         "orders": {
-                            "releaseOrder": 99,
-                            "chronologicalOrder": 93
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
                         },
                         "streamings": [
                             {
@@ -2852,5 +2852,1946 @@
             }
         },
         "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "I'm Groot",
+            "pt-BR": "Eu Sou Groot"
+        },
+        "releaseDate": "2022-08-10",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/i-am-groot/3FfVmffm1ijj?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Groot's First Steps",
+                            "pt-BR": "Os Primeiros Passos de Groot"
+                        },
+                        "runtime": {
+                            "minutes": 6,
+                            "fullForm": "6min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/b8807174-5c95-4686-a9ce-e82d69e7c209",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-08-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Little Guy",
+                            "pt-BR": "O Carinha"
+                        },
+                        "runtime": {
+                            "minutes": 6,
+                            "fullForm": "6min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/fbd0fa67-7af6-403b-8d4c-a638824c844c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-08-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Groot's Pursuit",
+                            "pt-BR": "A Busca de Groot"
+                        },
+                        "runtime": {
+                            "minutes": 6,
+                            "fullForm": "6min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/cec6ec41-d4e9-4c96-9977-bc6b4025db7c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-08-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Groot Takes a Bath",
+                            "pt-BR": "Groot Toma Banho"
+                        },
+                        "runtime": {
+                            "minutes": 6,
+                            "fullForm": "6min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/1652ac5b-f6c4-430d-94c3-ffe6da014ec5",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-08-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Magnum Opus",
+                            "pt-BR": "Obra Prima"
+                        },
+                        "runtime": {
+                            "minutes": 6,
+                            "fullForm": "6min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ab1e8499-84c7-4f23-87cd-4649d9cc4489",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-08-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Are You My Groot?",
+                            "pt-BR": "Você é Meu Groot?"
+                        },
+                        "runtime": {
+                            "minutes": 5,
+                            "fullForm": "5min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/cf2da04e-282a-434c-92fb-962586936094",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-09-06",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Groot Noses Around",
+                            "pt-BR": "Groot Fuçando Por Aí"
+                        },
+                        "runtime": {
+                            "minutes": 4,
+                            "fullForm": "4min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/3b9c0ed9-8c47-4792-a68d-8737268c6a82",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-09-06",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Groot’s Snow Day",
+                            "pt-BR": "Dia de Neve do Groot"
+                        },
+                        "runtime": {
+                            "minutes": 5,
+                            "fullForm": "5min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/898b9c38-e180-43bd-85b2-7072e041bc47",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-09-06",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Groot’s Sweet Treat",
+                            "pt-BR": "O Doce do Groot"
+                        },
+                        "runtime": {
+                            "minutes": 5,
+                            "fullForm": "5min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/00cec89a-9d31-4271-99a6-a925e7a55c94",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-09-06",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Groot and the Great Prophecy",
+                            "pt-BR": "Groot e a Grande Profecia"
+                        },
+                        "runtime": {
+                            "minutes": 6,
+                            "fullForm": "6min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/5fa5676d-fe99-46e2-9d81-c1571c2c36d7",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-09-06",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "AL"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "AL"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
+            }
+        },
+        "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Daredevil",
+            "pt-BR": "Demolidor"
+        },
+        "releaseDate": "2015-04-10",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/daredevil/5jKSWL7ZMg50?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Into the Ring",
+                            "pt-BR": "No ringue"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/a7c4c024-ee46-42a4-a82e-d9a6c10f528b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Cut Man",
+                            "pt-BR": "Homem cortado"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/1d0c1b64-0f1e-49ee-895f-9175e2325166",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Rabbit in a Snowstorm",
+                            "pt-BR": "Coelho em uma tempestade de neve"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e7694a5f-0856-429d-9068-78bbb3ca16ba",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "In the Blood",
+                            "pt-BR": "No sangue"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/3b56f044-e152-46f2-8303-8b2762850046",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "World on Fire",
+                            "pt-BR": "O mundo em chamas"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/fc939fdd-506e-4bf9-8f03-a0ddfb30e07d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Condemned",
+                            "pt-BR": "Condenado"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6b0c5691-86f0-4891-b7d4-bc6a0f84c7d1",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Stick",
+                            "pt-BR": "Stick"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/b30aff71-9d22-452b-bb7b-df804ce520e3",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Shadows in the Glass",
+                            "pt-BR": "Sombras no vidro"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/2b6b8fb9-6eb7-42ee-8450-8e01c2cda6ef",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Speak of the Devil",
+                            "pt-BR": "Falando no diabo"
+                        },
+                        "runtime": {
+                            "minutes": 59,
+                            "fullForm": "59min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/26ecbf57-4794-4dcb-b42f-98d4033374be",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Nelson v. Murdock",
+                            "pt-BR": "Nelson contra Murdock"
+                        },
+                        "runtime": {
+                            "minutes": 58,
+                            "fullForm": "58min"
+                        },
+                        "orders": {
+                            "releaseOrder": 9,
+                            "chronologicalOrder": 9
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ab198446-02df-4423-9f7d-4dcdd4cec6f3",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Path of the Righteous",
+                            "pt-BR": "O caminho dos justos"
+                        },
+                        "runtime": {
+                            "minutes": 60,
+                            "fullForm": "60min"
+                        },
+                        "orders": {
+                            "releaseOrder": 10,
+                            "chronologicalOrder": 10
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/4ace56a2-0d3d-4ddd-bc19-3ef7b3f4d838",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Ones We Leave Behind",
+                            "pt-BR": "Aqueles que deixamos para trás"
+                        },
+                        "runtime": {
+                            "minutes": 61,
+                            "fullForm": "61min"
+                        },
+                        "orders": {
+                            "releaseOrder": 11,
+                            "chronologicalOrder": 11
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ff86c5c3-4f1c-4e74-9d77-c453dca1a1e5",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Daredevil",
+                            "pt-BR": "Demolidor"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ff86c5c3-4f1c-4e74-9d77-c453dca1a1e5",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-04-10",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Bang",
+                            "pt-BR": "Bang"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6bd0e8cd-2eb6-40c2-803b-1b05ff6bb0f3",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Dogs to a Gunfight",
+                            "pt-BR": "Cães para um tiroteio"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/a45532a6-f8ef-47f8-8a9f-bf34a7814daf",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "New York's Finest",
+                            "pt-BR": "Os melhores de Nova York"
+                        },
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/dd53f45c-a742-44a4-8542-b391376fa0dd",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Penny and Dime",
+                            "pt-BR": "Centavos"
+                        },
+                        "runtime": {
+                            "minutes": 61,
+                            "fullForm": "61min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/38377f70-9f7d-437b-bb90-77ce787363b1",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Kinbaku",
+                            "pt-BR": "Kinbaku"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/b4ad6836-f1e1-4c24-8162-0755a8deb805",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Regrets Only",
+                            "pt-BR": "Só arrependimentos"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/3f76a3e5-95d8-480a-b8a6-9e22bbf12063",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Semper Fidelis",
+                            "pt-BR": "Semper fidelis"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 6,
+                            "chronologicalOrder": 6
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/9d42abd2-d85f-4163-a8d3-80ea1b17ed8d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Guilty as Sin",
+                            "pt-BR": "Culpado como o pecado"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/57eb710f-96ad-44a5-aa4a-371c0e1d2819",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Seven Minutes in Heaven",
+                            "pt-BR": "Sete minutos no céu"
+                        },
+                        "runtime": {
+                            "minutes": 60,
+                            "fullForm": "60min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/5043b2db-2749-4512-a876-1a61fb5470b4",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Man in the Box",
+                            "pt-BR": "Encurralado"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/b4af90d6-510b-400f-a3e0-76cce0ef8a68",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": ".380",
+                            "pt-BR": ".380"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/7087b346-a0f3-432d-9918-7c40f0abd1eb",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Dark at the End of the Tunnel",
+                            "pt-BR": "A escuridão no fim do túnel"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/24aee569-6474-4f32-8ea7-ff82df19bc73",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A Cold Day in Hell's Kitchen",
+                            "pt-BR": "Um dia frio em Hell’s Kitchen"
+                        },
+                        "runtime": {
+                            "minutes": 58,
+                            "fullForm": "58min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/31064182-b379-460e-b724-382fc434ddd3",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-03-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Resurrection",
+                            "pt-BR": "Ressurreição"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/82c6fc79-baf3-46e6-ab9e-ca140c270ac8",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Please",
+                            "pt-BR": "Por favor"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/38f4e33f-5c5f-4fff-9200-6676cf4d706d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "No Good Deed",
+                            "pt-BR": "Nenhuma boa ação"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/57e6aebd-2666-42bb-bc43-51812962692e",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Blindsided",
+                            "pt-BR": "Enganado"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/7373cb6e-4281-40a2-ac73-f8583f7ad61d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Perfect Game",
+                            "pt-BR": "Jogo perfeito"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/74cf2e93-22bf-4c04-8821-83d73a947453",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Devil You Know",
+                            "pt-BR": "O diabo que você conhece"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/97034bbf-a908-440c-8bb4-acfac518e2ee",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Aftermath",
+                            "pt-BR": "Consequências"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/255481de-7dd5-42e2-b77d-b7a6400c5486",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Upstairs/Downstairs",
+                            "pt-BR": "Em cima/Embaixo"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/dba1a61d-e711-45d9-9914-43f312236cb1",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Revelations",
+                            "pt-BR": "Revelações"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/1703773d-d80a-4b97-a952-0d2d4793fdfb",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Karen",
+                            "pt-BR": "Karen"
+                        },
+                        "runtime": {
+                            "minutes": 46,
+                            "fullForm": "46min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/1c136aad-480a-41f4-a4c8-1ee80cced0cf",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Reunion",
+                            "pt-BR": "Reencontro"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/525b15c0-9781-4a67-b634-9181ec276c57",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "One Last Shot",
+                            "pt-BR": "Uma última tentativa"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/80940090-4c43-4808-983e-6e7824896dfd",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A New Napkin",
+                            "pt-BR": "Lenço novo"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/31c4540b-dfc2-46a3-9855-4181181ba97a",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-10-19",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A18"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "AL"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
+            }
+        },
+        "phase": 0,
+        "producer": "netflix"
+    },
+    {
+        "titles": {
+            "en-US": "Jessica Jones",
+            "pt-BR": "Jessica Jones"
+        },
+        "releaseDate": "2015-11-20",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/jessica-jones/4LX4rNmINp5y?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Ladies Night",
+                            "pt-BR": "A.K.A. A Noite Das Damas"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/9c1a5f64-79ef-41aa-87f3-b2060da460dc",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Crush Syndrome",
+                            "pt-BR": "A.K.A.  A Síndrome do Crush"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ba50d75a-ad27-4ba1-9421-ef3196fcfa9d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. It's Called Whiskey",
+                            "pt-BR": "A.K.A.  O Nome é Whiskey"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6b1752b4-0d96-44e7-ad29-a0df8e59e5a2",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. 99 Friends",
+                            "pt-BR": "A.K.A. 99 Amigos"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/17634b42-be5c-4eff-a56b-5b88d9eb8199",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. The Sandwich Saved Me",
+                            "pt-BR": "A.K.A. O Sanduíche Me Salvou"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/497616fe-40d7-4af1-a94a-c13212acac8b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. You're a Winner!",
+                            "pt-BR": "A.K.A. Você é Uma Vencedora!"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6ad31f5c-d7eb-486b-a6e1-67664985fc6a",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Top Shelf Perverts",
+                            "pt-BR": "A.K.A. Pervertidos Obscenos"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/23e6c6cf-5367-491b-89f0-f7238c29c286",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. WWJD?",
+                            "pt-BR": "A.K.A. WWJD?"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/51474bfe-d2a2-4360-b5a2-42408ac4db0a",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Sin Bin",
+                            "pt-BR": "A.K.A. Pênalti"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ec445443-227a-4f4e-b639-509c7064375c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. 1,000 Cuts",
+                            "pt-BR": "A.K.A. 1.000 Cortes"
+                        },
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/f2c8833c-136c-48b4-97f1-3bc4d4c55ce6",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. I've Got the Blues",
+                            "pt-BR": "A.K.A. Estou Triste."
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/c85a263c-7015-4978-bb70-54264758dbe1",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Take a Bloody Number",
+                            "pt-BR": "A.K.A. Anote o Maldito Número"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/b8ab0249-36a3-45c3-93d9-5729b74291d3",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Smile",
+                            "pt-BR": "A.K.A. Sorria"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e2a44bb9-8876-4a64-bbc4-011b91e90bb1",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2015-11-20",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "A16"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "episodes": []
+            },
+            {
+                "episodes": []
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "AL"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
+            }
+        },
+        "phase": 0,
+        "producer": "netflix"
     }
 ]
