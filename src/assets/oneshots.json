@@ -12,7 +12,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/26fa255c-655f-49b8-8642-3670a34e26ea"
+                "url": "https://www.disneyplus.com/video/26fa255c-655f-49b8-8642-3670a34e26ea",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -46,7 +47,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/7dcbdd19-49f8-42bd-91a2-82c0a571c26e"
+                "url": "https://www.disneyplus.com/video/7dcbdd19-49f8-42bd-91a2-82c0a571c26e",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -80,7 +82,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/5bcd6e95-1c90-4e45-bc86-3e85c8c01d67"
+                "url": "https://www.disneyplus.com/video/5bcd6e95-1c90-4e45-bc86-3e85c8c01d67",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -114,7 +117,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/65e1432a-1108-46c6-b8fa-35d8b64471c1"
+                "url": "https://www.disneyplus.com/video/65e1432a-1108-46c6-b8fa-35d8b64471c1",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -148,7 +152,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/e5c802dd-0a01-4157-9788-dee95a685162"
+                "url": "https://www.disneyplus.com/video/e5c802dd-0a01-4157-9788-dee95a685162",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -182,7 +187,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/movies/marvel-one-shot-team-thor-part-1/1TzAxRHo4kjK"
+                "url": "https://www.disneyplus.com/movies/marvel-one-shot-team-thor-part-1/1TzAxRHo4kjK",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -216,7 +222,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/1a191d76-2d43-4910-a41b-695a9e47b515?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/1a191d76-2d43-4910-a41b-695a9e47b515?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "runtime": {
@@ -250,7 +257,8 @@
         "streamings": [
             {
                 "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/f2caf658-d08c-4c20-80fd-bb82dfbdafd6?distributionPartner=google"
+                "url": "https://www.disneyplus.com/video/f2caf658-d08c-4c20-80fd-bb82dfbdafd6?distributionPartner=google",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "runtime": {

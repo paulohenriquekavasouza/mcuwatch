@@ -54,6 +54,7 @@ export class OrganizerComponent implements OnInit {
 			if (val?.moviesChecked) {
 				this.moviesChecked = val?.moviesChecked === 'true';
 				this.showsChecked = val?.showsChecked === 'true';
+				this.oneShotsChecked = val?.oneShotsChecked === 'true';
 				this.ssuChecked = val?.ssuChecked === 'true';
 				this.foxChecked = val?.foxChecked === 'true';
 				this.netflixChecked = val?.netflixChecked === 'true';
@@ -244,7 +245,8 @@ export class OrganizerComponent implements OnInit {
 
 				if (timeOut != 0) {
 					var minDate = new Date(new Date(this.minDate).setDate(this.minDate.getDate() - 1));
-					this.router.navigate(['/organizer'], { queryParams: { moviesChecked: this.moviesChecked, showsChecked: this.showsChecked, netflixChecked: this.netflixChecked, ssuChecked: this.ssuChecked, foxChecked: this.foxChecked, isChronological: this.isChronological == 2 ? true : false, frequency: this.frequency, quantity: this.quantity, minDate: minDate?.toISOString() } });
+					minDate.setHours(20, 59, 59);
+					this.router.navigate(['/organizer'], { queryParams: { moviesChecked: this.moviesChecked, showsChecked: this.showsChecked, oneShotsChecked: this.oneShotsChecked, netflixChecked: this.netflixChecked, ssuChecked: this.ssuChecked, foxChecked: this.foxChecked, isChronological: this.isChronological == 2 ? true : false, frequency: this.frequency, quantity: this.quantity, minDate: minDate?.toISOString() } });
 				}
 			}, timeOut)
 		}).subscribe(_ => {

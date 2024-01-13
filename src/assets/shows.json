@@ -5033,10 +5033,766 @@
                 ]
             },
             {
-                "episodes": []
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "AKA Start at the Beginning",
+                            "pt-BR": "A.K.A. Comece do Começo"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/328f2ac8-b32a-42a4-9345-4f3d591e500f",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA Freak Accident",
+                            "pt-BR": "A.K.A. Estranho Acidente"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/98664511-c2d8-4ee9-8582-816ca80ad34b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA Sole Survivor",
+                            "pt-BR": "A.K.A. O Único Sobrevivente"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/98b49539-ad9b-426b-9230-c4fb866a2e4a",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA God Help the Hobo",
+                            "pt-BR": "A.K.A. Surge Uma Pista"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6ddf3117-0857-48a4-a14d-d82e41e21085",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA The Octopus",
+                            "pt-BR": "A.K.A. O Polvo"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/dd3cc886-26e8-4b7b-8635-5c226d73830e",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA Facetime",
+                            "pt-BR": "A.K.A. Facetime"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/cf456555-4a9f-42d3-8761-b14d4398c33b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA I Want Your Cray Cray",
+                            "pt-BR": "A.K.A. O Próximo Passo"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/12fcb724-7b58-47ef-8f9e-d949c50956d4",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA Ain't We Got Fun",
+                            "pt-BR": "A.K.A. Não nos divertimos?"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/02ec2c9e-9f3f-4689-8b08-c85f642a0f33",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA Shark in the Bathtub",
+                            "pt-BR": "A.K.A. Tubarão na Banheira, Monstro na Cama"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/1ea8db27-1804-4e9d-8fc4-59998190e586",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA Pork Chop",
+                            "pt-BR": "A.K.A. Costeleta de Porco"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/d0f07885-a5cd-49b5-b50d-24cd28b954e4",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA Three Lives and Counting",
+                            "pt-BR": "A.K.A.  Três Vidas e Contando"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 10,
+                            "chronologicalOrder": 10
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/098f5b7e-e816-454c-84b1-33bce2a012e7",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA Pray for My Patsy",
+                            "pt-BR": "A.K.A. Playland"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 11,
+                            "chronologicalOrder": 10
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e4bf267c-fa5f-4717-8c67-01b53ded66aa",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "AKA Playland",
+                            "pt-BR": "A.K.A. Playland"
+                        },
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 12,
+                            "chronologicalOrder": 11
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6a84b195-9122-410e-807c-ebd28d819d05",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-03-08",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    }
+                ]
             },
             {
-                "episodes": []
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. The Perfect Burger",
+                            "pt-BR": "A.K.A. O Hamburguer Perfeito"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/2fd88b93-1f51-4335-a992-7d3e001a447a",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. You're Welcome",
+                            "pt-BR": "A.K.A.  De Nada"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/5e08e8f6-6032-4f3b-8505-db5f28e8967c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. I Have No Spleen",
+                            "pt-BR": "A.K.A.  Não Tenho Baço"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/0cc2b97c-a36b-43b9-84da-a47b006d6895",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Customer Service Is Standing By",
+                            "pt-BR": "A.K.A. O Serviço Ao Cliente Está Em Modo Standing By"
+                        },
+                        "runtime": {
+                            "minutes": 46,
+                            "fullForm": "46min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/2aeb948f-0c75-4a84-a278-27e6913a023d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. I Wish",
+                            "pt-BR": "A.K.A. Eu Gostaria"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/b06f4298-8b06-42d9-82b3-83eac7d6f2c6",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Sorry Face",
+                            "pt-BR": "A.K.A. Cara De \"Sinto Muito\""
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/5f61eca6-0ce6-41c6-92b4-8c654ffe3905",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. The Double Half-Wappinger",
+                            "pt-BR": "A.K.A. Meio-Wappinger Duplo"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/85b3f749-cb2a-46d4-a37e-a67e4ad21ba9",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Camera Friendly",
+                            "pt-BR": "A.K.A. Amigo Da Câmera"
+                        },
+                        "runtime": {
+                            "minutes": 44,
+                            "fullForm": "44min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6a7e5ca7-b682-46a0-a07c-86d81a79753b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. I Did Something Today",
+                            "pt-BR": "A.K.A. Fiz Uma Coisa Hoje"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/220954b4-f9b4-4f42-b4cb-80735a47851c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Hero Pants",
+                            "pt-BR": "A.K.A. No Lugar De Um Herói"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/f1f4181e-36d6-4bfb-89c0-8195be67f996",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Hellcat",
+                            "pt-BR": "A.K.A. Inferno"
+                        },
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/fd54692b-abe9-4c2f-b51f-27c5241f8272",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. A Lotta Worms",
+                            "pt-BR": "A.K.A. Muitas Minhocas"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/d39ec818-be6b-4834-b89c-bc0124fe2827",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A.K.A. Everything",
+                            "pt-BR": "A.K.A. Tudo"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6d12bc66-5a28-43b1-a0d5-f661008fb6ee",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-06-14",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    }
+                ]
             }
         ],
         "ratings": {
@@ -5244,5 +6000,2592 @@
             }
         },
         "phase": 4
+    },
+    {
+        "titles": {
+            "en-US": "Luke Cage",
+            "pt-BR": "Luke Cage"
+        },
+        "releaseDate": "2016-09-30",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/luke-cage/1L458elR85KN?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Moment of Truth",
+                            "pt-BR": "Moment of Truth"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/95befc5b-5a12-41b5-8729-94cb2b5704f4",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Code of the Streets",
+                            "pt-BR": "Code of the Streets"
+                        },
+                        "runtime": {
+                            "minutes": 59,
+                            "fullForm": "59min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/0aaf9eda-a13d-4d4d-a972-9f836c7d396b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Who’s Gonna Take the Weight?",
+                            "pt-BR": "Who’s Gonna Take the Weight?"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/aae6df6f-7095-4160-b3c3-166422abf1be",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Step in the Arena",
+                            "pt-BR": "Step in the Arena"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/b2cdd5b2-07be-473b-86b8-ea7e2cf4d83e",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Just Get a Rep",
+                            "pt-BR": "Just Get a Rep"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/5b2f48fe-9ba1-4636-a8c0-8ead6cca21b7",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Suckas Need Bodyguards",
+                            "pt-BR": "Suckas Need Bodyguards"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ec9c476b-0643-47e7-ae15-72ebdd45b2fe",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Manifest",
+                            "pt-BR": "Manifest"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/9ebea1c3-655f-4e9e-a62b-9401c468cee2",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Blowin' Up The Spot",
+                            "pt-BR": "Blowin' Up The Spot"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/f8974351-d966-473e-8909-84f4d0f3a17d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "DWYCK",
+                            "pt-BR": "DWYCK"
+                        },
+                        "runtime": {
+                            "minutes": 66,
+                            "fullForm": "66min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6efac05a-d6d6-40cb-a99e-d0457e31d04e",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Take It Personal",
+                            "pt-BR": "Take It Personal"
+                        },
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/034f85db-3687-42e9-aef3-ceca4ba97e42",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Now You're Mine",
+                            "pt-BR": "Now You're Mine"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/c7cbdf46-b31b-4504-acaa-2117d9ee8aee",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Soliloquy of Chaos",
+                            "pt-BR": "Soliloquy of Chaos"
+                        },
+                        "runtime": {
+                            "minutes": 62,
+                            "fullForm": "62min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/2136ae66-cfe9-4368-b709-4ba83688ffa4",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "You Know My Steez",
+                            "pt-BR": "You Know My Steez"
+                        },
+                        "runtime": {
+                            "minutes": 46,
+                            "fullForm": "46min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/4b751068-f0c6-40e1-907e-54f52197dc76",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2016-09-30",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Soul Brother #1",
+                            "pt-BR": "Soul Brother #1"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/127d195c-901a-45cb-9ffc-84e4d3e3276c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Straighten It Out",
+                            "pt-BR": "Straighten It Out"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/3bf8cd83-962c-43f1-9c50-b0db17974590",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Wig Out",
+                            "pt-BR": "Wig Out"
+                        },
+                        "runtime": {
+                            "minutes": 60,
+                            "fullForm": "60min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/f201c5ec-60d2-44d7-ac3d-39c032a0e4fb",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "I Get Physical",
+                            "pt-BR": "I Get Physical"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/4ff58199-18ea-4780-861f-785a68e2ab8a",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "All Souled Out",
+                            "pt-BR": "All Souled Out"
+                        },
+                        "runtime": {
+                            "minutes": 58,
+                            "fullForm": "58min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/43b337f7-0211-4557-a85e-91df62f1e476",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Basement",
+                            "pt-BR": "The Basement"
+                        },
+                        "runtime": {
+                            "minutes": 64,
+                            "fullForm": "64min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/fa843120-436a-4a31-843f-4e275e240c93",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "On and On",
+                            "pt-BR": "On and On"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/fd89f160-6f7f-4def-8f37-3237f017476b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "If It Ain't Rough, It Ain't Right",
+                            "pt-BR": "If It Ain't Rough, It Ain't Right"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/0a62c978-5b6b-4c94-b563-dffa014cc73c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "For Pete's Sake",
+                            "pt-BR": "For Pete's Sake"
+                        },
+                        "runtime": {
+                            "minutes": 59,
+                            "fullForm": "59min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/4f8721fb-f545-484c-a827-fc7f41358065",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Main Ingredient",
+                            "pt-BR": "The Main Ingredient"
+                        },
+                        "runtime": {
+                            "minutes": 59,
+                            "fullForm": "59min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e7e8076d-a170-46c9-882f-5b6bad56d9c8",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Creator",
+                            "pt-BR": "The Creator"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/40a16259-c98c-493a-910d-a98781b750b0",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Can't Front On Me",
+                            "pt-BR": "Can't Front On Me"
+                        },
+                        "runtime": {
+                            "minutes": 62,
+                            "fullForm": "62min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/b4d8822d-784d-442f-9ef5-a382f2941acf",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "They Reminisce Over You",
+                            "pt-BR": "They Reminisce Over You"
+                        },
+                        "runtime": {
+                            "minutes": 69,
+                            "fullForm": "69min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/89095511-0db7-4d79-9f3f-369fe5e20e0c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-06-22",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "L"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
+            }
+        },
+        "phase": 0,
+        "producer": "netflix"
+    },
+    {
+        "titles": {
+            "en-US": "Iron Fist",
+            "pt-BR": "Punho de Ferro"
+        },
+        "releaseDate": "2017-03-17",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/iron-fist/24YlE6bSZy6E?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Snow Gives Way",
+                            "pt-BR": "A neve abre caminho"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/5eb62e04-16f1-4ce2-9e97-4ff4b0f4af2b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Shadow Hawk Takes Flight",
+                            "pt-BR": "Falcão alça voo"
+                        },
+                        "runtime": {
+                            "minutes": 62,
+                            "fullForm": "62min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/15f90b4c-f8ca-4b68-8aee-9f5673a9adad",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Rolling Thunder Cannon Punch",
+                            "pt-BR": "Soco de trovão, estrondo de canhão"
+                        },
+                        "runtime": {
+                            "minutes": 60,
+                            "fullForm": "60min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/8347ae12-40de-406f-92d4-e510c8dea96c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Eight Diagram Dragon Palm",
+                            "pt-BR": "Palma de dragão de oito diagramas"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/470366a5-bc4b-47e4-8f7e-a14509c51474",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Under Leaf Pluck Lotus",
+                            "pt-BR": "Colha a lótus sob as folhas"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/58289114-c8ce-48b2-a2b1-ac90c0a2ea0f",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Immortal Emerges from Cave",
+                            "pt-BR": "Imortal emerge da caverna"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/4c3bfa61-f3b5-4cca-9a06-a179023ef00b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Felling Tree with Roots",
+                            "pt-BR": "Derrubar árvore com raízes"
+                        },
+                        "runtime": {
+                            "minutes": 59,
+                            "fullForm": "59min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/0478e207-53f1-46b3-ad60-1ab7c71a1f45",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Blessing of Many Fractures",
+                            "pt-BR": "A bênção de muitas fraturas"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/a653859d-90ee-4219-b151-00001d22b027",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Mistress of All Agonies",
+                            "pt-BR": "A senhora de todos os tormentos"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e2d7395f-bbc1-4ea2-8e1e-6164164bbbc5",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Black Tiger Steals Heart",
+                            "pt-BR": "Tigre negro rouba coração"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/da4222c1-5da5-46f4-a670-60f99309a92e",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Lead Horse Back to Stable",
+                            "pt-BR": "Leve o cavalo de volta ao estábulo"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/f35747e0-4b08-4cd9-afbf-b67fbfb836e0",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Bar the Big Boss",
+                            "pt-BR": "Barrar o chefão"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/4a2bf3ad-6c11-41f7-9020-830403990553",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Dragon Plays with Fire",
+                            "pt-BR": "Dragão brinca com fogo"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/acdbee78-19e1-464d-9047-e4c176a726b7",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-03-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "The Fury Of Iron Fist",
+                            "pt-BR": "A Fúria do Punho de Ferro"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/bc62c18f-d27f-4028-a94d-bf664ace27da",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The City's Not for Burning",
+                            "pt-BR": "A cidade não é para queimar"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/78c492b5-565a-45b1-b812-5058db5ce641",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "This Deadly Secret...",
+                            "pt-BR": "Segredo mortal"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/f1ea4a46-8de1-41db-a3ee-0c5410583137",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Target: Iron Fist",
+                            "pt-BR": "Alvo: Punho de Ferro"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/9d128b11-24f5-4847-bfd0-337adec2d12a",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Heart of the Dragon",
+                            "pt-BR": "Coração do dragão"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/263bc1d8-8138-497e-9d84-15da2ec865eb",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Dragon Dies at Dawn",
+                            "pt-BR": "O dragão morre ao amanhecer"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/8b88cf02-c13f-4f66-a8ed-2081359b9d53",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Morning of the Mindstorm",
+                            "pt-BR": "Manhã da tempestade mental"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/0c662612-3071-41ff-acde-3a99d36dfa75",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Citadel on the Edge of Vengeance",
+                            "pt-BR": "Cidadela à beira da vingança"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/8201f7f1-20f6-4fb5-8d05-620ea6bbb77f",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "War Without End",
+                            "pt-BR": "Guerra sem fim"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/96875a99-7701-45f4-a929-46ba66e4e692",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "A Duel of Iron",
+                            "pt-BR": "Duelo de ferro"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e8381228-0d7f-4e7b-a19e-be40efcf3f22",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2018-09-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "L"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
+            }
+        },
+        "phase": 0,
+        "producer": "netflix"
+    },
+    {
+        "titles": {
+            "en-US": "The Defenders",
+            "pt-BR": "Os Defensores"
+        },
+        "releaseDate": "2017-08-18",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/the-defenders/1vLuQyD9nTYk?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "The H Word",
+                            "pt-BR": "H de Herói"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/7606520e-710c-405a-a6d7-b5fc0a9a7466",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-08-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Mean Right Hook",
+                            "pt-BR": "Gancho de Direita"
+                        },
+                        "runtime": {
+                            "minutes": 45,
+                            "fullForm": "45min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6d99b2aa-f2d6-4947-bf70-c021acd563cc",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-08-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Worst Behavior",
+                            "pt-BR": "Péssimo Comportamento"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/0970069c-359a-4859-a353-1ed5a6d80165",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-08-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Royal Dragon",
+                            "pt-BR": "Dragão Real"
+                        },
+                        "runtime": {
+                            "minutes": 45,
+                            "fullForm": "45min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/2818f8fc-c052-4961-8339-7c3d360f1f52",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-08-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Take Shelter",
+                            "pt-BR": "Em Busca de Abrigo"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/0169a9d6-723d-4ccb-beaf-74cb58e0cf27",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-08-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Ashes, Ashes",
+                            "pt-BR": "Cinzas, Cinzas"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/6959b97a-e17b-4594-af8b-0e7775b8c88f",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-08-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Fish in the Jailhouse",
+                            "pt-BR": "Novato na Cadeia"
+                        },
+                        "runtime": {
+                            "minutes": 46,
+                            "fullForm": "46min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/728696cf-5756-4771-a7a6-354b9feab387",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-08-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Defenders",
+                            "pt-BR": "Os Defensores"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e3871ad1-f3ec-48f1-be12-dcda2e0d9daf",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-08-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "L"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
+            }
+        },
+        "phase": 0,
+        "producer": "netflix"
+    },
+    {
+        "titles": {
+            "en-US": "Punisher",
+            "pt-BR": "O Justiceiro"
+        },
+        "releaseDate": "2017-11-17",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/series/the-punisher/6JOZHgU6cBS3?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "3 AM",
+                            "pt-BR": "3 da Manhã"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/5a4a9ccd-e48d-4e9d-ba19-348a5aec146d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Two Dead Men",
+                            "pt-BR": "Dois Homens Mortos"
+                        },
+                        "runtime": {
+                            "minutes": 58,
+                            "fullForm": "58min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/38b521ce-e7c5-40f4-b42c-bb9e2b9d9fb2",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Kandahar",
+                            "pt-BR": "Kandahar"
+                        },
+                        "runtime": {
+                            "minutes": 58,
+                            "fullForm": "58min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/8920ca4a-4223-41c5-886f-52d1b8209521",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Resupply",
+                            "pt-BR": "Reabastecimento"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/311e1cf0-f23c-4878-9f66-7eb64387f16f",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Gunner",
+                            "pt-BR": "Gunner"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/0e376074-b2f6-4859-b732-cd0226cf1a6c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Judas Goat",
+                            "pt-BR": "O Infiltrado"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/2699af76-f381-4243-b8ce-862f7301013b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Crosshairs",
+                            "pt-BR": "Na Mira"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/169bca12-4f60-4b54-9363-f86a47da6cc8",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Cold Steel",
+                            "pt-BR": "Aço resfriado"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/7828eb4c-1487-4729-8b23-d3634a4faf11",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Front Toward Enemy",
+                            "pt-BR": "Em Direção ao Inimigo"
+                        },
+                        "runtime": {
+                            "minutes": 55,
+                            "fullForm": "55min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/bd7d442a-2e3e-4c7e-927a-d5557434eac9",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Virtue of the Vicious",
+                            "pt-BR": "Virtude dos Malvados"
+                        },
+                        "runtime": {
+                            "minutes": 50,
+                            "fullForm": "50min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/ba184a91-648e-43c5-8749-e7c26b1bea77",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Danger Close",
+                            "pt-BR": "Perigo Próximo"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/19941789-4146-4226-8d76-9d390b31366a",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Home",
+                            "pt-BR": "Lar"
+                        },
+                        "runtime": {
+                            "minutes": 52,
+                            "fullForm": "52min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/9c2af3ce-37b0-4687-9320-a031e5e430e3",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Memento Mori",
+                            "pt-BR": "Memento Mori"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/da4978d5-68f8-4065-8ff5-2cd0f447d8e7",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2017-11-17",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Roadhouse Blues",
+                            "pt-BR": "Briga de Bar"
+                        },
+                        "runtime": {
+                            "minutes": 53,
+                            "fullForm": "53min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/4d354db3-88c3-4ab3-b691-1f7d0f00b406",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Fight Or Flight",
+                            "pt-BR": "Lutar ou Fugir"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/9cbf1c7a-cee5-420b-bdab-d4babdac1b81",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Trouble The Water",
+                            "pt-BR": "Agitar a Água"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/0d4e0414-31ff-44ca-bfcc-8abaceb14574",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Scar Tissue",
+                            "pt-BR": "Cicatrizes do Passado"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/9adb4bbb-d564-4ea3-b314-0b140cc8ab26",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "One-Eyed Jacks",
+                            "pt-BR": "O Jogo"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/3e3526d0-15d5-4155-a9e2-91936de21386",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Nakazat",
+                            "pt-BR": "Nakazat"
+                        },
+                        "runtime": {
+                            "minutes": 56,
+                            "fullForm": "56min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/2290be21-8194-44f3-9cb8-238588a0da93",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "One Bad Day",
+                            "pt-BR": "Um Dia Ruim"
+                        },
+                        "runtime": {
+                            "minutes": 51,
+                            "fullForm": "51min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/9f4d4707-98a4-4ebc-8e8a-e151778b02ee",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "My Brother's Keeper",
+                            "pt-BR": "O Protetor do Meu Irmão"
+                        },
+                        "runtime": {
+                            "minutes": 48,
+                            "fullForm": "48min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/d231e7f9-6afb-4192-93b9-e878cad27127",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Flustercluck",
+                            "pt-BR": "A Recompensa"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/094226e0-59b7-4fa6-b3f7-b3c9d429e21d",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Hearts of Men",
+                            "pt-BR": "Os Corações dos Homens"
+                        },
+                        "runtime": {
+                            "minutes": 47,
+                            "fullForm": "47min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/7cd0ee20-78e9-434e-811d-99d28d033c27",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Abyss",
+                            "pt-BR": "O Abismo"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/288d6576-24da-4493-b355-ffc6c3bef827",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "Collision Course",
+                            "pt-BR": "Rota de Colisão"
+                        },
+                        "runtime": {
+                            "minutes": 49,
+                            "fullForm": "49min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/f52ca5de-9b05-4676-b320-7b7519ed5f8b",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "The Whirlwind",
+                            "pt-BR": "A Tormenta"
+                        },
+                        "runtime": {
+                            "minutes": 57,
+                            "fullForm": "57min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/a6c775b8-8811-4a5f-91e7-fada22913074",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2019-01-18",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "18"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "L"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
+            }
+        },
+        "phase": 0,
+        "producer": "netflix"
     }
 ]
