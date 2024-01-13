@@ -1294,7 +1294,7 @@
                 "logo": "assets/logos/dplus.png"
             }
         ],
-        "theaters": true,
+        "theaters": false,
         "runtime": {
             "minutes": 105,
             "fullForm": "1h45min"

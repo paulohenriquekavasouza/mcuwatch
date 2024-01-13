@@ -132,7 +132,9 @@ export class OrganizerComponent implements OnInit {
 					z.showTitles = x?.titles;
 					z.season = index + 1;
 					z.episode = indexb + 1;
-					tempResult.push(z);
+					if (!x?.producer) {
+						tempResult.push(z);
+					}
 				})));
 			}
 			if (this.netflixChecked) {
