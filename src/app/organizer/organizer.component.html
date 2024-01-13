@@ -13,11 +13,23 @@
                     <input class="form-check-input" type="checkbox" id="shows" [(ngModel)]="showsChecked">
                     <label class="form-check-label" for="shows">{{"ORGANIZER.RADIO.CANONSHOWS" | translate}}¹</label>
                 </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="ssu" [(ngModel)]="ssuChecked">
+                    <label class="form-check-label" for="ssu">{{"ORGANIZER.RADIO.SSU" | translate}}²</label>
+                </div>
                 <!-- <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="oneshots" [(ngModel)]="oneShotsChecked">
-                <label class="form-check-label" for="oneshots">One-Shots²</label>
-            </div>
-            <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="fox" [(ngModel)]="foxChecked">
+                    <label class="form-check-label" for="fox">{{"ORGANIZER.RADIO.FOX" | translate}}³</label>
+                </div> -->
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="netflix" [(ngModel)]="netflixChecked">
+                    <label class="form-check-label" for="netflix">{{"ORGANIZER.RADIO.NETFLIX" | translate}}⁴</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="checkbox" id="oneshots" [(ngModel)]="oneShotsChecked">
+                    <label class="form-check-label" for="oneshots">One-Shots⁵</label>
+                </div>
+                <!-- <div class="form-check form-check-inline">
                 <input class="form-check-input" type="checkbox" id="series2" value="3">
                 <label class="form-check-label" for="series2">Uncanon Series³</label>
             </div> -->
@@ -29,8 +41,9 @@
                     <div class="form-check form-check-inline">
                         <input class="form-check-input" type="radio" id="releaseOrder" [value]="1"
                             [(ngModel)]="isChronological" name="order">
-                        <label class="form-check-label" for="releaseOrder">{{"ORGANIZER.RADIO.ORDER.RELEASE" |
-                            translate}}</label>
+                        <label class="form-check-label" for="releaseOrder">
+                            {{"ORGANIZER.RADIO.ORDER.RELEASE" | translate}}
+                        </label>
                     </div>
                     <!-- <div class="form-check form-check-inline">
                         <input class="form-check-input" type="radio" id="chronologicalOrder" [value]="2"
@@ -105,17 +118,26 @@
                 </button>
             </div>
             <p class="mt-4">
-                <small>
-                    ¹ {{"ORGANIZER.OBSERVATIONS.OBS1" | translate}} <br />
-                    <!-- ² One-Shots are not always canon, sometimes they are used to tie-in some lose ends or just tell other
-                stories about the
-                movies or the MCU.
-                ³ Shows not produced by Marvel Studios, not canon to the MCU, but have references to the MCU. -->
+                <small class="text-muted">
+                    <div>
+                        ¹ {{"ORGANIZER.OBSERVATIONS.OBS1" | translate}}
+                    </div>
+                    <div>
+                        ² {{"ORGANIZER.OBSERVATIONS.OBS2" | translate}}
+                    </div>
+                    <!-- <div>
+                        ³ {{"ORGANIZER.OBSERVATIONS.OBS3" | translate}}
+                    </div> -->
+                    <div>
+                        ⁴ {{"ORGANIZER.OBSERVATIONS.OBS4" | translate}}
+                    </div>
+                    <div>
+                        ⁵ {{"ORGANIZER.OBSERVATIONS.OBS5" | translate}}
+                    </div>
                 </small>
             </p>
         </ng-container>
         <h2 *ngIf="loading">{{"ORGANIZER.LOADING" | translate}}</h2>
-
         <div class="row" *ngIf="!loading">
             <ng-container *ngIf="days?.length > 0">
                 <div class="d-flex flex-row align-items-center">
@@ -164,7 +186,9 @@
                                     </div>
                                     <div class="d-flex flex-row flex-wrap align-items-center">
                                         <div *ngIf="item?.showTitles" style="font-size: 11px">
-                                            {{item?.showTitles[language]}}
+                                            {{item?.showTitles[language]}} <img
+                                                src="/assets/logos/{{item?.ratings['DJCTQ'][0]?.title}}.png" width="16"
+                                                height="16" />
                                         </div>
                                     </div>
                                     <div class="d-flex align-items-center">
@@ -178,6 +202,8 @@
                                         </div>
                                         <div class="px-1 text-muted" style="font-size: 11px">
                                             <i class="fas fa-calendar"></i> {{item?.releaseDate | date:'dd/MM/yyyy'}}
+                                            <img src="/assets/logos/{{item?.ratings['DJCTQ'][0]?.title}}.png" width="16"
+                                                height="16" *ngIf="!item?.showTitles" />
                                         </div>
                                         <!-- <ng-container *ngIf="!item?.theaters">
                                             <a href="https://calendar.google.com/calendar/u/0/r/eventedit?text={{item?.titles[language]}}&dates={{day?.day | date:'yyyyMMdd\'T\'130000\'Z\''}}/{{day?.day | date:'yyyyMMdd\'T\'140000\'Z\''}}&details=&location=My+home&sf=true&output=xml"
@@ -187,18 +213,23 @@
                                             </a>
                                         </ng-container> -->
                                     </div>
-                                    <ng-container *ngIf="item?.streamings?.length > 0">
+                                    <ng-container *ngIf="item?.streamings?.length > 0 && !item?.theaters">
                                         <a href="{{streaming?.url}}" class="text-decoration-none" target="_blank"
                                             *ngFor="let streaming of item?.streamings" [ngbTooltip]="streaming?.name"
                                             container="body">
                                             <img src="{{streaming?.logo}}" width="32" height="32" />
                                         </a>
+
                                     </ng-container>
-                                    <ng-container *ngIf="item?.streamings?.length == 0 && item?.theaters">
+                                    <ng-container *ngIf="item?.theaters">
                                         <div class="text-muted" style="font-size: 12px">
                                             {{"ORGANIZER.THEATERS" | translate}}
                                         </div>
                                     </ng-container>
+                                    <span class="ps-3" *ngIf="item?.producer"
+                                        [ngbTooltip]="item?.producer === 'sony' ? ('ORGANIZER.RADIO.SSU' | translate) : item?.producer === 'netflix' ? ('ORGANIZER.RADIO.NETFLIX' | translate) : ('ORGANIZER.RADIO.FOX' | translate)">
+                                        <i class="fas fa-globe-americas"></i>
+                                    </span>
                                 </div>
                             </ng-container>
                         </div>

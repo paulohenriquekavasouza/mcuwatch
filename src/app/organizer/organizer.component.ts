@@ -22,6 +22,9 @@ export class OrganizerComponent implements OnInit {
 	language: string = "";
 	moviesChecked = true;
 	showsChecked = false;
+	ssuChecked = false;
+	foxChecked = false;
+	netflixChecked = false;
 	oneShotsChecked = false;
 	isChronological = 1;
 	result: any = [];
@@ -51,6 +54,10 @@ export class OrganizerComponent implements OnInit {
 			if (val?.moviesChecked) {
 				this.moviesChecked = val?.moviesChecked === 'true';
 				this.showsChecked = val?.showsChecked === 'true';
+				this.oneShotsChecked = val?.oneShotsChecked === 'true';
+				this.ssuChecked = val?.ssuChecked === 'true';
+				this.foxChecked = val?.foxChecked === 'true';
+				this.netflixChecked = val?.netflixChecked === 'true';
 				this.isChronological = val?.isChronological === 'true' ? 2 : 1;
 				this.frequency = parseInt(val?.frequency);
 				this.quantity = parseInt(val?.quantity);
@@ -89,7 +96,7 @@ export class OrganizerComponent implements OnInit {
 	}
 
 	isValid() {
-		return this.frequency > 0 && this.quantity > 0 && (this.moviesChecked || this.showsChecked);
+		return this.frequency > 0 && this.quantity > 0 /*&& (this.moviesChecked || this.showsChecked)*/;
 	}
 
 	generate(timeOut = 1000) {
@@ -101,16 +108,48 @@ export class OrganizerComponent implements OnInit {
 			var tempResult: any = [];
 
 			if (this.moviesChecked) {
-				this.movies?.map((x: any) => tempResult.push(x));
+				this.movies?.map((x: any) => {
+					if (!x?.producer) {
+						tempResult.push(x)
+					}
+				});
+			}
+			if (this.ssuChecked) {
+				this.movies?.map((x: any) => {
+					if (x?.producer === 'sony') {
+						tempResult.push(x);
+					}
+				});
+			}
+			if (this.foxChecked) {
+				this.movies?.map((x: any) => {
+					if (x?.producer === 'fox') {
+						tempResult.push(x);
+					}
+				});
 			}
 			if (this.showsChecked) {
 				this.shows?.map((x: any) => x?.seasons?.map((y, index) => y?.episodes?.map((z, indexb) => {
 					z.showTitles = x?.titles;
 					z.season = index + 1;
 					z.episode = indexb + 1;
-					tempResult.push(z);
+					if (!x?.producer) {
+						tempResult.push(z);
+					}
 				})));
 			}
+			if (this.netflixChecked) {
+				this.shows?.map((x: any) => x?.seasons?.map((y, index) => y?.episodes?.map((z, indexb) => {
+					z.showTitles = x?.titles;
+					z.season = index + 1;
+					z.episode = indexb + 1;
+					if (x?.producer === 'netflix') {
+						z.producer = 'netflix';
+						tempResult.push(z);
+					}
+				})));
+			}
+
 			if (this.oneShotsChecked) {
 				this.oneshots?.map((x: any) => tempResult.push(x));
 			}
@@ -118,7 +157,7 @@ export class OrganizerComponent implements OnInit {
 			if (this.isChronological == 1) {
 				// RELEASE ORDER
 				// NOW WE ORDER IT BY RELEASE ORDER
-				tempResult.sort((a: any, b: any) => (a?.orders?.releaseOrder < b?.orders?.releaseOrder ? -1 : 1));
+				tempResult.sort((a: any, b: any) => (a?.releaseDate < b?.releaseDate ? -1 : 1));
 			} else {
 				// CHRONOLOGICAL ORDER
 				// NOW WE ORDER IT BY CHRONOLOGICAL ORDER
@@ -206,7 +245,8 @@ export class OrganizerComponent implements OnInit {
 
 				if (timeOut != 0) {
 					var minDate = new Date(new Date(this.minDate).setDate(this.minDate.getDate() - 1));
-					this.router.navigate(['/organizer'], { queryParams: { moviesChecked: this.moviesChecked, showsChecked: this.showsChecked, isChronological: this.isChronological == 2 ? true : false, frequency: this.frequency, quantity: this.quantity, minDate: minDate?.toISOString() } });
+					minDate.setHours(20, 59, 59);
+					this.router.navigate(['/organizer'], { queryParams: { moviesChecked: this.moviesChecked, showsChecked: this.showsChecked, oneShotsChecked: this.oneShotsChecked, netflixChecked: this.netflixChecked, ssuChecked: this.ssuChecked, foxChecked: this.foxChecked, isChronological: this.isChronological == 2 ? true : false, frequency: this.frequency, quantity: this.quantity, minDate: minDate?.toISOString() } });
 				}
 			}, timeOut)
 		}).subscribe(_ => {
