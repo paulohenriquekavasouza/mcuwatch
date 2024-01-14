@@ -14,7 +14,7 @@
         "TITLE": "Organizer",
         "RADIO": {
             "MOVIES": "MCU's Movies",
-            "CANONSHOWS": "Disney+ Shows",
+            "CANONSHOWS": "Disney+ Shows and Special Presentations",
             "SSU": "Sony's Spider-Man Universe Movies",
             "FOX": "Movies from the Marvel Characters Universe by FOX",
             "NETFLIX": "Shows from the Marvel Characters Universe by Netflix",
@@ -35,10 +35,10 @@
             "START": "When you want to start watching?"
         },
         "OBSERVATIONS": {
-            "OBS1": "Shows produced by Marvel Studios to Disney+, canonical to the MCU.",
+            "OBS1": "Shows and Special Presentations produced by Marvel Studios to Disney+, canonical to the MCU.",
             "OBS2": "Movies from the Spider-Man Universe made by Sony beyond the MCU's Spider-Man. Since 'Spider-Man: No Way Home', Sony's movies about the Spider-Man Universe have become canonical to the MCU's Multiverse.",
             "OBS3": "Movies featuring Marvel characters made by FOX. Since 'The Marvels', movies produced by FOX featuring Marvel characters have become canonical within the MCU's Multiverse.",
-            "OBS4": "Shows featuring Marvel characters made by Netflix. Since 'Spider-Man: No Way Home', shows produced by Netflix featuring Marvel characters have become canonical within the MCU's Multiverse.",
+            "OBS4": "Shows featuring Marvel characters made by Netflix. Since 'Spider-Man: No Way Home', 'Hawkeye', 'She-Hulk: Attorney at Law' and 'Echo', shows produced by Netflix featuring Marvel characters have become canonical to MCU.",
             "OBS5": "One-Shots are not always canon; sometimes they are used to tie-in some lose ends or just tell other stories about the movies or the MCU."
         },
         "ACTION": "Generate my Organizer",
@@ -49,7 +49,9 @@
         "SEASONSABBREVIATE": "S",
         "SHARE": "Share my order",
         "MOVIE": "Movie",
-        "SHOW": "Show"
+        "SHOW": "Show",
+        "SPECIALPRESENTATION": "Special Presentation",
+        "ONESHOT": "OneShot"
     },
     "DEVELOPED_BY": "Developed by Paulo Henrique",
     "GITHUB": "Project on GitHub",

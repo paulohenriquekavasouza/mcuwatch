@@ -177,7 +177,7 @@
                                 <div class="py-1" [class.w-100]="quantity < 3"
                                     [class.w-50]="quantity >= 3 && quantity < 5" [class.w-25]="quantity >= 5">
                                     <div style="font-size: 13px">
-                                        <span *ngIf="item?.showTitles">
+                                        <span *ngIf="item?.showTitles && !item?.isSpecialPresentation">
                                             <span class="text-muted" style="font-size: 11px">
                                                 {{"ORGANIZER.SEASONSABBREVIATE" |
                                                 translate}}{{item?.season}}E{{item?.episode}}
@@ -193,9 +193,15 @@
                                     </div>
                                     <div class="d-flex align-items-center">
                                         <div class="pe-1 text-muted" style="font-size: 11px"
-                                            [ngbTooltip]="!item?.showTitles ? ('ORGANIZER.MOVIE' | translate) : ('ORGANIZER.SHOW' | translate)">
-                                            <i class="fas fa-film" *ngIf="!item?.showTitles"></i>
-                                            <i class="fas fa-video" *ngIf="item?.showTitles"></i>
+                                            [ngbTooltip]="!item?.showTitles && !item?.isOneShot ? ('ORGANIZER.MOVIE' | translate) : (item?.isSpecialPresentation ? ('ORGANIZER.SPECIALPRESENTATION' | translate) : (item?.isOneShot ? ('ORGANIZER.ONESHOT' | translate) : ('ORGANIZER.SHOW' | translate)))">
+                                            <i class="fas fa-film"
+                                                *ngIf="!item?.showTitles && !item?.isSpecialPresentation && !item?.isOneShot"></i>
+                                            <i class="fas fa-video"
+                                                *ngIf="item?.showTitles && !item?.isSpecialPresentation && !item?.isOneShot"></i>
+                                            <i class="fas fa-star"
+                                                *ngIf="item?.showTitles && item?.isSpecialPresentation && !item?.isOneShot"></i>
+                                            <i class="fas fa-star"
+                                                *ngIf="!item?.showTitles && !item?.isSpecialPresentation && item?.isOneShot"></i>
                                         </div>
                                         <div class="text-muted" style="font-size: 11px">
                                             <i class="fas fa-clock"></i> {{item?.runtime?.fullForm}}

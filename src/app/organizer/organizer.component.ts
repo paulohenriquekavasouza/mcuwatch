@@ -21,7 +21,7 @@ export class OrganizerComponent implements OnInit {
 	oneshots: any = oneshots;
 	language: string = "";
 	moviesChecked = true;
-	showsChecked = false;
+	showsChecked = true;
 	ssuChecked = false;
 	foxChecked = false;
 	netflixChecked = false;
@@ -130,6 +130,7 @@ export class OrganizerComponent implements OnInit {
 			}
 			if (this.showsChecked) {
 				this.shows?.map((x: any) => x?.seasons?.map((y, index) => y?.episodes?.map((z, indexb) => {
+					z.isSpecialPresentation = x?.isSpecialPresentation;
 					z.showTitles = x?.titles;
 					z.season = index + 1;
 					z.episode = indexb + 1;

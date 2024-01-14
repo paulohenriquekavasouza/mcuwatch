@@ -8587,5 +8587,147 @@
         },
         "phase": 0,
         "producer": "netflix"
+    },
+    {
+        "titles": {
+            "en-US": "Werewolf by Night",
+            "pt-BR": "Lobisomem na Noite"
+        },
+        "releaseDate": "2023-10-07",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/edf43300-c242-44ea-b801-5fe207150612?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "Werewolf by Night",
+                            "pt-BR": "Lobisomem na Noite"
+                        },
+                        "runtime": {
+                            "minutes": 54,
+                            "fullForm": "54min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/edf43300-c242-44ea-b801-5fe207150612?distributionPartner=google",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2023-10-07",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "16"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "14"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
+            }
+        },
+        "phase": 4,
+        "isSpecialPresentation": true
+    },
+    {
+        "titles": {
+            "en-US": "The Guardians of the Galaxy Holiday Special",
+            "pt-BR": "Guardiões da Galáxia: Especial de Festas"
+        },
+        "releaseDate": "2022-11-25",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/e6723fcd-bd6d-4c44-818f-dab2c7339d6d?distributionPartner=google"
+            }
+        ],
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "The Guardians of the Galaxy Holiday Special",
+                            "pt-BR": "Guardiões da Galáxia: Especial de Festas"
+                        },
+                        "runtime": {
+                            "minutes": 44,
+                            "fullForm": "44min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/video/e6723fcd-bd6d-4c44-818f-dab2c7339d6d?distributionPartner=google",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2022-11-25",
+                        "ratings": {
+                            "DJCTQ": [
+                                {
+                                    "title": "12"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-?"
+                }
+            ],
+            "DJCTQ": [
+                {
+                    "title": "12"
+                }
+            ]
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt13157618"
+            }
+        },
+        "phase": 4,
+        "isSpecialPresentation": true
     }
 ]
