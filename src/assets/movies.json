@@ -1349,7 +1349,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "12"
                 }
             ]
         },
@@ -1391,7 +1391,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "12"
                 }
             ]
         },
@@ -1433,7 +1433,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "12"
                 }
             ]
         },
@@ -1457,9 +1457,9 @@
         },
         "streamings": [
             {
-                "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/88a1d7b6-a760-48e2-a440-e319d1da5630?distributionPartner=google",
-                "logo": "assets/logos/dplus.png"
+                "name": "Netflix",
+                "url": "https://www.netflix.com/br/title/70208599?source=35",
+                "logo": "assets/logos/netflix.png"
             }
         ],
         "theaters": false,
@@ -1475,7 +1475,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "10"
                 }
             ]
         },
@@ -1517,7 +1517,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "12"
                 }
             ]
         },
@@ -1541,9 +1541,9 @@
         },
         "streamings": [
             {
-                "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/c9499791-b595-4971-b2f8-b0e73fa3c10a?distributionPartner=google",
-                "logo": "assets/logos/dplus.png"
+                "name": "Prime Video",
+                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.e8b57d33-62f0-eead-4437-015d7fc8e56b?autoplay=0&ref_=atv_cf_strg_wb",
+                "logo": "assets/logos/primevideo.png"
             }
         ],
         "theaters": false,
@@ -1559,7 +1559,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "14"
                 }
             ]
         },
@@ -1601,7 +1601,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "14"
                 }
             ]
         },
@@ -1643,7 +1643,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "14"
                 }
             ]
         },
@@ -1685,7 +1685,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "10"
                 }
             ]
         },
@@ -1727,7 +1727,7 @@
             ],
             "DJCTQ": [
                 {
-                    "title": ""
+                    "title": "10"
                 }
             ]
         },
