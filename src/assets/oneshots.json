@@ -26,11 +26,9 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "10"
-                }
-            ]
+            "DJCTQ": {
+                "title": "10"
+            }
         },
         "phase": 1,
         "isOneShot": true
@@ -62,11 +60,9 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "12"
-                }
-            ]
+            "DJCTQ": {
+                "title": "12"
+            }
         },
         "phase": 1,
         "isOneShot": true
@@ -134,11 +130,9 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "14"
-                }
-            ]
+            "DJCTQ": {
+                "title": "14"
+            }
         },
         "phase": 2,
         "isOneShot": true
@@ -170,11 +164,9 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "14"
-                }
-            ]
+            "DJCTQ": {
+                "title": "14"
+            }
         },
         "phase": 2,
         "isOneShot": true
@@ -242,11 +234,9 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "10"
-                }
-            ]
+            "DJCTQ": {
+                "title": "10"
+            }
         },
         "phase": 3,
         "isOneShot": true
@@ -278,11 +268,9 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "10"
-                }
-            ]
+            "DJCTQ": {
+                "title": "10"
+            }
         },
         "phase": 3,
         "isOneShot": true
