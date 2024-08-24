@@ -1,8 +1,8 @@
 [
     {
         "titles": {
-            "en-US": "Marvel One-Shot: The Consultant",
-            "pt-BR": "Marvel One-Shot: O Consultor"
+            "en-US": "The Consultant",
+            "pt-BR": "O Consultor"
         },
         "releaseDate": "2011-09-13",
         "orders": {
@@ -26,18 +26,17 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "10"
-                }
-            ]
+            "DJCTQ": {
+                "title": "10"
+            }
         },
-        "phase": 1
+        "phase": 1,
+        "isOneShot": true
     },
     {
         "titles": {
-            "en-US": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
-            "pt-BR": "Marvel One-Shot: Aconteceu Uma Coisa Engraçada a Caminho do Martelo de Thor"
+            "en-US": "A Funny Thing Happened on the Way to Thor's Hammer",
+            "pt-BR": "Aconteceu Uma Coisa Engraçada a Caminho do Martelo de Thor"
         },
         "releaseDate": "2011-10-25",
         "orders": {
@@ -61,18 +60,17 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "12"
-                }
-            ]
+            "DJCTQ": {
+                "title": "12"
+            }
         },
-        "phase": 1
+        "phase": 1,
+        "isOneShot": true
     },
     {
         "titles": {
-            "en-US": "Marvel One-Shot: Item 47",
-            "pt-BR": "Marvel One-Shot: Item 47"
+            "en-US": "Item 47",
+            "pt-BR": "Item 47"
         },
         "releaseDate": "2012-09-25",
         "orders": {
@@ -102,12 +100,13 @@
                 }
             ]
         },
-        "phase": 1
+        "phase": 1,
+        "isOneShot": true
     },
     {
         "titles": {
-            "en-US": "Marvel One-Shot: Agent Carter",
-            "pt-BR": "Marvel One-Shot: Agente Carter"
+            "en-US": "Agent Carter",
+            "pt-BR": "Agente Carter"
         },
         "releaseDate": "2013-09-24",
         "orders": {
@@ -131,18 +130,17 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "14"
-                }
-            ]
+            "DJCTQ": {
+                "title": "14"
+            }
         },
-        "phase": 2
+        "phase": 2,
+        "isOneShot": true
     },
     {
         "titles": {
-            "en-US": "Marvel One-Shot: All Hail The King",
-            "pt-BR": "Marvel One-Shot: Todos saúdem o Rei"
+            "en-US": "All Hail The King",
+            "pt-BR": "Todos saúdem o Rei"
         },
         "releaseDate": "2014-02-04",
         "orders": {
@@ -166,18 +164,17 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "14"
-                }
-            ]
+            "DJCTQ": {
+                "title": "14"
+            }
         },
-        "phase": 2
+        "phase": 2,
+        "isOneShot": true
     },
     {
         "titles": {
-            "en-US": "Marvel One-Shot: Team Thor: Part 1",
-            "pt-BR": "Marvel One-Shot: Equipe Thor: Primeira Parte"
+            "en-US": "Team Thor: Part 1",
+            "pt-BR": "Equipe Thor: Primeira Parte"
         },
         "releaseDate": "2016-08-28",
         "orders": {
@@ -207,12 +204,13 @@
                 }
             ]
         },
-        "phase": 3
+        "phase": 3,
+        "isOneShot": true
     },
     {
         "titles": {
-            "en-US": "Marvel One-Shot: Team Thor: Part 2",
-            "pt-BR": "Marvel One-Shot: Equipe Thor: Segunda Parte"
+            "en-US": "Team Thor: Part 2",
+            "pt-BR": "Equipe Thor: Segunda Parte"
         },
         "releaseDate": "2017-02-28",
         "orders": {
@@ -236,18 +234,17 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "10"
-                }
-            ]
+            "DJCTQ": {
+                "title": "10"
+            }
         },
-        "phase": 3
+        "phase": 3,
+        "isOneShot": true
     },
     {
         "titles": {
-            "en-US": "Marvel One-Shot: Team Darryl",
-            "pt-BR": "Marvel One-Shot: Equipe Darryl"
+            "en-US": "Team Darryl",
+            "pt-BR": "Equipe Darryl"
         },
         "releaseDate": "2018-02-20",
         "orders": {
@@ -271,12 +268,11 @@
                     "title": "PG-?"
                 }
             ],
-            "DJCTQ": [
-                {
-                    "title": "10"
-                }
-            ]
+            "DJCTQ": {
+                "title": "10"
+            }
         },
-        "phase": 3
+        "phase": 3,
+        "isOneShot": true
     }
 ]

@@ -17,10 +17,10 @@
                     <input class="form-check-input" type="checkbox" id="ssu" [(ngModel)]="ssuChecked">
                     <label class="form-check-label" for="ssu">{{"ORGANIZER.RADIO.SSU" | translate}}²</label>
                 </div>
-                <!-- <div class="form-check form-check-inline">
+                <div class="form-check form-check-inline">
                     <input class="form-check-input" type="checkbox" id="fox" [(ngModel)]="foxChecked">
                     <label class="form-check-label" for="fox">{{"ORGANIZER.RADIO.FOX" | translate}}³</label>
-                </div> -->
+                </div>
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="checkbox" id="netflix" [(ngModel)]="netflixChecked">
                     <label class="form-check-label" for="netflix">{{"ORGANIZER.RADIO.NETFLIX" | translate}}⁴</label>
@@ -125,9 +125,9 @@
                     <div>
                         ² {{"ORGANIZER.OBSERVATIONS.OBS2" | translate}}
                     </div>
-                    <!-- <div>
+                    <div>
                         ³ {{"ORGANIZER.OBSERVATIONS.OBS3" | translate}}
-                    </div> -->
+                    </div>
                     <div>
                         ⁴ {{"ORGANIZER.OBSERVATIONS.OBS4" | translate}}
                     </div>
@@ -177,7 +177,7 @@
                                 <div class="py-1" [class.w-100]="quantity < 3"
                                     [class.w-50]="quantity >= 3 && quantity < 5" [class.w-25]="quantity >= 5">
                                     <div style="font-size: 13px">
-                                        <span *ngIf="item?.showTitles">
+                                        <span *ngIf="item?.showTitles && !item?.isSpecialPresentation">
                                             <span class="text-muted" style="font-size: 11px">
                                                 {{"ORGANIZER.SEASONSABBREVIATE" |
                                                 translate}}{{item?.season}}E{{item?.episode}}
@@ -187,22 +187,28 @@
                                     <div class="d-flex flex-row flex-wrap align-items-center">
                                         <div *ngIf="item?.showTitles" style="font-size: 11px">
                                             {{item?.showTitles[language]}} <img
-                                                src="/assets/logos/{{item?.ratings['DJCTQ'][0]?.title}}.png" width="16"
+                                                src="/assets/logos/{{item?.ratings['DJCTQ']?.title}}.png" width="16"
                                                 height="16" />
                                         </div>
                                     </div>
                                     <div class="d-flex align-items-center">
                                         <div class="pe-1 text-muted" style="font-size: 11px"
-                                            [ngbTooltip]="!item?.showTitles ? ('ORGANIZER.MOVIE' | translate) : ('ORGANIZER.SHOW' | translate)">
-                                            <i class="fas fa-film" *ngIf="!item?.showTitles"></i>
-                                            <i class="fas fa-video" *ngIf="item?.showTitles"></i>
+                                            [ngbTooltip]="!item?.showTitles && !item?.isOneShot ? ('ORGANIZER.MOVIE' | translate) : (item?.isSpecialPresentation ? ('ORGANIZER.SPECIALPRESENTATION' | translate) : (item?.isOneShot ? ('ORGANIZER.ONESHOT' | translate) : ('ORGANIZER.SHOW' | translate)))">
+                                            <i class="fas fa-film"
+                                                *ngIf="!item?.showTitles && !item?.isSpecialPresentation && !item?.isOneShot"></i>
+                                            <i class="fas fa-video"
+                                                *ngIf="item?.showTitles && !item?.isSpecialPresentation && !item?.isOneShot"></i>
+                                            <i class="fas fa-star"
+                                                *ngIf="item?.showTitles && item?.isSpecialPresentation && !item?.isOneShot"></i>
+                                            <i class="fas fa-star"
+                                                *ngIf="!item?.showTitles && !item?.isSpecialPresentation && item?.isOneShot"></i>
                                         </div>
                                         <div class="text-muted" style="font-size: 11px">
                                             <i class="fas fa-clock"></i> {{item?.runtime?.fullForm}}
                                         </div>
                                         <div class="px-1 text-muted" style="font-size: 11px">
                                             <i class="fas fa-calendar"></i> {{item?.releaseDate | date:'dd/MM/yyyy'}}
-                                            <img src="/assets/logos/{{item?.ratings['DJCTQ'][0]?.title}}.png" width="16"
+                                            <img src="/assets/logos/{{item?.ratings['DJCTQ']?.title}}.png" width="16"
                                                 height="16" *ngIf="!item?.showTitles" />
                                         </div>
                                         <!-- <ng-container *ngIf="!item?.theaters">
