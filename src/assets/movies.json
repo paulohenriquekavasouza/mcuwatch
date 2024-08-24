@@ -839,13 +839,7 @@
             "releaseOrder": 0,
             "chronologicalOrder": 0
         },
-        "streamings": [
-            {
-                "name": "Disney+",
-                "url": "https://www.disneyplus.com/pt-br/video/38d2c6a5-f0c4-4960-85ed-d09bd7d7943b",
-                "logo": "assets/logos/dplus.png"
-            }
-        ],
+        "streamings": [],
         "runtime": {
             "minutes": 130,
             "fullForm": "2h10min"
@@ -1172,7 +1166,7 @@
                 "id": "tt10954600"
             }
         },
-        "phase": 4
+        "phase": 5
     },
     {
         "titles": {
@@ -1211,7 +1205,7 @@
                 "id": "tt6791350"
             }
         },
-        "phase": 4
+        "phase": 5
     },
     {
         "titles": {
@@ -1250,7 +1244,7 @@
                 "id": "tt10676048"
             }
         },
-        "phase": 4
+        "phase": 5
     },
     {
         "titles": {
@@ -1265,9 +1259,9 @@
         },
         "streamings": [
             {
-                "name": "HBO Max",
-                "url": "https://play.hbomax.com/feature/urn:hbo:feature:GYeg4RQeJUMINtwEAAAHk?source=googleHBOMAX&action=open",
-                "logo": "assets/logos/hbomax.png"
+                "name": "Max",
+                "url": "https://play.max.com/movie/52c902ab-d1ff-4e18-9326-31641a07ed9a",
+                "logo": "assets/logos/max.png"
             }
         ],
         "theaters": false,
@@ -1305,9 +1299,9 @@
         },
         "streamings": [
             {
-                "name": "Netflix",
-                "url": "https://www.netflix.com/watch/60036230?source=35",
-                "logo": "assets/logos/netflix.png"
+                "name": "Max",
+                "url": "https://play.max.com/movie/0c4aa45c-7033-4700-afa6-818b624fc88a",
+                "logo": "assets/logos/max.png"
             }
         ],
         "theaters": false,
@@ -1345,9 +1339,9 @@
         },
         "streamings": [
             {
-                "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/b2767bcb-1050-4922-b153-d5edc83394eb?distributionPartner=google",
-                "logo": "assets/logos/dplus.png"
+                "name": "Max",
+                "url": "https://play.max.com/movie/ccddf6f0-0c45-406b-bd56-d23425f538d2",
+                "logo": "assets/logos/max.png"
             }
         ],
         "theaters": false,
@@ -1385,9 +1379,9 @@
         },
         "streamings": [
             {
-                "name": "Netflix",
-                "url": "https://www.netflix.com/br/title/70208599?source=35",
-                "logo": "assets/logos/netflix.png"
+                "name": "Max",
+                "url": "https://play.max.com/movie/94c66e31-450e-4868-8f57-0a892e877b5d",
+                "logo": "assets/logos/max.png"
             }
         ],
         "theaters": false,
@@ -1425,9 +1419,9 @@
         },
         "streamings": [
             {
-                "name": "HBO Max",
-                "url": "https://play.hbomax.com/feature/urn:hbo:feature:GYetqZwc89XGpCwEAAAAS?source=googleHBOMAX&action=open",
-                "logo": "assets/logos/hbomax.png"
+                "name": "Max",
+                "url": "https://play.max.com/movie/9bd07f97-cf6d-4989-bd08-d05939643416",
+                "logo": "assets/logos/max.png"
             }
         ],
         "theaters": false,
@@ -1465,9 +1459,9 @@
         },
         "streamings": [
             {
-                "name": "Prime Video",
-                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.e8b57d33-62f0-eead-4437-015d7fc8e56b?autoplay=0&ref_=atv_cf_strg_wb",
-                "logo": "assets/logos/primevideo.png"
+                "name": "Telecine",
+                "url": "https://globoplay.globo.com/venom/t/Vfwkt6BtvP",
+                "logo": "assets/logos/telecine.png"
             }
         ],
         "theaters": false,
@@ -1505,9 +1499,9 @@
         },
         "streamings": [
             {
-                "name": "Prime Video",
-                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.ffb3dff5-f5c9-4c30-9d14-90663bb6758a?autoplay=0&ref_=atv_cf_strg_wb",
-                "logo": "assets/logos/primevideo.png"
+                "name": "Telecine",
+                "url": "https://globoplay.globo.com/venom-tempo-de-carnificina/t/ZtSXmTMd6V",
+                "logo": "assets/logos/telecine.png"
             }
         ],
         "theaters": false,
@@ -1625,9 +1619,9 @@
         },
         "streamings": [
             {
-                "name": "HBO Max",
-                "url": "https://play.hbomax.com/feature/urn:hbo:feature:GZS_zdAcKjrqspgEAABKH?source=googleHBOMAX&action=open",
-                "logo": "assets/logos/hbomax.png"
+                "name": "Max",
+                "url": "https://play.max.com/feature/urn:hbo:feature:GZS_zdAcKjrqspgEAABKH?source=googleHBOMAX&action=open",
+                "logo": "assets/logos/max.png"
             }
         ],
         "theaters": false,
@@ -2127,9 +2121,9 @@
         },
         "streamings": [
             {
-                "name": "HBO Max",
-                "url": "https://play.hbomax.com/feature/urn:hbo:feature:GWd-FgQj0mMNcawEAAAAb?source=googleHBOMAX&action=open",
-                "logo": "assets/logos/hbomax.png"
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/3a33d136-e4c1-4d07-bc6b-f9bb179e86d8",
+                "logo": "assets/logos/dplus.png"
             }
         ],
         "theaters": false,
@@ -2281,5 +2275,124 @@
             }
         },
         "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Deadpool",
+            "pt-BR": "Deadpool"
+        },
+        "producer": "fox",
+        "releaseDate": "2016-02-11",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/17854bdb-0121-4327-80a0-699fdecd1aaa",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 108,
+            "fullForm": "1h48min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-R"
+                }
+            ],
+            "DJCTQ": {
+                "title": "16"
+            }
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt10676048"
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Deadpool 2",
+            "pt-BR": "Deadpool 2"
+        },
+        "producer": "fox",
+        "releaseDate": "2018-05-17",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/bdcd5a83-ad6e-428f-8c34-63a9cf695048",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 120,
+            "fullForm": "2h0min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-R"
+                }
+            ],
+            "DJCTQ": {
+                "title": "16"
+            }
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt10676048"
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Deadpool & Wolverine",
+            "pt-BR": "Deadpool & Wolverine"
+        },
+        "releaseDate": "2024-07-26",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Disney+",
+                "url": "https://www.disneyplus.com/video/120ae1e6-2240-4924-a4ce-f8de6e28b0b1",
+                "logo": "assets/logos/dplus.png"
+            }
+        ],
+        "theaters": true,
+        "runtime": {
+            "minutes": 127,
+            "fullForm": "2h7min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": "PG-R"
+                }
+            ],
+            "DJCTQ": {
+                "title": "18"
+            }
+        },
+        "rates": {
+            "imdb": {
+                "id": "tt10676048"
+            }
+        },
+        "phase": 5
     }
 ]
