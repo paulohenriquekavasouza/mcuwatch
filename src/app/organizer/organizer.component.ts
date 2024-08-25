@@ -8,6 +8,9 @@ import { Observable } from 'rxjs';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { TranslateService } from '@ngx-translate/core';
 import { ActivatedRoute, Router } from '@angular/router';
+import { IMovie } from './interfaces/movies.interface';
+import { IShows } from './interfaces/shows.interface';
+import { IOneShots } from './interfaces/oneshots.interface';
 
 @Component({
 	selector: 'app-organizer',
@@ -16,9 +19,9 @@ import { ActivatedRoute, Router } from '@angular/router';
 })
 export class OrganizerComponent implements OnInit {
 
-	shows: any = shows;
-	movies: any = movies;
-	oneshots: any = oneshots;
+	shows: IShows[] = shows;
+	movies: IMovie[] = movies;
+	oneshots: IOneShots[] = oneshots;
 	language: string = "";
 	moviesChecked = true;
 	showsChecked = true;
@@ -105,31 +108,31 @@ export class OrganizerComponent implements OnInit {
 		this.frequencyAfterGenerate = this.frequency;
 		new Observable(_ => {
 			// NOW THE FUN STARTS
-			var tempResult: any = [];
+			const tempResult: any = [];
 
 			if (this.moviesChecked) {
-				this.movies?.map((x: any) => {
+				this.movies?.map((x: IMovie) => {
 					if (!x?.producer) {
 						tempResult.push(x)
 					}
 				});
 			}
 			if (this.ssuChecked) {
-				this.movies?.map((x: any) => {
+				this.movies?.map((x: IMovie) => {
 					if (x?.producer === 'sony') {
 						tempResult.push(x);
 					}
 				});
 			}
 			if (this.foxChecked) {
-				this.movies?.map((x: any) => {
+				this.movies?.map((x: IMovie) => {
 					if (x?.producer === 'fox') {
 						tempResult.push(x);
 					}
 				});
 			}
 			if (this.showsChecked) {
-				this.shows?.map((x: any) => x?.seasons?.map((y, index) => y?.episodes?.map((z, indexb) => {
+				this.shows?.map((x: IShows) => x?.seasons?.map((y, index) => y?.episodes?.map((z, indexb) => {
 					z.isSpecialPresentation = x?.isSpecialPresentation;
 					z.showTitles = x?.titles;
 					z.season = index + 1;
@@ -140,7 +143,7 @@ export class OrganizerComponent implements OnInit {
 				})));
 			}
 			if (this.netflixChecked) {
-				this.shows?.map((x: any) => x?.seasons?.map((y, index) => y?.episodes?.map((z, indexb) => {
+				this.shows?.map((x: IShows) => x?.seasons?.map((y, index) => y?.episodes?.map((z, indexb) => {
 					z.showTitles = x?.titles;
 					z.season = index + 1;
 					z.episode = indexb + 1;
@@ -152,7 +155,7 @@ export class OrganizerComponent implements OnInit {
 			}
 
 			if (this.oneShotsChecked) {
-				this.oneshots?.map((x: any) => tempResult.push(x));
+				this.oneshots?.map((x: IOneShots) => tempResult.push(x));
 			}
 
 			if (this.isChronological == 1) {
@@ -170,10 +173,10 @@ export class OrganizerComponent implements OnInit {
 			// MOVIES AND SHOWS ORDERED, NOW WE'RE GOING TO SPLIT IT IN DAYS
 			if (this.frequency == 1) {
 				// EVERYDAY
-				var currentDate = new Date(this.dateStart);
+				const currentDate = new Date(this.dateStart);
 
 				this.result?.forEach((val: any) => {
-					var day = this.days?.find(x => x.day == new Date(currentDate).toISOString().split('T')[0]);
+					const day = this.days?.find(x => x.day == new Date(currentDate).toISOString().split('T')[0]);
 
 					if (day) {
 						if (day?.list?.length < this.quantity) {
@@ -183,14 +186,14 @@ export class OrganizerComponent implements OnInit {
 								currentDate.setDate(currentDate.getDate() + 1);
 							}
 
-							var info = {
+							const info = {
 								day: new Date(currentDate).toISOString().split('T')[0],
 								list: [val]
 							};
 							this.days.push(info);
 						}
 					} else {
-						var info = {
+						const info = {
 							day: new Date(currentDate).toISOString().split('T')[0],
 							list: [val]
 						};
@@ -199,14 +202,14 @@ export class OrganizerComponent implements OnInit {
 				});
 			} else {
 				// ONLY WEEKENDS
-				var currentDate = new Date(this.dateStart);
+				let currentDate = new Date(this.dateStart);
 
 				if (currentDate.getDay() >= 0 && currentDate.getDay() <= 5) {
 					currentDate = this.nextSaturday(new Date(this.dateStart));
 				}
 
 				this.result?.forEach((val: any) => {
-					var day = this.days?.find(x => x.day == new Date(currentDate).toISOString().split('T')[0]);
+					const day = this.days?.find(x => x.day == new Date(currentDate).toISOString().split('T')[0]);
 
 					if (day) {
 						if (day?.list?.length < this.quantity) {
@@ -219,7 +222,7 @@ export class OrganizerComponent implements OnInit {
 									currentDate.setDate(currentDate.getDate() + 1);
 								}
 							}
-							var info = {
+							const info = {
 								day: new Date(currentDate).toISOString().split('T')[0],
 								list: [val]
 							};
@@ -227,7 +230,7 @@ export class OrganizerComponent implements OnInit {
 						}
 					} else {
 						currentDate.setHours(0, 0, 0);
-						var info = {
+						const info = {
 							day: new Date(currentDate).toISOString().split('T')[0],
 							list: [val]
 						};
@@ -237,7 +240,7 @@ export class OrganizerComponent implements OnInit {
 			}
 
 			this.days?.forEach(day => {
-				var titlesNotInTheaters = day?.list?.filter(x => !x?.theaters);
+				const titlesNotInTheaters = day?.list?.filter(x => !x?.theaters);
 				day.totalTime = titlesNotInTheaters?.reduce((acc, obj) => acc + obj?.runtime?.minutes, 0);
 			});
 
@@ -245,7 +248,7 @@ export class OrganizerComponent implements OnInit {
 				_.next();
 
 				if (timeOut != 0) {
-					var minDate = new Date(new Date(this.minDate).setDate(this.minDate.getDate() - 1));
+					const minDate = new Date(new Date(this.minDate).setDate(this.minDate.getDate() - 1));
 					minDate.setHours(20, 59, 59);
 					this.router.navigate(['/organizer'], { queryParams: { moviesChecked: this.moviesChecked, showsChecked: this.showsChecked, oneShotsChecked: this.oneShotsChecked, netflixChecked: this.netflixChecked, ssuChecked: this.ssuChecked, foxChecked: this.foxChecked, isChronological: this.isChronological == 2 ? true : false, frequency: this.frequency, quantity: this.quantity, minDate: minDate?.toISOString() } });
 				}

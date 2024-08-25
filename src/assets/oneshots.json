@@ -21,12 +21,10 @@
             "fullForm": "3min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -55,12 +53,10 @@
             "fullForm": "3min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -89,16 +85,12 @@
             "fullForm": "12min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": "L"
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "L"
+            }
         },
         "phase": 1,
         "isOneShot": true
@@ -125,12 +117,10 @@
             "fullForm": "15min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -159,12 +149,10 @@
             "fullForm": "14min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -193,16 +181,12 @@
             "fullForm": "3min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": "L"
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "L"
+            }
         },
         "phase": 3,
         "isOneShot": true
@@ -229,12 +213,10 @@
             "fullForm": "4min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -263,12 +245,10 @@
             "fullForm": "6min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
