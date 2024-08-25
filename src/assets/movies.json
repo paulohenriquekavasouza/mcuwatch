@@ -21,12 +21,10 @@
             "fullForm": "2h7min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -53,12 +51,10 @@
             "fullForm": "1h52min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -91,12 +87,10 @@
             "fullForm": "2h5min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -129,12 +123,10 @@
             "fullForm": "1h57min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -167,12 +159,10 @@
             "fullForm": "2h6min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -205,12 +195,10 @@
             "fullForm": "2h23min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -243,12 +231,10 @@
             "fullForm": "2h12min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -281,12 +267,10 @@
             "fullForm": "1h52min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -319,12 +303,10 @@
             "fullForm": "2h16min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -357,12 +339,10 @@
             "fullForm": "2h2min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -395,12 +375,10 @@
             "fullForm": "2h21min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -433,12 +411,10 @@
             "fullForm": "1h58min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -471,12 +447,10 @@
             "fullForm": "2h28min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -509,12 +483,10 @@
             "fullForm": "1h55min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -547,12 +519,10 @@
             "fullForm": "2h7min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -585,12 +555,10 @@
             "fullForm": "2h10min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -623,12 +591,10 @@
             "fullForm": "2h13min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -661,12 +627,10 @@
             "fullForm": "2h18min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -699,12 +663,10 @@
             "fullForm": "2h29min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -737,12 +699,10 @@
             "fullForm": "1h58min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -775,12 +735,10 @@
             "fullForm": "2h4min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -813,12 +771,10 @@
             "fullForm": "3h2min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -845,12 +801,10 @@
             "fullForm": "2h10min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -883,12 +837,10 @@
             "fullForm": "2h13min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -921,12 +873,10 @@
             "fullForm": "2h12min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -959,12 +909,10 @@
             "fullForm": "2h37min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -997,12 +945,10 @@
             "fullForm": "2h10min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -1035,12 +981,10 @@
             "fullForm": "2h6min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1074,12 +1018,10 @@
             "fullForm": "1h58min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1113,12 +1055,10 @@
             "fullForm": "2h41min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -1152,12 +1092,10 @@
             "fullForm": "2h5min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -1191,12 +1129,10 @@
             "fullForm": "2h29min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1230,12 +1166,10 @@
             "fullForm": "1h45min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1270,12 +1204,10 @@
             "fullForm": "2h1min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -1310,12 +1242,10 @@
             "fullForm": "2h7min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -1350,12 +1280,10 @@
             "fullForm": "2h19min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -1390,12 +1318,10 @@
             "fullForm": "2h16min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -1430,12 +1356,10 @@
             "fullForm": "2h22min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -1470,12 +1394,10 @@
             "fullForm": "1h52min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1510,12 +1432,10 @@
             "fullForm": "1h37min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1550,12 +1470,10 @@
             "fullForm": "1h44min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1590,12 +1508,10 @@
             "fullForm": "1h56min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -1630,12 +1546,10 @@
             "fullForm": "2h20min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "10"
             }
         },
@@ -1670,16 +1584,12 @@
             "fullForm": "1h44min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -1712,16 +1622,12 @@
             "fullForm": "2h13min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -1754,16 +1660,12 @@
             "fullForm": "1h44min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -1796,16 +1698,12 @@
             "fullForm": "1h47min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -1838,16 +1736,12 @@
             "fullForm": "2h12min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -1880,16 +1774,12 @@
             "fullForm": "2h06min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -1922,16 +1812,12 @@
             "fullForm": "2h12min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -1964,16 +1850,12 @@
             "fullForm": "2h24min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -2006,16 +1888,12 @@
             "fullForm": "2h17min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -2048,16 +1926,12 @@
             "fullForm": "1h54min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -2090,16 +1964,12 @@
             "fullForm": "1h34min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -2132,16 +2002,12 @@
             "fullForm": "2h13min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -2174,16 +2040,12 @@
             "fullForm": "2h5min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -2216,16 +2078,12 @@
             "fullForm": "1h32min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -2258,16 +2116,12 @@
             "fullForm": "1h46min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": ""
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": ""
+            }
         },
         "rates": {
             "imdb": {
@@ -2300,18 +2154,16 @@
             "fullForm": "1h48min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-R"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "16"
             }
         },
         "rates": {
             "imdb": {
-                "id": "tt10676048"
+                "id": "tt1431045"
             }
         },
         "phase": 0
@@ -2340,18 +2192,16 @@
             "fullForm": "2h0min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-R"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "16"
             }
         },
         "rates": {
             "imdb": {
-                "id": "tt10676048"
+                "id": "tt5463162"
             }
         },
         "phase": 0
@@ -2379,18 +2229,16 @@
             "fullForm": "2h7min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-R"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "18"
             }
         },
         "rates": {
             "imdb": {
-                "id": "tt10676048"
+                "id": "tt6263850"
             }
         },
         "phase": 5
@@ -2419,12 +2267,10 @@
             "fullForm": "1h56min"
         },
         "ratings": {
-            "ESRB": [
-                {
-                    "title": ""
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },

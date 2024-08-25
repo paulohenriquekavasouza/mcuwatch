@@ -40,12 +40,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "12"
                             }
                         },
@@ -77,12 +75,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "12"
                             }
                         },
@@ -114,12 +110,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "12"
                             }
                         },
@@ -151,12 +145,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "12"
                             }
                         },
@@ -188,12 +180,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "12"
                             }
                         },
@@ -225,12 +215,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "12"
                             }
                         },
@@ -262,12 +250,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "12"
                             }
                         },
@@ -299,12 +285,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "12"
                             }
                         },
@@ -336,12 +320,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "12"
                             }
                         },
@@ -355,12 +337,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -412,12 +392,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -449,12 +427,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -486,12 +462,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -523,12 +497,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -562,10 +534,10 @@
                         "ratings": {
                             "releaseOrder": [
                                 {
-                                    "title": "PG-?"
+                                    "title": ""
                                 }
                             ],
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -597,12 +569,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -616,12 +586,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },
@@ -673,12 +641,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -710,12 +676,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -747,12 +711,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -784,12 +746,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -821,12 +781,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -858,12 +816,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -900,7 +856,7 @@
                         ],
                         "releaseDate": "2023-10-05",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -927,7 +883,7 @@
                         ],
                         "releaseDate": "2023-10-12",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -954,7 +910,7 @@
                         ],
                         "releaseDate": "2023-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -981,7 +937,7 @@
                         ],
                         "releaseDate": "2023-10-26",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1008,7 +964,7 @@
                         ],
                         "releaseDate": "2023-11-02",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1035,7 +991,7 @@
                         ],
                         "releaseDate": "2023-11-09",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1045,12 +1001,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1102,12 +1056,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1139,12 +1091,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1176,12 +1126,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1213,12 +1161,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1250,12 +1196,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1287,12 +1231,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1324,12 +1266,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1361,12 +1301,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1398,12 +1336,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1440,7 +1376,7 @@
                         ],
                         "releaseDate": "2023-12-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1467,7 +1403,7 @@
                         ],
                         "releaseDate": "2023-12-23",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1494,7 +1430,7 @@
                         ],
                         "releaseDate": "2023-12-24",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1521,7 +1457,7 @@
                         ],
                         "releaseDate": "2023-12-25",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1548,7 +1484,7 @@
                         ],
                         "releaseDate": "2023-12-26",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1575,7 +1511,7 @@
                         ],
                         "releaseDate": "2023-12-27",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1602,7 +1538,7 @@
                         ],
                         "releaseDate": "2023-12-28",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1629,7 +1565,7 @@
                         ],
                         "releaseDate": "2023-12-29",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1656,7 +1592,7 @@
                         ],
                         "releaseDate": "2023-12-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -1666,12 +1602,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1723,12 +1657,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1760,12 +1692,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1797,12 +1727,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1834,12 +1762,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1871,12 +1797,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1908,12 +1832,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -1927,12 +1849,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -1984,12 +1904,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2021,12 +1939,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2058,12 +1974,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2095,12 +2009,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2132,12 +2044,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2169,12 +2079,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2188,12 +2096,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -2245,12 +2151,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2282,12 +2186,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2319,12 +2221,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2356,12 +2256,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2393,12 +2291,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2430,12 +2326,10 @@
                             "chronologicalOrder": 0
                         },
                         "ratings": {
-                            "ESRB": [
-                                {
-                                    "title": "PG-?"
-                                }
-                            ],
-                            "DJCTQ": {
+                            "esrb": {
+                                "title": ""
+                            },
+                            "djctq": {
                                 "title": "14"
                             }
                         },
@@ -2449,12 +2343,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -2506,7 +2398,7 @@
                         ],
                         "releaseDate": "2022-08-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -2533,7 +2425,7 @@
                         ],
                         "releaseDate": "2022-08-25",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -2560,7 +2452,7 @@
                         ],
                         "releaseDate": "2022-09-01",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -2587,7 +2479,7 @@
                         ],
                         "releaseDate": "2022-09-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -2614,7 +2506,7 @@
                         ],
                         "releaseDate": "2022-09-15",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -2641,7 +2533,7 @@
                         ],
                         "releaseDate": "2022-09-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -2668,7 +2560,7 @@
                         ],
                         "releaseDate": "2022-09-29",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -2695,7 +2587,7 @@
                         ],
                         "releaseDate": "2022-10-06",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -2722,7 +2614,7 @@
                         ],
                         "releaseDate": "2022-10-13",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -2731,12 +2623,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -2788,7 +2678,7 @@
                         ],
                         "releaseDate": "2023-06-21",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -2815,7 +2705,7 @@
                         ],
                         "releaseDate": "2023-06-28",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -2842,7 +2732,7 @@
                         ],
                         "releaseDate": "2023-07-05",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -2869,7 +2759,7 @@
                         ],
                         "releaseDate": "2023-07-12",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -2896,7 +2786,7 @@
                         ],
                         "releaseDate": "2023-07-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -2923,7 +2813,7 @@
                         ],
                         "releaseDate": "2023-07-26",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "14"
                             }
                         }
@@ -2932,12 +2822,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -2989,11 +2877,9 @@
                         ],
                         "releaseDate": "2022-08-10",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     },
                     {
@@ -3018,11 +2904,9 @@
                         ],
                         "releaseDate": "2022-08-10",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     },
                     {
@@ -3047,11 +2931,9 @@
                         ],
                         "releaseDate": "2022-08-10",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     },
                     {
@@ -3076,11 +2958,9 @@
                         ],
                         "releaseDate": "2022-08-10",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     },
                     {
@@ -3105,11 +2985,9 @@
                         ],
                         "releaseDate": "2022-08-10",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     }
                 ]
@@ -3138,11 +3016,9 @@
                         ],
                         "releaseDate": "2023-09-06",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     },
                     {
@@ -3167,11 +3043,9 @@
                         ],
                         "releaseDate": "2023-09-06",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     },
                     {
@@ -3196,11 +3070,9 @@
                         ],
                         "releaseDate": "2023-09-06",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     },
                     {
@@ -3225,11 +3097,9 @@
                         ],
                         "releaseDate": "2023-09-06",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     },
                     {
@@ -3254,27 +3124,21 @@
                         ],
                         "releaseDate": "2023-09-06",
                         "ratings": {
-                            "DJCTQ": [
-                                {
-                                    "title": "L"
-                                }
-                            ]
+                            "djctq": {
+                                "title": "L"
+                            }
                         }
                     }
                 ]
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": "L"
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "L"
+            }
         },
         "rates": {
             "imdb": {
@@ -3324,7 +3188,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3351,7 +3215,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3378,7 +3242,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3405,7 +3269,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3432,7 +3296,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3459,7 +3323,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3486,7 +3350,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3513,7 +3377,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3540,7 +3404,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3567,7 +3431,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3594,7 +3458,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3621,7 +3485,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3648,7 +3512,7 @@
                         ],
                         "releaseDate": "2015-04-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3679,7 +3543,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3706,7 +3570,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3733,7 +3597,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3760,7 +3624,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3787,7 +3651,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3814,7 +3678,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3841,7 +3705,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3868,7 +3732,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3895,7 +3759,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3922,7 +3786,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3949,7 +3813,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -3976,7 +3840,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4003,7 +3867,7 @@
                         ],
                         "releaseDate": "2016-03-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4034,7 +3898,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4061,7 +3925,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4088,7 +3952,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4115,7 +3979,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4142,7 +4006,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4169,7 +4033,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4196,7 +4060,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4223,7 +4087,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4250,7 +4114,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4277,7 +4141,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4304,7 +4168,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4331,7 +4195,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4358,7 +4222,7 @@
                         ],
                         "releaseDate": "2018-10-19",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -4367,16 +4231,12 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": "L"
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "L"
+            }
         },
         "rates": {
             "imdb": {
@@ -4427,7 +4287,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4454,7 +4314,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4481,7 +4341,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4508,7 +4368,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4535,7 +4395,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4562,7 +4422,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4589,7 +4449,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4616,7 +4476,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4643,7 +4503,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4670,7 +4530,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4697,7 +4557,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4724,7 +4584,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4751,7 +4611,7 @@
                         ],
                         "releaseDate": "2015-11-20",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4782,7 +4642,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4809,7 +4669,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4836,7 +4696,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4863,7 +4723,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4890,7 +4750,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4917,7 +4777,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4944,7 +4804,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4971,7 +4831,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -4998,7 +4858,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5025,7 +4885,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5052,7 +4912,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5079,7 +4939,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5106,7 +4966,7 @@
                         ],
                         "releaseDate": "2018-03-08",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5137,7 +4997,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5164,7 +5024,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5191,7 +5051,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5218,7 +5078,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5245,7 +5105,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5272,7 +5132,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5299,7 +5159,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5326,7 +5186,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5353,7 +5213,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5380,7 +5240,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5407,7 +5267,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5434,7 +5294,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5461,7 +5321,7 @@
                         ],
                         "releaseDate": "2019-06-14",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5470,16 +5330,12 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": "L"
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "L"
+            }
         },
         "rates": {
             "imdb": {
@@ -5530,7 +5386,7 @@
                         ],
                         "releaseDate": "2024-01-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5557,7 +5413,7 @@
                         ],
                         "releaseDate": "2024-01-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5584,7 +5440,7 @@
                         ],
                         "releaseDate": "2024-01-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5611,7 +5467,7 @@
                         ],
                         "releaseDate": "2024-01-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5638,7 +5494,7 @@
                         ],
                         "releaseDate": "2024-01-10",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5647,12 +5503,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "16"
             }
         },
@@ -5704,7 +5558,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5731,7 +5585,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5758,7 +5612,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5785,7 +5639,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5812,7 +5666,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5839,7 +5693,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5866,7 +5720,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5893,7 +5747,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5920,7 +5774,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5947,7 +5801,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -5974,7 +5828,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6001,7 +5855,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6028,7 +5882,7 @@
                         ],
                         "releaseDate": "2016-09-30",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6059,7 +5913,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6086,7 +5940,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6113,7 +5967,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6140,7 +5994,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6167,7 +6021,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6194,7 +6048,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6221,7 +6075,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6248,7 +6102,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6275,7 +6129,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6302,7 +6156,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6329,7 +6183,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6356,7 +6210,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6383,7 +6237,7 @@
                         ],
                         "releaseDate": "2018-06-22",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -6392,16 +6246,12 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": "L"
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "L"
+            }
         },
         "rates": {
             "imdb": {
@@ -6452,7 +6302,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6479,7 +6329,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6506,7 +6356,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6533,7 +6383,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6560,7 +6410,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6587,7 +6437,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6614,7 +6464,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6641,7 +6491,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6668,7 +6518,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6695,7 +6545,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6722,7 +6572,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6749,7 +6599,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6776,7 +6626,7 @@
                         ],
                         "releaseDate": "2017-03-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6807,7 +6657,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6834,7 +6684,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6861,7 +6711,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6888,7 +6738,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6915,7 +6765,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6942,7 +6792,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6969,7 +6819,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -6996,7 +6846,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7023,7 +6873,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7050,7 +6900,7 @@
                         ],
                         "releaseDate": "2018-09-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7059,16 +6909,12 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": "L"
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "L"
+            }
         },
         "rates": {
             "imdb": {
@@ -7119,7 +6965,7 @@
                         ],
                         "releaseDate": "2017-08-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7146,7 +6992,7 @@
                         ],
                         "releaseDate": "2017-08-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7173,7 +7019,7 @@
                         ],
                         "releaseDate": "2017-08-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7200,7 +7046,7 @@
                         ],
                         "releaseDate": "2017-08-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7227,7 +7073,7 @@
                         ],
                         "releaseDate": "2017-08-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7254,7 +7100,7 @@
                         ],
                         "releaseDate": "2017-08-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7281,7 +7127,7 @@
                         ],
                         "releaseDate": "2017-08-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7308,7 +7154,7 @@
                         ],
                         "releaseDate": "2017-08-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7317,16 +7163,12 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": "L"
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "L"
+            }
         },
         "rates": {
             "imdb": {
@@ -7377,7 +7219,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7404,7 +7246,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7431,7 +7273,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7458,7 +7300,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7485,7 +7327,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7512,7 +7354,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7539,7 +7381,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7566,7 +7408,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7593,7 +7435,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7620,7 +7462,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7647,7 +7489,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7674,7 +7516,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7701,7 +7543,7 @@
                         ],
                         "releaseDate": "2017-11-17",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7732,7 +7574,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7759,7 +7601,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7786,7 +7628,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7813,7 +7655,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7840,7 +7682,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7867,7 +7709,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7894,7 +7736,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7921,7 +7763,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7948,7 +7790,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -7975,7 +7817,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -8002,7 +7844,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -8029,7 +7871,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -8056,7 +7898,7 @@
                         ],
                         "releaseDate": "2019-01-18",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "18"
                             }
                         }
@@ -8065,16 +7907,12 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": [
-                {
-                    "title": "L"
-                }
-            ]
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "L"
+            }
         },
         "rates": {
             "imdb": {
@@ -8125,7 +7963,7 @@
                         ],
                         "releaseDate": "2023-10-07",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "16"
                             }
                         }
@@ -8134,12 +7972,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "14"
             }
         },
@@ -8192,7 +8028,7 @@
                         ],
                         "releaseDate": "2022-11-25",
                         "ratings": {
-                            "DJCTQ": {
+                            "djctq": {
                                 "title": "12"
                             }
                         }
@@ -8201,12 +8037,10 @@
             }
         ],
         "ratings": {
-            "ESRB": [
-                {
-                    "title": "PG-?"
-                }
-            ],
-            "DJCTQ": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
                 "title": "12"
             }
         },

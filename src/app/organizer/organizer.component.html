@@ -187,7 +187,7 @@
                                     <div class="d-flex flex-row flex-wrap align-items-center">
                                         <div *ngIf="item?.showTitles" style="font-size: 11px">
                                             {{item?.showTitles[language]}} <img
-                                                src="/assets/logos/{{item?.ratings['DJCTQ']?.title}}.png" width="16"
+                                                src="/assets/logos/{{item?.ratings?.djctq?.title}}.png" width="16"
                                                 height="16" />
                                         </div>
                                     </div>
@@ -208,7 +208,7 @@
                                         </div>
                                         <div class="px-1 text-muted" style="font-size: 11px">
                                             <i class="fas fa-calendar"></i> {{item?.releaseDate | date:'dd/MM/yyyy'}}
-                                            <img src="/assets/logos/{{item?.ratings['DJCTQ']?.title}}.png" width="16"
+                                            <img src="/assets/logos/{{item?.ratings?.djctq?.title}}.png" width="16"
                                                 height="16" *ngIf="!item?.showTitles" />
                                         </div>
                                         <!-- <ng-container *ngIf="!item?.theaters">

@@ -8,6 +8,9 @@ import { Observable } from 'rxjs';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { TranslateService } from '@ngx-translate/core';
 import { ActivatedRoute, Router } from '@angular/router';
+import { IMovie } from './interfaces/movies.interface';
+import { IShows } from './interfaces/shows.interface';
+import { IOneShots } from './interfaces/oneshots.interface';
 
 @Component({
 	selector: 'app-organizer',
@@ -16,9 +19,9 @@ import { ActivatedRoute, Router } from '@angular/router';
 })
 export class OrganizerComponent implements OnInit {
 
-	shows: any = shows;
-	movies: any = movies;
-	oneshots: any = oneshots;
+	shows: IShows[] = shows;
+	movies: IMovie[] = movies;
+	oneshots: IOneShots[] = oneshots;
 	language: string = "";
 	moviesChecked = true;
 	showsChecked = true;
@@ -108,21 +111,21 @@ export class OrganizerComponent implements OnInit {
 			var tempResult: any = [];
 
 			if (this.moviesChecked) {
-				this.movies?.map((x: any) => {
+				this.movies?.map((x: IMovie) => {
 					if (!x?.producer) {
 						tempResult.push(x)
 					}
 				});
 			}
 			if (this.ssuChecked) {
-				this.movies?.map((x: any) => {
+				this.movies?.map((x: IMovie) => {
 					if (x?.producer === 'sony') {
 						tempResult.push(x);
 					}
 				});
 			}
 			if (this.foxChecked) {
-				this.movies?.map((x: any) => {
+				this.movies?.map((x: IMovie) => {
 					if (x?.producer === 'fox') {
 						tempResult.push(x);
 					}
