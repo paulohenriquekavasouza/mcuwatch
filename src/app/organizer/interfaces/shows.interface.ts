@@ -11,9 +11,11 @@ export interface IShows {
     phase?: number;
     isSpecialPresentation?: boolean;
     producer?: string;
+    theaters?: boolean;
+    runtime?: IRuntime;
 }
 
-interface ISeasons {
+export interface ISeasons {
     episodes?: IEpisodes[];
     phase?: number;
 }

@@ -8,9 +8,10 @@ import { Observable } from 'rxjs';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { TranslateService } from '@ngx-translate/core';
 import { ActivatedRoute, Router } from '@angular/router';
-import { IMovie } from './interfaces/movies.interface';
+import { IMovies } from './interfaces/movies.interface';
 import { IShows } from './interfaces/shows.interface';
 import { IOneShots } from './interfaces/oneshots.interface';
+import { IDays, IList } from './interfaces/organizer.interface';
 
 @Component({
 	selector: 'app-organizer',
@@ -20,31 +21,33 @@ import { IOneShots } from './interfaces/oneshots.interface';
 export class OrganizerComponent implements OnInit {
 
 	shows: IShows[] = shows;
-	movies: IMovie[] = movies;
+	movies: IMovies[] = movies;
 	oneshots: IOneShots[] = oneshots;
 	language: string = "";
-	moviesChecked = true;
-	showsChecked = true;
-	ssuChecked = false;
-	foxChecked = false;
-	netflixChecked = false;
-	oneShotsChecked = false;
-	isChronological = 1;
-	result: any = [];
-	loading = false;
-	minDate = new Date();
-	dateStart: any;
-	frequency = 0;
-	frequencyAfterGenerate = 0;
-	quantity = 0;
-	days: any = [];
-	selectedMovie: any;
+	moviesChecked: boolean = true;
+	showsChecked: boolean = true;
+	ssuChecked: boolean = false;
+	foxChecked: boolean = false;
+	netflixChecked: boolean = false;
+	oneShotsChecked: boolean = false;
+	isChronological: number = 1;
+	result: IList[] = [];
+	loading: boolean = false;
+	minDate: Date = new Date();
+	dateStart: Date;
+	frequency: number = 0;
+	frequencyAfterGenerate: number = 0;
+	quantity: number = 0;
+	days: IDays[] = [];
+	selectedMovie?: IMovies;
 
-	constructor(public appService: AppService,
+	constructor(
+		public appService: AppService,
 		public translate: TranslateService,
 		private activatedRoute: ActivatedRoute,
 		private router: Router,
-		private modalService: NgbModal) {
+		private modalService: NgbModal
+	) {
 		this.appService.getLanguage().subscribe(val => {
 			this.language = val;
 			this.translate.use(val);
@@ -102,7 +105,7 @@ export class OrganizerComponent implements OnInit {
 		return this.frequency > 0 && this.quantity > 0 /*&& (this.moviesChecked || this.showsChecked)*/;
 	}
 
-	generate(timeOut = 1000) {
+	generate(timeOut: number = 1000) {
 		this.loading = true;
 		this.days = [];
 		this.frequencyAfterGenerate = this.frequency;
@@ -111,21 +114,21 @@ export class OrganizerComponent implements OnInit {
 			const tempResult: any = [];
 
 			if (this.moviesChecked) {
-				this.movies?.map((x: IMovie) => {
+				this.movies?.map((x: IMovies) => {
 					if (!x?.producer) {
 						tempResult.push(x)
 					}
 				});
 			}
 			if (this.ssuChecked) {
-				this.movies?.map((x: IMovie) => {
+				this.movies?.map((x: IMovies) => {
 					if (x?.producer === 'sony') {
 						tempResult.push(x);
 					}
 				});
 			}
 			if (this.foxChecked) {
-				this.movies?.map((x: IMovie) => {
+				this.movies?.map((x: IMovies) => {
 					if (x?.producer === 'fox') {
 						tempResult.push(x);
 					}
@@ -175,7 +178,7 @@ export class OrganizerComponent implements OnInit {
 				// EVERYDAY
 				const currentDate = new Date(this.dateStart);
 
-				this.result?.forEach((val: any) => {
+				this.result?.forEach((val: IList) => {
 					const day = this.days?.find(x => x.day == new Date(currentDate).toISOString().split('T')[0]);
 
 					if (day) {
@@ -186,7 +189,7 @@ export class OrganizerComponent implements OnInit {
 								currentDate.setDate(currentDate.getDate() + 1);
 							}
 
-							const info = {
+							const info: any = {
 								day: new Date(currentDate).toISOString().split('T')[0],
 								list: [val]
 							};
@@ -208,7 +211,7 @@ export class OrganizerComponent implements OnInit {
 					currentDate = this.nextSaturday(new Date(this.dateStart));
 				}
 
-				this.result?.forEach((val: any) => {
+				this.result?.forEach((val: IList) => {
 					const day = this.days?.find(x => x.day == new Date(currentDate).toISOString().split('T')[0]);
 
 					if (day) {
@@ -239,9 +242,9 @@ export class OrganizerComponent implements OnInit {
 				});
 			}
 
-			this.days?.forEach(day => {
+			this.days?.forEach((day: IDays) => {
 				const titlesNotInTheaters = day?.list?.filter(x => !x?.theaters);
-				day.totalTime = titlesNotInTheaters?.reduce((acc, obj) => acc + obj?.runtime?.minutes, 0);
+				day.totalTime = titlesNotInTheaters?.reduce((acc, obj) => acc + (obj?.runtime?.minutes ?? 0), 0);
 			});
 
 			setTimeout(() => {

@@ -1,11 +1,11 @@
-export interface IMovie {
+export interface IMovies {
     titles?: ITitles;
     producer?: string;
     releaseDate?: string;
     orders?: IOrders;
     streamings?: IStreaming[];
     theaters?: boolean;
-    runtime?: IRuntime;
+    runtime: IRuntime;
     ratings?: IRatings;
     rates?: IRates;
     phase?: number;

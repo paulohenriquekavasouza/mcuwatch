@@ -139,7 +139,7 @@
         </ng-container>
         <h2 *ngIf="loading">{{"ORGANIZER.LOADING" | translate}}</h2>
         <div class="row" *ngIf="!loading">
-            <ng-container *ngIf="days?.length > 0">
+            <ng-container *ngIf="days.length > 0">
                 <div class="d-flex flex-row align-items-center">
                     <div class="pe-2">
                         <button class="btn btn-success btn-sm" (click)="days = []" [ngbTooltip]="('BACK' | translate)">
@@ -167,7 +167,7 @@
                                 {{day?.day | date:'fullDate'}}
                             </div>
                             <div class="small text-muted">
-                                <i class="fas fa-clock"></i> {{day?.totalTime | timetohours}}
+                                <i class="fas fa-clock"></i> {{(day?.totalTime || 0) | timetohours}}
                             </div>
                         </div>
                     </div>
@@ -182,11 +182,11 @@
                                                 {{"ORGANIZER.SEASONSABBREVIATE" |
                                                 translate}}{{item?.season}}E{{item?.episode}}
                                             </span>
-                                        </span> {{item?.titles[language]}}
+                                        </span> {{item.titles[language]}}
                                     </div>
                                     <div class="d-flex flex-row flex-wrap align-items-center">
                                         <div *ngIf="item?.showTitles" style="font-size: 11px">
-                                            {{item?.showTitles[language]}} <img
+                                            {{item.showTitles[language]}} <img
                                                 src="/assets/logos/{{item?.ratings?.djctq?.title}}.png" width="16"
                                                 height="16" />
                                         </div>
@@ -219,7 +219,7 @@
                                             </a>
                                         </ng-container> -->
                                     </div>
-                                    <ng-container *ngIf="item?.streamings?.length > 0 && !item?.theaters">
+                                    <ng-container *ngIf="item.streamings.length > 0 && !item?.theaters">
                                         <a href="{{streaming?.url}}" class="text-decoration-none" target="_blank"
                                             *ngFor="let streaming of item?.streamings" [ngbTooltip]="streaming?.name"
                                             container="body">
