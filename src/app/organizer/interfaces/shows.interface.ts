@@ -10,6 +10,7 @@ export interface IShows {
     rates?: IRates;
     phase?: number;
     isSpecialPresentation?: boolean;
+    producer?: string;
 }
 
 interface ISeasons {
@@ -25,4 +26,9 @@ interface IEpisodes {
     ratings?: IRatings;
     rates?: IRates;
     runtime?: IRuntime;
+    isSpecialPresentation?: boolean;
+    showTitles?: ITitles;
+    season?: number;
+    episode?: number;
+    producer?: string;
 }
