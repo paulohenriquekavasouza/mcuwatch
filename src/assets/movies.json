@@ -1579,9 +1579,9 @@
         },
         "streamings": [
             {
-                "name": "Disney+",
-                "url": "https://www.disneyplus.com/video/9f80d495-9372-4623-bd94-bb3fbaa2c68a?distributionPartner=google",
-                "logo": "assets/logos/dplus.png"
+                "name": "Prime Video",
+                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.eab8bae1-f749-6d5c-1fcb-dd8a92c7b162?autoplay=0&ref_=atv_cf_strg_wb",
+                "logo": "assets/logos/primevideo.png"
             }
         ],
         "theaters": false,
@@ -1620,7 +1620,7 @@
         "streamings": [
             {
                 "name": "Max",
-                "url": "https://play.max.com/feature/urn:hbo:feature:GZS_zdAcKjrqspgEAABKH?source=googleHBOMAX&action=open",
+                "url": "https://play.max.com/movie/08f3260f-1512-4c90-a3df-fc2e407ba708",
                 "logo": "assets/logos/max.png"
             }
         ],
@@ -2394,5 +2394,45 @@
             }
         },
         "phase": 5
+    },
+    {
+        "titles": {
+            "en-US": "Madame Web",
+            "pt-BR": "Madame Teia"
+        },
+        "producer": "sony",
+        "releaseDate": "2024-02-15",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [
+            {
+                "name": "Max",
+                "url": "https://www.max.com/movies/61fde273-8fb2-4d10-8910-be2d4bc14e7c?utm_source=universal_search",
+                "logo": "assets/logos/max.png"
+            }
+        ],
+        "theaters": false,
+        "runtime": {
+            "minutes": 116,
+            "fullForm": "1h56min"
+        },
+        "ratings": {
+            "ESRB": [
+                {
+                    "title": ""
+                }
+            ],
+            "DJCTQ": {
+                "title": "14"
+            }
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
     }
 ]
