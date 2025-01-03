@@ -196,7 +196,7 @@
                                             [ngbTooltip]="!item?.showTitles && !item?.isOneShot ? ('ORGANIZER.MOVIE' | translate) : (item?.isSpecialPresentation ? ('ORGANIZER.SPECIALPRESENTATION' | translate) : (item?.isOneShot ? ('ORGANIZER.ONESHOT' | translate) : ('ORGANIZER.SHOW' | translate)))">
                                             <i class="fas fa-film"
                                                 *ngIf="!item?.showTitles && !item?.isSpecialPresentation && !item?.isOneShot"></i>
-                                            <i class="fas fa-video"
+                                            <i class="fas fa-tv"
                                                 *ngIf="item?.showTitles && !item?.isSpecialPresentation && !item?.isOneShot"></i>
                                             <i class="fas fa-star"
                                                 *ngIf="item?.showTitles && item?.isSpecialPresentation && !item?.isOneShot"></i>

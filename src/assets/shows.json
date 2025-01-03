@@ -1599,6 +1599,227 @@
                     }
                 ],
                 "phase": 5
+            },
+            {
+                "episodes": [
+                    {
+                        "titles": {
+                            "en-US": "What if… The Hulk Fought the Mech Avengers?",
+                            "pt-BR": "E se… O Hulk lutasse contra os Vingadores Mech?"
+                        },
+                        "runtime": {
+                            "minutes": 31,
+                            "fullForm": "31min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/play/e2f03e45-090f-4bfa-b2a8-ee75e8994a76",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2024-12-22",
+                        "ratings": {
+                            "djctq": {
+                                "title": "14"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What if… Agatha Went To Hollywood?",
+                            "pt-BR": "E se… Agatha fosse para Hollywood?"
+                        },
+                        "runtime": {
+                            "minutes": 30,
+                            "fullForm": "30min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/play/5e16f1d4-854a-45fe-8984-c9c1fc07a3f3",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2024-12-23",
+                        "ratings": {
+                            "djctq": {
+                                "title": "14"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What if… The Red Guardian Stopped The Winter Soldier?",
+                            "pt-BR": "E se… O Guardião Vermelho tivesse impedido o Soldado Invernal?"
+                        },
+                        "runtime": {
+                            "minutes": 33,
+                            "fullForm": "33min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/play/5ff8f791-b63f-4374-9689-4a1392b26d8c",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2024-12-24",
+                        "ratings": {
+                            "djctq": {
+                                "title": "14"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What if… Howard The Duck Got Hitched?",
+                            "pt-BR": "E se… Howard, o pato, se casasse?"
+                        },
+                        "runtime": {
+                            "minutes": 33,
+                            "fullForm": "33min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/play/a01b80a0-d2e0-4b97-b7b6-77017f3bfaca",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2024-12-25",
+                        "ratings": {
+                            "djctq": {
+                                "title": "14"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What if… The Emergence Destroyed the Earth?",
+                            "pt-BR": "E se… A Emergência destruísse a Terra?"
+                        },
+                        "runtime": {
+                            "minutes": 33,
+                            "fullForm": "33min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/play/6f66f8de-34a2-45a5-9c30-f5814ae8bbc7",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2024-12-26",
+                        "ratings": {
+                            "djctq": {
+                                "title": "14"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What if… 1872?",
+                            "pt-BR": "E se… 1872?"
+                        },
+                        "runtime": {
+                            "minutes": 32,
+                            "fullForm": "32min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/play/e6539b14-3888-47ea-b551-e7a0e94efae8",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2024-12-27",
+                        "ratings": {
+                            "djctq": {
+                                "title": "14"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What if… The Watcher Disappeared?",
+                            "pt-BR": "E se… O Vigia desaparecesse?"
+                        },
+                        "runtime": {
+                            "minutes": 28,
+                            "fullForm": "28min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/play/485bce80-75a0-4832-8c32-318721fb75ce",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2024-12-28",
+                        "ratings": {
+                            "djctq": {
+                                "title": "14"
+                            }
+                        }
+                    },
+                    {
+                        "titles": {
+                            "en-US": "What if… What If?",
+                            "pt-BR": "E se… E se?"
+                        },
+                        "runtime": {
+                            "minutes": 34,
+                            "fullForm": "34min"
+                        },
+                        "orders": {
+                            "releaseOrder": 0,
+                            "chronologicalOrder": 0
+                        },
+                        "streamings": [
+                            {
+                                "name": "Disney+",
+                                "url": "https://www.disneyplus.com/play/cfc9ac1e-170f-4cf3-8bbe-4208c940e7bb",
+                                "logo": "assets/logos/dplus.png"
+                            }
+                        ],
+                        "releaseDate": "2024-12-29",
+                        "ratings": {
+                            "djctq": {
+                                "title": "14"
+                            }
+                        }
+                    }
+                ],
+                "phase": 5
             }
         ],
         "ratings": {
