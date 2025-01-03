@@ -1381,13 +1381,7 @@
             "releaseOrder": 0,
             "chronologicalOrder": 0
         },
-        "streamings": [
-            {
-                "name": "Telecine",
-                "url": "https://globoplay.globo.com/venom/t/Vfwkt6BtvP",
-                "logo": "assets/logos/telecine.png"
-            }
-        ],
+        "streamings": [],
         "theaters": false,
         "runtime": {
             "minutes": 112,
@@ -1419,13 +1413,7 @@
             "releaseOrder": 0,
             "chronologicalOrder": 0
         },
-        "streamings": [
-            {
-                "name": "Telecine",
-                "url": "https://globoplay.globo.com/venom-tempo-de-carnificina/t/ZtSXmTMd6V",
-                "logo": "assets/logos/telecine.png"
-            }
-        ],
+        "streamings": [],
         "theaters": false,
         "runtime": {
             "minutes": 97,
@@ -1457,13 +1445,7 @@
             "releaseOrder": 0,
             "chronologicalOrder": 0
         },
-        "streamings": [
-            {
-                "name": "Prime Video",
-                "url": "https://www.primevideo.com/dp/amzn1.dv.gti.6cdeda97-297a-4299-97f0-522f0e1ad600?autoplay=0&ref_=atv_cf_strg_wb",
-                "logo": "assets/logos/primevideo.png"
-            }
-        ],
+        "streamings": [],
         "theaters": false,
         "runtime": {
             "minutes": 104,
@@ -2223,7 +2205,7 @@
                 "logo": "assets/logos/dplus.png"
             }
         ],
-        "theaters": true,
+        "theaters": false,
         "runtime": {
             "minutes": 127,
             "fullForm": "2h7min"
@@ -2265,6 +2247,70 @@
         "runtime": {
             "minutes": 116,
             "fullForm": "1h56min"
+        },
+        "ratings": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "14"
+            }
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Venom: The Last Dance",
+            "pt-BR": "Venom: A Última Rodada"
+        },
+        "producer": "sony",
+        "releaseDate": "2024-10-24",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [],
+        "theaters": false,
+        "runtime": {
+            "minutes": 109,
+            "fullForm": "1h49min"
+        },
+        "ratings": {
+            "esrb": {
+                "title": ""
+            },
+            "djctq": {
+                "title": "16"
+            }
+        },
+        "rates": {
+            "imdb": {
+                "id": ""
+            }
+        },
+        "phase": 0
+    },
+    {
+        "titles": {
+            "en-US": "Kraven The Hunter",
+            "pt-BR": "Kraven - O Caçador"
+        },
+        "producer": "sony",
+        "releaseDate": "2024-12-12",
+        "orders": {
+            "releaseOrder": 0,
+            "chronologicalOrder": 0
+        },
+        "streamings": [],
+        "theaters": true,
+        "runtime": {
+            "minutes": 127,
+            "fullForm": "2h7min"
         },
         "ratings": {
             "esrb": {

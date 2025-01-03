@@ -130,5 +130,8 @@
       }
     }
   },
-  "defaultProject": "MCUWatchOrganizer"
+  "defaultProject": "MCUWatchOrganizer",
+  "cli": {
+    "analytics": false
+  }
 }
